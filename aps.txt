@@ -1,0 +1,1150 @@
+FT9081668 	e0:cb:4e:61:4a:0f 	6 (B+G) 	AP 	yes 	50 	
+ACOYTE 	98:fc:11:d1:45:d1 	9 (B+G) 	AP 	yes 	44 	
+FRANARELLA 	94:44:52:3b:14:0d 	6 (B+G) 	AP 	yes 	40 	
+mesh.buenosaireslibre.org 	f8:d1:11:7a:61:b2 	1 (B+G) 	Ad hoc 	no 	35 	
+Juanchi 	00:1a:70:85:51:6f 	6 (B+G) 	AP 	yes 	33 	
+valiger 	00:25:9c:3a:99:16 	6 (B+G) 	AP 	yes 	32 	
+MATSAN 	d8:5d:4c:b3:69:b6 	1 (B+G) 	AP 	yes 	30 	
+marfer 	00:19:e0:f9:ae:2a 	4 (B+G) 	AP 	yes 	30 	
+Paulman 	00:26:ed:99:5c:b3 	1 (B+G) 	AP 	yes 	30 	
+lobosybogota 	68:7f:74:fe:1c:84 	6 (B+G) 	AP 	yes 	29 	
+Lincoln 7 echo 	00:21:29:bd:0a:0e 	6 (B+G) 	AP 	yes 	29 	
+CamposCordoba 	c8:d5:fe:6d:27:5a 	11 (B+G) 	AP 	yes 	27 	
+NETGEAR 	00:14:6c:fa:e4:0c 	11 (B+G) 	AP 	yes 	27 	
+BC01 	00:25:9c:69:71:a7 	6 (B+G) 	AP 	yes 	26 	
+Lopez_Collazo 	54:e6:fc:fd:0c:68 	1 (B+G) 	AP 	yes 	26 	
+Casak 	00:17:9a:f1:d6:d7 	6 (B+G) 	AP 	yes 	26 	
+Bohemio 	00:1b:11:3a:f3:a7 	8 (B+G) 	AP 	yes 	26 	
+cristina 	c8:d5:fe:69:e4:de 	11 (B+G) 	AP 	yes 	26 	
+PLan21 	00:1b:9e:cd:81:78 	6 (B+G) 	AP 	yes 	26 	
+Mush 	00:1e:e5:75:6a:e1 	6 (B+G) 	AP 	yes 	24 	
+frenchys 	00:24:01:1b:16:43 	11 (B+G) 	AP 	yes 	24 	
+Speedy_oot3mq 	50:67:f0:9d:ff:78 	11 (B+G) 	AP 	yes 	23 	
+Fibertel WiFi 	7c:4f:b5:90:71:44 	1 (B+G) 	AP 	yes 	23 	
+FT_ALIPPE 	00:22:15:ee:f7:ab 	6 (B+G) 	AP 	yes 	23 	
+Heim 	b0:48:7a:c0:2e:e0 	9 (B+G) 	AP 	yes 	23 	
+rutenberg 	00:1d:0f:ce:73:72 	6 (B+G) 	AP 	yes 	23 	
+Telecentro-1240 	e0:69:95:21:42:5c 	11 (B+G) 	AP 	yes 	23 	
+SpeedyWiFi 	c8:d5:fe:89:c2:05 	1 (B+G) 	AP 	no 	23 	
+familias 	00:15:ec:15:37:cf 	1 (B+G) 	AP 	yes 	21 	
+matrix 	00:1f:33:be:5b:a4 	11 (B+G) 	AP 	yes 	20 	
+Telecentro-2832 	e0:69:95:76:0e:20 	11 (B+G) 	AP 	yes 	20 	
+NANCY 	c8:d5:fe:70:14:5c 	11 (B+G) 	AP 	yes 	20 	
+Avellaneda 	00:50:18:4e:8a:d0 	9 (B+G) 	AP 	yes 	20 	
+LauRiTa 	30:39:f2:06:16:e6 	1 (B+G) 	AP 	yes 	18 	
+Zabalza 	00:24:01:1a:a0:49 	2 (B+G) 	AP 	yes 	18 	
+diazvelez 	00:18:39:da:05:11 	6 (B+G) 	AP 	yes 	18 	
+Telecentro-39fc 	e0:69:95:8e:2c:86 	1 (B+G) 	AP 	yes 	18 	
+PerdonanosEnzo 	c8:d5:fe:6e:14:5e 	11 (B+G) 	AP 	yes 	16 	
+Speedy-2105 	c8:d5:fe:15:a1:db 	11 (B+G) 	AP 	yes 	16 	
+nacho 	00:21:29:9d:09:fb 	6 (B+G) 	AP 	yes 	16 	
+caballito 	00:0c:42:05:0d:64 	1 (B) 	AP 	no 	16 	
+Speedy-b397 	00:e0:4d:a1:3c:34 	11 (B+G) 	AP 	yes 	15 	
+guille 	00:21:91:35:31:e9 	10 (B+G) 	AP 	yes 	15 	
+Home-Wifi 	b0:48:7a:db:b5:40 	9 (B+G) 	AP 	yes 	15 	
+Telecentro-8c8e 	e0:69:95:52:d3:4d 	1 (B+G) 	AP 	yes 	15 	
+familia 	00:24:01:fd:f8:ae 	11 (B+G) 	AP 	yes 	15 	
+WIFI-MARCE 	54:e6:fc:af:ea:d4 	9 (B+G) 	AP 	yes 	15 	
+Fibertel WiFi183 	74:56:12:36:0d:9a 	1 (B+G) 	AP 	yes 	13 	
+romulo 	00:0e:2e:aa:b8:30 	10 (B+G) 	AP 	yes 	13 	
+SpeedyEster 	c8:d5:fe:6d:24:bc 	1 (B+G) 	AP 	yes 	13 	
+Taitito 	34:4b:50:41:ec:cf 	11 (B+G) 	AP 	yes 	13 	
+Telecentro-6c5a 	e0:69:95:92:dc:c1 	1 (B+G) 	AP 	yes 	13 	
+Fibertel WiFi 	cc:7d:37:e0:a9:f3 	1 (B+G) 	AP 	yes 	12 	
+rolinga 	00:25:f1:85:14:78 	11 (B+G) 	AP 	yes 	10
+ACOYTE 	98:fc:11:d1:45:d1 	9 (B+G) 	AP 	yes 	46 	
+FT9081668 	e0:cb:4e:61:4a:0f 	6 (B+G) 	AP 	yes 	43 	
+mesh.buenosaireslibre.org 	f8:d1:11:7a:61:b2 	1 (B+G) 	Ad hoc 	no 	38 	
+FRANARELLA 	94:44:52:3b:14:0d 	6 (B+G) 	AP 	yes 	36 	
+Lincoln 7 echo 	00:21:29:bd:0a:0e 	6 (B+G) 	AP 	yes 	33 	
+marfer 	00:19:e0:f9:ae:2a 	4 (B+G) 	AP 	yes 	32 	
+lobosybogota 	68:7f:74:fe:1c:84 	6 (B+G) 	AP 	yes 	30 	
+NETGEAR 	00:14:6c:fa:e4:0c 	11 (B+G) 	AP 	yes 	29 	
+Juanchi 	00:1a:70:85:51:6f 	6 (B+G) 	AP 	yes 	29 	
+MATSAN 	d8:5d:4c:b3:69:b6 	1 (B+G) 	AP 	yes 	29 	
+valiger 	00:25:9c:3a:99:16 	6 (B+G) 	AP 	yes 	29 	
+Bohemio 	00:1b:11:3a:f3:a7 	8 (B+G) 	AP 	yes 	27 	
+gabyymarito 	40:4a:03:bd:28:c8 	11 (B+G) 	AP 	yes 	27 	
+Heim 	b0:48:7a:c0:2e:e0 	9 (B+G) 	AP 	yes 	27 	
+cristina 	c8:d5:fe:69:e4:de 	11 (B+G) 	AP 	yes 	27 	
+Paulman 	00:26:ed:99:5c:b3 	1 (B+G) 	AP 	yes 	26 	
+PLan21 	00:1b:9e:cd:81:78 	6 (B+G) 	AP 	yes 	26 	
+arwen 	00:30:4f:76:7c:70 	6 (B+G) 	AP 	yes 	26 	
+nacho 	00:21:29:9d:09:fb 	6 (B+G) 	AP 	yes 	26 	
+Fibertel WiFi 	7c:4f:b5:90:71:44 	1 (B+G) 	AP 	yes 	26 	
+CamposCordoba 	c8:d5:fe:6d:27:5a 	11 (B+G) 	AP 	yes 	24 	
+maru 	00:14:bf:ea:1e:40 	6 (B+G) 	AP 	yes 	24 	
+Morrongo 	f4:ec:38:f4:d6:a0 	5 (B+G) 	AP 	yes 	24 	
+Zabalza 	00:24:01:1a:a0:49 	2 (B+G) 	AP 	yes 	24 	
+BC01 	00:25:9c:69:71:a7 	6 (B+G) 	AP 	yes 	24 	
+matrix 	00:1f:33:be:5b:a4 	11 (B+G) 	AP 	yes 	23 	
+Telecentro-1240 	e0:69:95:21:42:5c 	11 (B+G) 	AP 	yes 	23 	
+Mush 	00:1e:e5:75:6a:e1 	6 (B+G) 	AP 	yes 	23 	
+SpeedyWiFi 	c8:d5:fe:89:c2:05 	1 (B+G) 	AP 	no 	23 	
+guille 	00:21:91:35:31:e9 	10 (B+G) 	AP 	yes 	23 	
+NANCY 	c8:d5:fe:70:14:5c 	11 (B+G) 	AP 	yes 	21 	
+CasaP 	00:21:29:ad:b3:e4 	6 (B+G) 	AP 	yes 	21 	
+LauRiTa 	30:39:f2:06:16:e6 	1 (B+G) 	AP 	yes 	21 	
+Florencia 	50:67:f0:a5:9d:94 	11 (B+G) 	AP 	yes 	21 	
+Depto 	d8:5d:4c:da:e8:7a 	1 (B+G) 	AP 	yes 	21 	
+frenchys 	00:24:01:1b:16:43 	11 (B+G) 	AP 	yes 	21 	
+Speedy-2105 	c8:d5:fe:15:a1:db 	11 (B+G) 	AP 	yes 	20 	
+Avellaneda 	00:50:18:4e:8a:d0 	9 (B+G) 	AP 	yes 	20 	
+linksys 	00:18:39:cc:bc:40 	6 (B+G) 	AP 	no 	20 	
+familia 	00:24:01:fd:f8:ae 	11 (B+G) 	AP 	yes 	20 	
+romulo 	00:0e:2e:aa:b8:30 	10 (B+G) 	AP 	yes 	20 	
+ft_RIOS____ 	e0:cb:4e:60:95:0c 	6 (B+G) 	AP 	yes 	20 	
+Speedy_9qi1nz 	c8:6c:87:58:e4:6f 	11 (B+G) 	AP 	yes 	18 	
+caballito 	00:0c:42:05:0d:64 	1 (B) 	AP 	no 	18 	
+WIFI@Ga's 	54:e6:fc:b3:99:c2 	9 (B+G) 	AP 	yes 	18 	
+Telecentro-2832 	e0:69:95:76:0e:20 	11 (B+G) 	AP 	yes 	18 	
+Taitito 	34:4b:50:41:ec:cf 	11 (B+G) 	AP 	yes 	18 	
+JMOCASA 	00:50:7f:aa:77:00 	6 (B+G) 	AP 	yes 	16 	
+Telecentro-6c5a 	e0:69:95:92:dc:c1 	1 (B+G) 	AP 	yes 	16 	
+Wi-Fi Arnet 	50:67:f0:a9:2a:b7 	11 (B+G) 	AP 	yes 	16 	
+Telecentro-8c8e 	e0:69:95:52:d3:4d 	1 (B+G) 	AP 	yes 	16 	
+Fibertel WiFi 	cc:7d:37:e0:a9:f3 	1 (B+G) 	AP 	yes 	15 	
+jc 	00:26:b6:19:2b:38 	1 (B+G) 	AP 	yes 	15 	
+Fibertel WiFi068 	70:71:bc:d0:04:20 	11 (B+G) 	AP 	yes 	15 	
+sandra_ft 	cc:7d:37:ee:5f:96 	1 (B+G) 	AP 	yes 	13 	
+GR 	00:01:e3:5f:ca:16 	6 (B+G) 	AP 	yes 	13 	
+SpeedyEster 	c8:d5:fe:6d:24:bc 	1 (B+G) 	AP 	yes 	13 	
+familias 	00:15:ec:15:37:cf 	1 (B+G) 	AP 	yes 	13 	
+BIAUS 	e0:69:95:28:de:a7 	11 (B+G) 	AP 	yes 	13 	
+Home-Wifi 	b0:48:7a:db:b5:40 	9 (B+G) 	AP 	yes 	13
+
+mesh.buenosaireslibre.org 	f8:d1:11:7a:61:b2 	1 (B+G) 	Ad hoc 	no 	46 	
+NANCY 	c8:d5:fe:70:14:5c 	11 (B+G) 	AP 	yes 	44 	
+lobosybogota 	68:7f:74:fe:1c:84 	6 (B+G) 	AP 	yes 	40 	
+FRANARELLA 	94:44:52:3b:14:0d 	6 (B+G) 	AP 	yes 	38 	
+ACOYTE 	98:fc:11:d1:45:d1 	9 (B+G) 	AP 	yes 	36 	
+FT05636 	90:e6:ba:a2:27:40 	6 (B+G) 	AP 	no 	35 	
+River 	68:7f:74:dc:42:81 	6 (B+G) 	AP 	yes 	35 	
+linksys 	00:18:39:cc:bc:40 	6 (B+G) 	AP 	no 	35 	
+WIFI@Ga's 	54:e6:fc:b3:99:c2 	9 (B+G) 	AP 	yes 	33 	
+MATSAN 	d8:5d:4c:b3:69:b6 	1 (B+G) 	AP 	yes 	33 	
+Taitito 	34:4b:50:41:ec:cf 	11 (B+G) 	AP 	yes 	29 	
+hris304 	00:18:39:58:22:f1 	6 (B+G) 	AP 	yes 	27 	
+alfredo-wifi 	00:15:ec:13:e1:54 	1 (B+G) 	AP 	yes 	27 	
+FT9081668 	e0:cb:4e:61:4a:0f 	6 (B+G) 	AP 	yes 	27 	
+Speedy-2105 	c8:d5:fe:15:a1:db 	11 (B+G) 	AP 	yes 	26 	
+DRALink 	5c:d9:98:fe:f4:58 	6 (B+G) 	AP 	yes 	26 	
+baldocita 	00:15:ec:10:bb:ac 	11 (B+G) 	AP 	yes 	24 	
+PerdonanosEnzo 	c8:d5:fe:6e:14:5e 	11 (B+G) 	AP 	yes 	24 	
+Topcom 	00:0e:2e:fe:90:bc 	3 (B+G) 	AP 	no 	24 	
+R2D2 	00:16:b6:19:7a:90 	6 (B+G) 	AP 	yes 	23 	
+luz gonzales... 	e0:cb:4e:6d:72:4e 	11 (B+G) 	AP 	yes 	23 	
+Lopez Wifi 	cc:7d:37:ec:ee:40 	6 (B+G) 	AP 	yes 	23 	
+linksys_SES_49650 	00:14:bf:7b:64:98 	6 (B+G) 	AP 	yes 	23 	
+NETGEAR 	00:14:6c:fa:e4:0c 	11 (B+G) 	AP 	yes 	23 	
+cisap 	00:24:d2:0a:e3:82 	1 (B+G) 	AP 	yes 	23 	
+cristina 	c8:d5:fe:69:e4:de 	11 (B+G) 	AP 	yes 	23 	
+Telecentro-39fc 	e0:69:95:8e:2c:86 	1 (B+G) 	AP 	yes 	21 	
+Mush 	00:1e:e5:75:6a:e1 	6 (B+G) 	AP 	yes 	21 	
+Depto 	d8:5d:4c:da:e8:7a 	1 (B+G) 	AP 	yes 	21 	
+Fibertel WiFi498 	00:25:f1:72:ad:4b 	1 (B+G) 	AP 	yes 	21 	
+familia 	00:24:01:fd:f8:ae 	11 (B+G) 	AP 	yes 	20 	
+Paulman 	00:26:ed:99:5c:b3 	1 (B+G) 	AP 	yes 	20 	
+ft_RIOS____ 	e0:cb:4e:60:95:0c 	6 (B+G) 	AP 	yes 	20 	
+Fibertel WiFi 	7c:4f:b5:90:71:44 	1 (B+G) 	AP 	yes 	18 	
+BEITI 	b0:48:7a:b2:79:30 	9 (B+G) 	AP 	yes 	18 	
+gdmi 	00:25:9c:f5:8d:d2 	6 (B+G) 	AP 	yes 	18 	
+AndreA 	00:22:6b:48:1d:f3 	6 (B+G) 	AP 	yes 	18 	
+Puto el que lee 	68:7f:74:7b:cb:42 	6 (B+G) 	AP 	yes 	18 	
+Telecentro-98d6 	e0:69:95:48:2c:e6 	1 (B+G) 	AP 	yes 	18 	
+familias 	00:15:ec:15:37:cf 	1 (B+G) 	AP 	yes 	18 	
+Marearte 	68:7f:74:35:79:57 	6 (B+G) 	AP 	yes 	18 	
+lamartona 	00:18:f8:61:76:20 	11 (B+G) 	AP 	yes 	16 	
+gabyscasa 	00:1c:df:f4:be:43 	6 (B+G) 	AP 	yes 	16 	
+GABRIEL_PC 	f4:ec:38:c8:7d:50 	9 (B+G) 	AP 	yes 	16 	
+MEX WIFI 	00:22:15:ee:f7:c4 	11 (B+G) 	AP 	yes 	16 	
+LauRiTa 	30:39:f2:06:16:e6 	1 (B+G) 	AP 	yes 	15 	
+Telecentro-6958 	e0:69:95:60:11:91 	11 (B+G) 	AP 	yes 	15 	
+sandra_ft 	cc:7d:37:ee:5f:96 	1 (B+G) 	AP 	yes 	15 	
+Telecentro-1240 	e0:69:95:21:42:5c 	11 (B+G) 	AP 	yes 	13 	
+Telecentro-5752 	e0:69:95:65:e1:71 	1 (B+G) 	AP 	yes 	13 	
+Telecentro-3a38 	20:cf:30:3f:f6:16 	1 (B+G) 	AP 	yes 	13 	
+luisa 	00:16:b6:19:7e:68 	11 (B+G) 	AP 	no 	13 	
+Telecentro-8c8e 	e0:69:95:52:d3:4d 	1 (B+G) 	AP 	yes 	12 	
+tuviejaentanga 	50:67:f0:a9:49:96 	1 (B+G) 	AP 	yes 	10 	
+SpeedyEster 	c8:d5:fe:6d:24:bc 	1 (B+G) 	AP 	yes 	10
+
+ACOYTE 	98:fc:11:d1:45:d1 	9 (B+G) 	AP 	yes 	43 	
+FRANARELLA 	94:44:52:3b:14:0d 	6 (B+G) 	AP 	yes 	41 	
+valiger 	00:25:9c:3a:99:16 	6 (B+G) 	AP 	yes 	35 	
+NANCY 	c8:d5:fe:70:14:5c 	11 (B+G) 	AP 	yes 	35 	
+Depto 	d8:5d:4c:da:e8:7a 	1 (B+G) 	AP 	yes 	33 	
+TP-LINK_CBA0F8 	00:25:86:cb:a0:f8 	6 (B+G) 	AP 	no 	32 	
+Almada 	00:0e:2e:4a:63:ff 	6 (B+G) 	AP 	yes 	32 	
+Lopez_Collazo 	54:e6:fc:fd:0c:68 	1 (B+G) 	AP 	yes 	32 	
+MATSAN 	d8:5d:4c:b3:69:b6 	1 (B+G) 	AP 	yes 	32 	
+BC01 	00:25:9c:69:71:a7 	6 (B+G) 	AP 	yes 	30 	
+cinthia veronica 	00:22:33:ed:9d:6c 	11 (B+G) 	AP 	yes 	30 	
+Wi-Fi Arnet 	50:67:f0:a9:2a:b7 	11 (B+G) 	AP 	yes 	30 	
+Lincoln 7 echo 	00:21:29:bd:0a:0e 	6 (B+G) 	AP 	yes 	30 	
+baldocita 	00:15:ec:10:bb:ac 	11 (B+G) 	AP 	yes 	30 	
+linksys 	00:18:39:cc:bc:40 	6 (B+G) 	AP 	no 	30 	
+NETGEAR 	00:14:6c:fa:e4:0c 	11 (B+G) 	AP 	yes 	30 	
+Plumas Verdes reloded.. mierd. 	00:06:4f:5d:95:66 	3 (B+G) 	AP 	yes 	29 	
+NICK_1 	74:ea:3a:b5:98:c0 	5 (B+G) 	AP 	no 	29 	
+Fibertel WiFi498 	00:25:f1:72:ad:4b 	1 (B+G) 	AP 	yes 	29 	
+Fibertel WiFi 	7c:4f:b5:90:71:44 	1 (B+G) 	AP 	yes 	29 	
+COLGATE DE ESTA!!! 	00:e0:4c:f8:4f:51 	6 (B+G) 	AP 	yes 	27 	
+nacho 	00:21:29:9d:09:fb 	6 (B+G) 	AP 	yes 	26 	
+BEITI 	b0:48:7a:b2:79:30 	9 (B+G) 	AP 	yes 	26 	
+Paulman 	00:26:ed:99:5c:b3 	1 (B+G) 	AP 	yes 	26 	
+River 	68:7f:74:dc:42:81 	6 (B+G) 	AP 	yes 	26 	
+CELESTE 	74:ea:3a:e7:3a:ba 	4 (B+G) 	AP 	yes 	24 	
+mesh.buenosaireslibre.org 	f8:d1:11:7a:61:b2 	1 (B+G) 	Ad hoc 	no 	24 	
+LauRiTa 	30:39:f2:06:16:e6 	1 (B+G) 	AP 	yes 	24 	
+Seba-M 	00:21:29:63:3f:70 	6 (B+G) 	AP 	yes 	24 	
+rutenberg 	00:1d:0f:ce:73:72 	6 (B+G) 	AP 	yes 	23 	
+linksys 	00:13:10:63:8e:47 	6 (B+G) 	AP 	yes 	23 	
+FT9081668 	e0:cb:4e:61:4a:0f 	6 (B+G) 	AP 	yes 	23 	
+Heim 	b0:48:7a:c0:2e:e0 	9 (B+G) 	AP 	yes 	23 	
+Andrea 	00:0c:41:f4:45:b1 	6 (B) 	AP 	yes 	20 	
+Zabalza 	00:24:01:1a:a0:49 	2 (B+G) 	AP 	yes 	20 	
+romulo 	00:0e:2e:aa:b8:30 	10 (B+G) 	AP 	yes 	20 	
+Lusanti 	1c:af:f7:15:75:ae 	11 (B+G) 	AP 	yes 	20 	
+marianela 	34:4b:50:41:fb:05 	11 (B+G) 	AP 	yes 	20 	
+leotatt 	c8:d5:fe:73:2a:17 	11 (B+G) 	AP 	yes 	18 	
+electromedicina 	00:18:e7:55:24:fa 	4 (B+G) 	AP 	no 	16 	
+WIFI-MARCE 	54:e6:fc:af:ea:d4 	9 (B+G) 	AP 	yes 	16 	
+WIFI@Ga's 	54:e6:fc:b3:99:c2 	9 (B+G) 	AP 	yes 	16 	
+wi fi arnet 	38:22:9d:01:ff:ca 	1 (B+G) 	AP 	yes 	16 	
+valentino 	00:25:12:b9:24:bf 	1 (B+G) 	AP 	yes 	15 	
+SpeedyWiFi 	c8:d5:fe:89:c2:05 	1 (B+G) 	AP 	no 	15 	
+GABRIEL_PC 	f4:ec:38:c8:7d:50 	9 (B+G) 	AP 	yes 	15 	
+Speedy-aae8 	c8:d5:fe:15:52:17 	1 (B+G) 	AP 	yes 	13 	
+SpeedyEster 	c8:d5:fe:6d:24:bc 	1 (B+G) 	AP 	yes 	13 	
+Speedy-b397 	00:e0:4d:a1:3c:34 	11 (B+G) 	AP 	yes 	12 	
+alfredo-wifi 	00:15:ec:13:e1:54 	1 (B+G) 	AP 	yes 	12 	
+Tobylote 	74:ea:3a:cf:24:e0 	1 (B+G) 	AP 	yes 	12 	
+
+gabyscasa 	00:1c:df:f4:be:43 	6 (B+G) 	AP 	yes 	49 	
+ACOYTE 	98:fc:11:d1:45:d1 	9 (B+G) 	AP 	yes 	44 	
+mesh.buenosaireslibre.org 	f8:d1:11:7a:61:b2 	1 (B+G) 	Ad hoc 	no 	44 	
+GR 	00:01:e3:5f:ca:16 	6 (B+G) 	AP 	yes 	41 	
+linksys 	00:18:39:cc:bc:40 	6 (B+G) 	AP 	no 	38 	
+River 	68:7f:74:dc:42:81 	6 (B+G) 	AP 	yes 	38 	
+baldocita 	00:15:ec:10:bb:ac 	11 (B+G) 	AP 	yes 	35 	
+Wi-Fi Arnet 	50:67:f0:a9:2a:b7 	11 (B+G) 	AP 	yes 	33 	
+Fibertel WiFi498 	00:25:f1:72:ad:4b 	1 (B+G) 	AP 	yes 	32 	
+lobosybogota 	68:7f:74:fe:1c:84 	6 (B+G) 	AP 	yes 	32 	
+valiger 	00:25:9c:3a:99:16 	6 (B+G) 	AP 	yes 	32 	
+matrix 	00:1f:33:be:5b:a4 	11 (B+G) 	AP 	yes 	32 	
+marianela 	34:4b:50:41:fb:05 	11 (B+G) 	AP 	yes 	32 	
+Telecentro-c446 	e0:69:95:21:67:5c 	11 (B+G) 	AP 	yes 	30 	
+NANCY 	c8:d5:fe:70:14:5c 	11 (B+G) 	AP 	yes 	30 	
+Depto 	d8:5d:4c:da:e8:7a 	1 (B+G) 	AP 	yes 	30 	
+FRANARELLA 	94:44:52:3b:14:0d 	6 (B+G) 	AP 	yes 	30 	
+Paulman 	00:26:ed:99:5c:b3 	1 (B+G) 	AP 	yes 	29 	
+Puto el que lee 	68:7f:74:7b:cb:42 	6 (B+G) 	AP 	yes 	26 	
+home277 	00:23:69:0f:5b:1d 	6 (B+G) 	AP 	yes 	26 	
+cinthia veronica 	00:22:33:ed:9d:6c 	11 (B+G) 	AP 	yes 	26 	
+rutenberg 	00:1d:0f:ce:73:72 	6 (B+G) 	AP 	yes 	24 	
+NETGEAR 	00:14:6c:fa:e4:0c 	11 (B+G) 	AP 	yes 	24 	
+DRALink 	5c:d9:98:fe:f4:58 	6 (B+G) 	AP 	yes 	24 	
+BEITI 	b0:48:7a:b2:79:30 	9 (B+G) 	AP 	yes 	24 	
+frenchys 	00:24:01:1b:16:43 	11 (B+G) 	AP 	yes 	24 	
+CamposCordoba 	c8:d5:fe:6d:27:5a 	11 (B+G) 	AP 	yes 	24 	
+Taitito 	34:4b:50:41:ec:cf 	11 (B+G) 	AP 	yes 	23 	
+luz gonzales... 	e0:cb:4e:6d:72:4e 	11 (B+G) 	AP 	yes 	23 	
+MATSAN 	d8:5d:4c:b3:69:b6 	1 (B+G) 	AP 	yes 	23 	
+maru 	00:14:bf:ea:1e:40 	6 (B+G) 	AP 	yes 	23 	
+Telecentro-6c5a 	e0:69:95:92:dc:c1 	1 (B+G) 	AP 	yes 	21 	
+Lopez Wifi 	cc:7d:37:ec:ee:40 	6 (B+G) 	AP 	yes 	21 	
+Telecentro-39fc 	e0:69:95:8e:2c:86 	1 (B+G) 	AP 	yes 	21 	
+Telecentro-1240 	e0:69:95:21:42:5c 	11 (B+G) 	AP 	yes 	21 	
+WIFI-MARCE 	54:e6:fc:af:ea:d4 	9 (B+G) 	AP 	yes 	20 	
+Casa 	94:0c:6d:ef:47:60 	1 (B+G) 	AP 	yes 	20 	
+Telecentro-8c8e 	e0:69:95:52:d3:4d 	1 (B+G) 	AP 	yes 	18 	
+SapoPepe 	00:1c:10:17:d5:24 	6 (B+G) 	AP 	yes 	18 	
+Bohemio 	00:1b:11:3a:f3:a7 	8 (B+G) 	AP 	yes 	18 	
+alfredo-wifi 	00:15:ec:13:e1:54 	1 (B+G) 	AP 	yes 	18 	
+Lopez_Collazo 	54:e6:fc:fd:0c:68 	1 (B+G) 	AP 	yes 	18 	
+Fibertel WiFi183 	74:56:12:36:0d:9a 	1 (B+G) 	AP 	yes 	13 	
+Fibertel WiFi 	7c:4f:b5:90:71:44 	1 (B+G) 	AP 	yes 	13 	
+familias 	00:15:ec:15:37:cf 	1 (B+G) 	AP 	yes 	13 	
+SpeedyWiFi 	00:02:cf:bb:af:2a 	1 (B+G) 	AP 	yes 	12 	
+Fibertel WiFi073 	1c:14:48:d4:5e:77 	1 (B+G) 	AP 	yes 	10 	
+caballito 	00:0c:42:05:0d:64 	1 (B) 	AP 	no 	10 	
+
+MATSAN  d8:5d:4c:b3:69:b6   1 (B+G)     AP  yes     49  
+Depto   d8:5d:4c:da:e8:7a   1 (B+G)     AP  yes     49  
+Fibertel WiFi498    00:25:f1:72:ad:4b   6 (B+G)     AP  yes     40  
+ACOYTE  98:fc:11:d1:45:d1   9 (B+G)     AP  yes     38  
+TP-LINK_CBA0F8  00:25:86:cb:a0:f8   6 (B+G)     AP  no  36  
+FRANARELLA  94:44:52:3b:14:0d   6 (B+G)     AP  yes     36  
+Mush    00:1e:e5:75:6a:e1   6 (B+G)     AP  yes     35  
+Lopez_Collazo   54:e6:fc:fd:0c:68   6 (B+G)     AP  yes     32  
+baldocita   00:15:ec:10:bb:ac   11 (B+G)    AP  yes     32  
+Wi-Fi Arnet     50:67:f0:a9:2a:b7   11 (B+G)    AP  yes     32  
+Almada  00:0e:2e:4a:63:ff   6 (B+G)     AP  yes     30  
+Paulman     00:26:ed:99:5c:b3   1 (B+G)     AP  yes     30  
+BIAUS   e0:69:95:28:de:a7   11 (B+G)    AP  yes     29  
+matrix  00:1f:33:be:5b:a4   11 (B+G)    AP  yes     27  
+gabyscasa   00:1c:df:f4:be:43   6 (B+G)     AP  yes     27  
+Telecentro-c446     e0:69:95:21:67:5c   11 (B+G)    AP  yes     26  
+River   68:7f:74:dc:42:81   6 (B+G)     AP  yes     24  
+wi fi arnet     38:22:9d:01:ff:ca   1 (B+G)     AP  yes     24  
+jeronimo    c8:d5:fe:72:ea:5f   11 (B+G)    AP  yes     24  
+FT2206  00:1d:60:15:9d:44   11 (B+G)    AP  yes     23  
+DIANA-WIFI  50:67:f0:9d:86:d1   11 (B+G)    AP  yes     23  
+SpeedyEster     c8:d5:fe:6d:24:bc   1 (B+G)     AP  yes     23  
+Speedy_9qi1nz   c8:6c:87:58:e4:6f   11 (B+G)    AP  yes     23  
+Fibertel WiFi   7c:4f:b5:90:71:44   1 (B+G)     AP  yes     23  
+Speedy_oot3mq   50:67:f0:9d:ff:78   11 (B+G)    AP  yes     21  
+Zabalza     00:24:01:1a:a0:49   2 (B+G)     AP  yes     21  
+LauRiTa     30:39:f2:06:16:e6   1 (B+G)     AP  yes     20  
+BEITI   b0:48:7a:b2:79:30   9 (B+G)     AP  yes     20  
+WIFI_D&A    e0:69:95:5a:3f:9a   11 (B+G)    AP  yes     18  
+Fibertel WiFi183    74:56:12:36:0d:9a   6 (B+G)     AP  yes     18  
+NETGEAR     00:14:6c:fa:e4:0c   11 (B+G)    AP  yes     18  
+Topcom  00:0e:2e:fe:90:bc   3 (B+G)     AP  no  16  
+Fibertel WiFi899    00:1a:73:b4:4a:73   1 (B+G)     AP  yes     16  
+Telecentro-3f86     e0:69:95:30:ee:91   1 (B+G)     AP  yes     16  
+Casa    94:0c:6d:ef:47:60   1 (B+G)     AP  yes     16  
+Plumas Verdes reloded.. mierd.  00:06:4f:5d:95:66   3 (B+G)     AP  yes     13  
+Telecentro-2930     e0:69:95:2f:f1:ed   1 (B+G)     AP  yes     13  
+francisco wifi  e4:83:99:5f:9d:d2   1 (B+G)     AP  yes     12
+
+Depto   d8:5d:4c:da:e8:7a   1 (B+G)     AP  yes     55  
+MATSAN  d8:5d:4c:b3:69:b6   1 (B+G)     AP  yes     44  
+FT_ALIPPE   00:22:15:ee:f7:ab   6 (B+G)     AP  yes     43  
+rutenberg   00:1d:0f:ce:73:72   6 (B+G)     AP  yes     35  
+CELESTE     74:ea:3a:e7:3a:ba   4 (B+G)     AP  yes     33  
+FRANARELLA  94:44:52:3b:14:0d   6 (B+G)     AP  yes     32  
+baldocita   00:15:ec:10:bb:ac   11 (B+G)    AP  yes     30  
+NETGEAR     00:14:6c:fa:e4:0c   11 (B+G)    AP  yes     30  
+Wi-Fi Arnet     50:67:f0:a9:2a:b7   11 (B+G)    AP  yes     30  
+NANCY   c8:d5:fe:70:14:5c   11 (B+G)    AP  yes     30  
+bubu    00:22:6b:4d:eb:ce   6 (B+G)     AP  yes     29  
+DRALink     5c:d9:98:fe:f4:58   6 (B+G)     AP  yes     29  
+Lincoln 7 echo  00:21:29:bd:0a:0e   6 (B+G)     AP  yes     29  
+FTSORKOVSKY     70:7e:43:48:46:b4   1 (B+G)     AP  yes     27  
+Fibertel WiFi   7c:4f:b5:90:71:44   1 (B+G)     AP  yes     27  
+gabyscasa   00:1c:df:f4:be:43   6 (B+G)     AP  yes     27  
+Speedy_9qi1nz   c8:6c:87:58:e4:6f   11 (B+G)    AP  yes     27  
+ACOYTE  98:fc:11:d1:45:d1   9 (B+G)     AP  yes     26  
+Lopez_Collazo   54:e6:fc:fd:0c:68   6 (B+G)     AP  yes     26  
+lobosybogota    68:7f:74:fe:1c:84   6 (B+G)     AP  yes     26  
+FT2206  00:1d:60:15:9d:44   11 (B+G)    AP  yes     26  
+SapoPepe    00:1c:10:17:d5:24   6 (B+G)     AP  yes     26  
+Fibertel WiFi899    00:1a:73:b4:4a:73   1 (B+G)     AP  yes     26  
+Telecentro-3a38     20:cf:30:3f:f6:16   1 (B+G)     AP  yes     24  
+TP-LINK_CBA0F8  00:25:86:cb:a0:f8   6 (B+G)     AP  no  24  
+romulo  00:0e:2e:aa:b8:30   10 (B+G)    AP  yes     23  
+River   68:7f:74:dc:42:81   6 (B+G)     AP  yes     23  
+sandra_ft   cc:7d:37:ee:5f:96   1 (B+G)     AP  yes     23  
+Speedy-b397     00:e0:4d:a1:3c:34   11 (B+G)    AP  yes     21  
+nacho   00:21:29:9d:09:fb   6 (B+G)     AP  yes     21  
+BEITI   b0:48:7a:b2:79:30   9 (B+G)     AP  yes     21  
+Paulman     00:26:ed:99:5c:b3   1 (B+G)     AP  yes     21  
+SpeedyEster     c8:d5:fe:6d:24:bc   1 (B+G)     AP  yes     21  
+Zabalza     00:24:01:1a:a0:49   2 (B+G)     AP  yes     21  
+BIAUS   e0:69:95:28:de:a7   11 (B+G)    AP  yes     20  
+linksys     00:18:39:cc:bc:40   6 (B+G)     AP  no  20  
+cristina    c8:d5:fe:69:e4:de   11 (B+G)    AP  yes     20  
+linksys_SES_49650   00:14:bf:7b:64:98   6 (B+G)     AP  yes     20  
+Speedy_oot3mq   50:67:f0:9d:ff:78   11 (B+G)    AP  yes     20  
+WIFI-MARCE  54:e6:fc:af:ea:d4   9 (B+G)     AP  yes     20  
+familias    00:15:ec:15:37:cf   1 (B+G)     AP  yes     20  
+Puto el que lee     68:7f:74:7b:cb:42   6 (B+G)     AP  yes     20  
+Casa    94:0c:6d:ef:47:60   1 (B+G)     AP  yes     18  
+matrix  00:1f:33:be:5b:a4   11 (B+G)    AP  yes     16  
+LauRiTa     30:39:f2:06:16:e6   1 (B+G)     AP  yes     15  
+ENCOREA801D8    00:02:6f:a8:01:d8   11 (B+G)    AP  yes     15  
+VITO - 1    5c:d9:98:2c:21:c8   11 (B+G)    AP  yes     13  
+Fibertel WiFi   00:22:15:47:c1:38   1 (B+G)     AP  yes     10  
+Plumas Verdes reloded.. mierd.  00:06:4f:5d:95:66   3 (B+G)     AP  yes     10  
+
+Depto   d8:5d:4c:da:e8:7a   1 (B+G)     AP  yes     55
+MATSAN  d8:5d:4c:b3:69:b6   1 (B+G)     AP  yes     44
+FT_ALIPPE   00:22:15:ee:f7:ab   6 (B+G)     AP  yes     43
+rutenberg   00:1d:0f:ce:73:72   6 (B+G)     AP  yes     35
+CELESTE     74:ea:3a:e7:3a:ba   4 (B+G)     AP  yes     33
+FRANARELLA  94:44:52:3b:14:0d   6 (B+G)     AP  yes     32
+baldocita   00:15:ec:10:bb:ac   11 (B+G)    AP  yes     30
+NETGEAR     00:14:6c:fa:e4:0c   11 (B+G)    AP  yes     30
+Wi-Fi Arnet     50:67:f0:a9:2a:b7   11 (B+G)    AP  yes     30
+NANCY   c8:d5:fe:70:14:5c   11 (B+G)    AP  yes     30
+bubu    00:22:6b:4d:eb:ce   6 (B+G)     AP  yes     29
+DRALink     5c:d9:98:fe:f4:58   6 (B+G)     AP  yes     29
+Lincoln 7 echo  00:21:29:bd:0a:0e   6 (B+G)     AP  yes     29
+FTSORKOVSKY     70:7e:43:48:46:b4   1 (B+G)     AP  yes     27
+Fibertel WiFi   7c:4f:b5:90:71:44   1 (B+G)     AP  yes     27
+gabyscasa   00:1c:df:f4:be:43   6 (B+G)     AP  yes     27
+Speedy_9qi1nz   c8:6c:87:58:e4:6f   11 (B+G)    AP  yes     27
+ACOYTE  98:fc:11:d1:45:d1   9 (B+G)     AP  yes     26
+Lopez_Collazo   54:e6:fc:fd:0c:68   6 (B+G)     AP  yes     26
+lobosybogota    68:7f:74:fe:1c:84   6 (B+G)     AP  yes     26
+FT2206  00:1d:60:15:9d:44   11 (B+G)    AP  yes     26
+SapoPepe    00:1c:10:17:d5:24   6 (B+G)     AP  yes     26
+Fibertel WiFi899    00:1a:73:b4:4a:73   1 (B+G)     AP  yes     26
+Telecentro-3a38     20:cf:30:3f:f6:16   1 (B+G)     AP  yes     24
+TP-LINK_CBA0F8  00:25:86:cb:a0:f8   6 (B+G)     AP  no  24
+romulo  00:0e:2e:aa:b8:30   10 (B+G)    AP  yes     23
+River   68:7f:74:dc:42:81   6 (B+G)     AP  yes     23
+sandra_ft   cc:7d:37:ee:5f:96   1 (B+G)     AP  yes     23
+Speedy-b397     00:e0:4d:a1:3c:34   11 (B+G)    AP  yes     21
+nacho   00:21:29:9d:09:fb   6 (B+G)     AP  yes     21
+BEITI   b0:48:7a:b2:79:30   9 (B+G)     AP  yes     21
+Paulman     00:26:ed:99:5c:b3   1 (B+G)     AP  yes     21
+SpeedyEster     c8:d5:fe:6d:24:bc   1 (B+G)     AP  yes     21
+Zabalza     00:24:01:1a:a0:49   2 (B+G)     AP  yes     21
+BIAUS   e0:69:95:28:de:a7   11 (B+G)    AP  yes     20
+linksys     00:18:39:cc:bc:40   6 (B+G)     AP  no  20
+cristina    c8:d5:fe:69:e4:de   11 (B+G)    AP  yes     20
+linksys_SES_49650   00:14:bf:7b:64:98   6 (B+G)     AP  yes     20
+Speedy_oot3mq   50:67:f0:9d:ff:78   11 (B+G)    AP  yes     20
+WIFI-MARCE  54:e6:fc:af:ea:d4   9 (B+G)     AP  yes     20
+familias    00:15:ec:15:37:cf   1 (B+G)     AP  yes     20
+Puto el que lee     68:7f:74:7b:cb:42   6 (B+G)     AP  yes     20
+Casa    94:0c:6d:ef:47:60   1 (B+G)     AP  yes     18
+matrix  00:1f:33:be:5b:a4   11 (B+G)    AP  yes     16
+LauRiTa     30:39:f2:06:16:e6   1 (B+G)     AP  yes     15
+ENCOREA801D8    00:02:6f:a8:01:d8   11 (B+G)    AP  yes     15
+VITO - 1    5c:d9:98:2c:21:c8   11 (B+G)    AP  yes     13
+Fibertel WiFi   00:22:15:47:c1:38   1 (B+G)     AP  yes     10
+Plumas Verdes reloded.. mierd.  00:06:4f:5d:95:66   3 (B+G)     AP  yes     10
+
+Depto   d8:5d:4c:da:e8:7a   1 (B+G)     AP  yes     49
+rutenberg   00:1d:0f:ce:73:72   6 (B+G)     AP  yes     41
+FT_ALIPPE   00:22:15:ee:f7:ab   6 (B+G)     AP  yes     38
+ACOYTE  98:fc:11:d1:45:d1   9 (B+G)     AP  yes     36
+FRANARELLA  94:44:52:3b:14:0d   6 (B+G)     AP  yes     36
+MATSAN  d8:5d:4c:b3:69:b6   1 (B+G)     AP  yes     35
+NETGEAR     00:14:6c:fa:e4:0c   11 (B+G)    AP  yes     33
+nacho   00:21:29:9d:09:fb   6 (B+G)     AP  yes     33
+baldocita   00:15:ec:10:bb:ac   11 (B+G)    AP  yes     32
+Fibertel WiFi498    00:25:f1:72:ad:4b   6 (B+G)     AP  yes     32
+River   68:7f:74:dc:42:81   6 (B+G)     AP  yes     32
+CELESTE     74:ea:3a:e7:3a:ba   4 (B+G)     AP  yes     32
+FTSORKOVSKY     70:7e:43:48:46:b4   1 (B+G)     AP  yes     30
+Plumas Verdes reloded.. mierd.  00:06:4f:5d:95:66   3 (B+G)     AP  yes     29
+SpeedyEster     c8:d5:fe:6d:24:bc   1 (B+G)     AP  yes     29
+FT9081668   e0:cb:4e:61:4a:0f   6 (B+G)     AP  yes     29
+maru    00:14:bf:ea:1e:40   6 (B+G)     AP  yes     29
+WLS     00:0f:b5:6f:9c:d4   11 (B+G)    AP  yes     27
+Lincoln 7 echo  00:21:29:bd:0a:0e   6 (B+G)     AP  yes     26
+arwen   00:30:4f:76:7c:70   6 (B+G)     AP  yes     26
+FT2206  00:1d:60:15:9d:44   11 (B+G)    AP  yes     24
+Paulman     00:26:ed:99:5c:b3   1 (B+G)     AP  yes     23
+lobosybogota    68:7f:74:fe:1c:84   6 (B+G)     AP  yes     23
+Telecentro-3a38     20:cf:30:3f:f6:16   1 (B+G)     AP  yes     23
+Fibertel WiFi449    00:23:54:37:e8:4c   6 (B+G)     AP  yes     23
+Zabalza     00:24:01:1a:a0:49   2 (B+G)     AP  yes     21
+meli8778    00:27:19:de:f0:28   6 (B+G)     AP  yes     21
+TP-LINK_CBA0F8  00:25:86:cb:a0:f8   6 (B+G)     AP  no  20
+LauRiTa     30:39:f2:06:16:e6   1 (B+G)     AP  yes     20
+Fibertel WiFi714    38:60:77:88:25:62   6 (B+G)     AP  yes     20
+Speedy-b397     00:e0:4d:a1:3c:34   11 (B+G)    AP  yes     20
+Alien64     d4:d1:84:1e:26:bb   1 (B+G)     AP  no  18
+kriegler.sucari     68:7f:74:e1:85:e0   9 (B+G)     AP  yes     18
+Fibertel WiFi183    74:56:12:36:0d:9a   1 (B+G)     AP  yes     16
+Fibertel WiFi   00:22:15:47:c1:38   1 (B+G)     AP  yes     16
+HG520s  00:21:63:05:f1:27   1 (B+G)     AP  yes     13
+Red Nueva Dlink     00:24:01:fd:d1:16   1 (B+G)     AP  yes     12
+
+Depto   d8:5d:4c:da:e8:7a   1 (B+G)     AP  yes     46
+MATSAN  d8:5d:4c:b3:69:b6   1 (B+G)     AP  yes     43
+FT_ALIPPE   00:22:15:ee:f7:ab   6 (B+G)     AP  yes     38
+ACOYTE  98:fc:11:d1:45:d1   9 (B+G)     AP  yes     38
+maru    00:14:bf:ea:1e:40   6 (B+G)     AP  yes     35
+valiger     00:25:9c:3a:99:16   6 (B+G)     AP  yes     33
+Wi-Fi Arnet     50:67:f0:a9:2a:b7   11 (B+G)    AP  yes     33
+DRALink     5c:d9:98:fe:f4:58   6 (B+G)     AP  yes     32
+Casa    94:0c:6d:ef:47:60   1 (B+G)     AP  yes     32
+baldocita   00:15:ec:10:bb:ac   11 (B+G)    AP  yes     32
+rutenberg   00:1d:0f:ce:73:72   6 (B+G)     AP  yes     32
+Speedy_9qi1nz   c8:6c:87:58:e4:6f   11 (B+G)    AP  yes     30
+Fibertel WiFi449    00:23:54:37:e8:4c   6 (B+G)     AP  yes     30
+WLS     00:0f:b5:6f:9c:d4   11 (B+G)    AP  yes     30
+FTSORKOVSKY     70:7e:43:48:46:b4   1 (B+G)     AP  yes     29
+CELESTE     74:ea:3a:e7:3a:ba   4 (B+G)     AP  yes     29
+Fibertel Nico   38:60:77:c0:e9:11   6 (B+G)     AP  yes     27
+NETGEAR     00:14:6c:fa:e4:0c   11 (B+G)    AP  yes     27
+lobosybogota    68:7f:74:fe:1c:84   6 (B+G)     AP  yes     26
+FT2206  00:1d:60:15:9d:44   11 (B+G)    AP  yes     26
+Telecentro-3a38     20:cf:30:3f:f6:16   1 (B+G)     AP  yes     24
+Fibertel WiFi714    38:60:77:88:25:62   6 (B+G)     AP  yes     24
+matrix  00:1f:33:be:5b:a4   6 (B+G)     AP  yes     24
+FT05636     90:e6:ba:a2:27:40   6 (B+G)     AP  no  23
+Zabalza     00:24:01:1a:a0:49   2 (B+G)     AP  yes     23
+River   68:7f:74:dc:42:81   6 (B+G)     AP  yes     23
+BIAUS   e0:69:95:28:de:a7   11 (B+G)    AP  yes     23
+casita  54:e6:fc:ae:57:fa   10 (B+G)    AP  yes     23
+alfredo-wifi    00:15:ec:13:e1:54   1 (B+G)     AP  yes     21
+SpeedyEster     c8:d5:fe:6d:24:bc   1 (B+G)     AP  yes     20
+jeronimo    c8:d5:fe:72:ea:5f   11 (B+G)    AP  yes     20
+SpeedyWiFi  00:02:cf:bb:af:2a   1 (B+G)     AP  yes     18
+CamposCordoba   c8:d5:fe:6d:27:5a   11 (B+G)    AP  yes     18
+AJW     00:0f:a3:f2:3d:53   2 (B+G)     AP  yes     18
+sandra_ft   cc:7d:37:ee:5f:96   11 (B+G)    AP  yes     16
+Mile    00:23:f8:b7:4e:bc   11 (B+G)    AP  yes     15
+rolinga     00:25:f1:85:14:78   11 (B+G)    AP  yes     13
+HG520s  00:21:63:05:f1:27   1 (B+G)     AP  yes     13
+Speedy-b397     00:e0:4d:a1:3c:34   11 (B+G)    AP  yes     12
+
+Depto   d8:5d:4c:da:e8:7a   1 (B+G)     AP  yes     49
+TP-LINK_CBA0F8  00:25:86:cb:a0:f8   6 (B+G)     AP  no  46
+baldocita   00:15:ec:10:bb:ac   11 (B+G)    AP  yes     43
+MATSAN  d8:5d:4c:b3:69:b6   1 (B+G)     AP  yes     41
+FT9081668   e0:cb:4e:61:4a:0f   6 (B+G)     AP  yes     40
+ACOYTE  98:fc:11:d1:45:d1   9 (B+G)     AP  yes     40
+nacho   00:21:29:9d:09:fb   6 (B+G)     AP  yes     36
+River   68:7f:74:dc:42:81   6 (B+G)     AP  yes     36
+Almada  00:0e:2e:4a:63:ff   6 (B+G)     AP  yes     36
+Mush    00:1e:e5:75:6a:e1   6 (B+G)     AP  yes     35
+Lopez_Collazo   54:e6:fc:fd:0c:68   6 (B+G)     AP  yes     35
+FRANARELLA  94:44:52:3b:14:0d   6 (B+G)     AP  yes     33
+wi fi arnet     38:22:9d:01:ff:ca   1 (B+G)     AP  yes     32
+NICK_1  74:ea:3a:b5:98:c0   5 (B+G)     AP  no  32
+SpeedyEster     c8:d5:fe:6d:24:bc   1 (B+G)     AP  yes     32
+Fibertel WiFi   7c:4f:b5:90:71:44   1 (B+G)     AP  yes     32
+dlink   00:1c:f0:3b:5b:49   6 (B+G)     AP  yes     30
+Plumas Verdes reloded.. mierd.  00:06:4f:5d:95:66   3 (B+G)     AP  yes     30
+CELESTE     74:ea:3a:e7:3a:ba   4 (B+G)     AP  yes     30
+Zabalza     00:24:01:1a:a0:49   2 (B+G)     AP  yes     29
+NETGEAR     00:14:6c:fa:e4:0c   11 (B+G)    AP  yes     27
+rutenberg   00:1d:0f:ce:73:72   6 (B+G)     AP  yes     26
+isengard    c8:d5:fe:89:b5:c0   1 (B+G)     AP  yes     26
+Wi-Fi Arnet     50:67:f0:a9:2a:b7   11 (B+G)    AP  yes     26
+LauRiTa     30:39:f2:06:16:e6   1 (B+G)     AP  yes     26
+leotatt     c8:d5:fe:73:2a:17   11 (B+G)    AP  yes     26
+BEITI   b0:48:7a:b2:79:30   9 (B+G)     AP  yes     24
+valentino   00:25:12:b9:24:bf   1 (B+G)     AP  yes     24
+SANDRA  38:60:77:c1:34:29   11 (B+G)    AP  yes     24
+FT2206  00:1d:60:15:9d:44   11 (B+G)    AP  yes     24
+Speedy_9qi1nz   c8:6c:87:58:e4:6f   11 (B+G)    AP  yes     23
+WIFI_D&A    e0:69:95:5a:3f:9a   11 (B+G)    AP  yes     23
+luz gonzales...     e0:cb:4e:6d:72:4e   11 (B+G)    AP  yes     23
+Casa    94:0c:6d:ef:47:60   1 (B+G)     AP  yes     23
+FT_ALIPPE   00:22:15:ee:f7:ab   6 (B+G)     AP  yes     23
+jujuem  68:7f:74:ee:f6:d3   6 (B+G)     AP  yes     21
+Speedy-aae8     c8:d5:fe:15:52:17   1 (B+G)     AP  yes     21
+familias    00:15:ec:15:37:cf   1 (B+G)     AP  yes     20
+BIAUS   e0:69:95:28:de:a7   11 (B+G)    AP  yes     20
+BIGAY   c8:d5:fe:72:27:be   11 (B+G)    AP  yes     20
+sandra_ft   cc:7d:37:ee:5f:96   11 (B+G)    AP  yes     20
+Fibertel WiFi714    38:60:77:88:25:62   6 (B+G)     AP  yes     18
+Speedy-2012     00:15:ec:15:4a:be   1 (B+G)     AP  yes     16
+TokyoGodfathers     00:1d:7e:67:bf:08   9 (B+G)     AP  yes     16
+red_internaB    e0:69:95:54:1d:fa   11 (B+G)    AP  yes     16
+yoko    00:26:ed:af:a4:d8   1 (B+G)     AP  yes     16
+caballito   00:0c:42:05:0d:64   1 (B)   AP  no  13
+default     00:11:3b:0d:82:4f   11 (B+G)    AP  yes     13
+Dori A..    b0:48:7a:c8:a4:16   2 (B+G)     AP  yes     7
+
+gabyscasa   00:1c:df:f4:be:43   6 (B+G)     AP  yes     46
+ACOYTE  98:fc:11:d1:45:d1   9 (B+G)     AP  yes     44
+MATSAN  d8:5d:4c:b3:69:b6   1 (B+G)     AP  yes     44
+matrix  00:1f:33:be:5b:a4   6 (B+G)     AP  yes     43
+Depto   d8:5d:4c:da:e8:7a   1 (B+G)     AP  yes     43
+DRALink     5c:d9:98:fe:f4:58   6 (B+G)     AP  yes     40
+TP-LINK_CBA0F8  00:25:86:cb:a0:f8   6 (B+G)     AP  no  40
+GR  00:01:e3:5f:ca:16   6 (B+G)     AP  yes     38
+baldocita   00:15:ec:10:bb:ac   11 (B+G)    AP  yes     33
+Lopez_Collazo   54:e6:fc:fd:0c:68   6 (B+G)     AP  yes     32
+COLGATE DE ESTA!!!  00:e0:4c:f8:4f:51   6 (B+G)     AP  yes     32
+Plumas Verdes reloded.. mierd.  00:06:4f:5d:95:66   3 (B+G)     AP  yes     32
+lobosybogota    68:7f:74:fe:1c:84   6 (B+G)     AP  yes     32
+Telecentro-6c5a     e0:69:95:92:dc:c1   1 (B+G)     AP  yes     30
+linksys     00:18:39:cc:bc:40   6 (B+G)     AP  no  27
+River   68:7f:74:dc:42:81   6 (B+G)     AP  yes     26
+Fibertel WiFi498    00:25:f1:72:ad:4b   1 (B+G)     AP  yes     26
+cristina    c8:d5:fe:69:e4:de   11 (B+G)    AP  yes     26
+FT2206  00:1d:60:15:9d:44   11 (B+G)    AP  yes     24
+Paulman     00:26:ed:99:5c:b3   1 (B+G)     AP  yes     23
+dlink   00:1c:f0:3b:5b:49   6 (B+G)     AP  yes     23
+Fibertel WiFi   7c:4f:b5:90:71:44   1 (B+G)     AP  yes     23
+NETGEAR     00:14:6c:fa:e4:0c   11 (B+G)    AP  yes     23
+Wi-Fi Arnet     50:67:f0:a9:2a:b7   11 (B+G)    AP  yes     23
+SpeedyEster     c8:d5:fe:6d:24:bc   1 (B+G)     AP  yes     23
+speedy-wifi     00:21:63:06:aa:9a   11 (B+G)    AP  yes     23
+BEITI   b0:48:7a:b2:79:30   9 (B+G)     AP  yes     23
+Wifi Abi    78:44:76:05:b6:b0   5 (B+G)     AP  yes     23
+Pablo ga    c8:d5:fe:6c:f5:3c   6 (B+G)     AP  yes     21
+nacho   00:21:29:9d:09:fb   6 (B+G)     AP  yes     21
+R2D2    00:16:b6:19:7a:90   6 (B+G)     AP  yes     20
+Telecentro-c446     e0:69:95:21:67:5c   11 (B+G)    AP  yes     20
+Mush    00:1e:e5:75:6a:e1   6 (B+G)     AP  yes     20
+familia     00:24:01:fd:f8:ae   11 (B+G)    AP  yes     18
+BIAUS   e0:69:95:28:de:a7   11 (B+G)    AP  yes     18
+Telecentro-8c8e     e0:69:95:52:d3:4d   1 (B+G)     AP  yes     16
+Seba-M  00:21:29:63:3f:70   6 (B+G)     AP  yes     16
+rutenberg   00:1d:0f:ce:73:72   6 (B+G)     AP  yes     16
+Zabalza     00:24:01:1a:a0:49   2 (B+G)     AP  yes     16
+JUaNa   00:26:ed:af:2c:e8   1 (B+G)     AP  yes     15
+perro de la calle   c8:6c:87:fe:e3:98   11 (B+G)    AP  yes     15
+Telecentro-c31a     e0:69:95:21:79:24   1 (B+G)     AP  yes     13
+Atlanta     00:21:63:07:31:ae   1 (B+G)     AP  yes     12
+Fibertel WiFi183    74:56:12:36:0d:9a   1 (B+G)     AP  yes     10
+
+lobosybogota    68:7f:74:fe:1c:84   6 (B+G)     AP  yes     46
+FT9081668   e0:cb:4e:61:4a:0f   6 (B+G)     AP  yes     38
+Depto   d8:5d:4c:da:e8:7a   1 (B+G)     AP  yes     38
+NANCY   c8:d5:fe:70:14:5c   11 (B+G)    AP  yes     38
+Juanchi     00:1a:70:85:51:6f   6 (B+G)     AP  yes     36
+linksys_claudio     00:1c:10:58:52:89   6 (B+G)     AP  yes     35
+TP-LINK_CBA0F8  00:25:86:cb:a0:f8   6 (B+G)     AP  no  35
+FRANARELLA  94:44:52:3b:14:0d   6 (B+G)     AP  yes     35
+ClauyFer    00:18:f8:70:57:a7   6 (B+G)     AP  yes     33
+ACOYTE  98:fc:11:d1:45:d1   9 (B+G)     AP  yes     33
+baldocita   00:15:ec:10:bb:ac   11 (B+G)    AP  yes     33
+linksys     98:fc:11:cf:c1:b9   6 (B+G)     AP  yes     32
+MATSAN  d8:5d:4c:b3:69:b6   1 (B+G)     AP  yes     32
+Paulman     00:26:ed:99:5c:b3   1 (B+G)     AP  yes     32
+SANDRA  38:60:77:c1:34:29   11 (B+G)    AP  yes     30
+Roberto10   f4:ec:38:c6:fb:02   4 (B+G)     AP  yes     29
+Mush    00:1e:e5:75:6a:e1   6 (B+G)     AP  yes     29
+WIFI@Ga's   54:e6:fc:b3:99:c2   9 (B+G)     AP  yes     29
+LauRiTa     30:39:f2:06:16:e6   1 (B+G)     AP  yes     29
+Lincoln 7 echo  00:21:29:bd:0a:0e   6 (B+G)     AP  yes     27
+Seba-M  00:21:29:63:3f:70   6 (B+G)     AP  yes     26
+Topcom  00:0e:2e:fe:90:bc   3 (B+G)     AP  no  26
+River   68:7f:74:dc:42:81   6 (B+G)     AP  yes     24
+Telecentro-6c5a     e0:69:95:92:dc:c1   1 (B+G)     AP  yes     23
+NETGEAR     00:14:6c:fa:e4:0c   11 (B+G)    AP  yes     23
+Speedy_9qi1nz   c8:6c:87:58:e4:6f   11 (B+G)    AP  yes     23
+gdmi    00:25:9c:f5:8d:d2   6 (B+G)     AP  yes     21
+familia     00:24:01:fd:f8:ae   11 (B+G)    AP  yes     21
+GABRIEL_PC  f4:ec:38:c8:7d:50   9 (B+G)     AP  yes     20
+PerdonanosEnzo  c8:d5:fe:6e:14:5e   11 (B+G)    AP  yes     20
+Fibertel WiFi183    74:56:12:36:0d:9a   1 (B+G)     AP  yes     20
+Telecentro-39fc     e0:69:95:8e:2c:86   1 (B+G)     AP  yes     20
+My Place WiFi   e0:cb:4e:53:4c:63   11 (B+G)    AP  yes     20
+SpeedyWiFi  00:26:ed:af:a6:c8   1 (B+G)     AP  yes     20
+R2D2    00:16:b6:19:7a:90   6 (B+G)     AP  yes     20
+alfredo-wifi    00:15:ec:13:e1:54   1 (B+G)     AP  yes     18
+Telecentro-98d6     e0:69:95:48:2c:e6   1 (B+G)     AP  yes     18
+velillos    c8:d5:fe:6f:e3:e7   1 (B+G)     AP  yes     18
+Bohemio     00:1b:11:3a:f3:a7   8 (B+G)     AP  yes     18
+rodrigo     54:e6:fc:dd:7a:ae   1 (B+G)     AP  yes     16
+Telecentro-5752     e0:69:95:65:e1:71   1 (B+G)     AP  yes     16
+tuviejaentanga  50:67:f0:a9:49:96   1 (B+G)     AP  yes     13
+cisap   00:24:d2:0a:e3:82   1 (B+G)     AP  yes     13
+luisa   00:16:b6:19:7e:68   11 (B+G)    AP  no  13
+
+lobosybogota    68:7f:74:fe:1c:84   6 (B+G)     AP  yes     49
+ACOYTE  98:fc:11:d1:45:d1   9 (B+G)     AP  yes     43
+NANCY   c8:d5:fe:70:14:5c   11 (B+G)    AP  yes     43
+MATSAN  d8:5d:4c:b3:69:b6   1 (B+G)     AP  yes     41
+FRANARELLA  94:44:52:3b:14:0d   6 (B+G)     AP  yes     38
+WIFI@Ga's   54:e6:fc:b3:99:c2   9 (B+G)     AP  yes     36
+Depto   d8:5d:4c:da:e8:7a   1 (B+G)     AP  yes     35
+hris304     00:18:39:58:22:f1   6 (B+G)     AP  yes     32
+Mush    00:1e:e5:75:6a:e1   6 (B+G)     AP  yes     32
+TP-LINK_CBA0F8  00:25:86:cb:a0:f8   6 (B+G)     AP  no  30
+FT05636     90:e6:ba:a2:27:40   6 (B+G)     AP  no  30
+cisap   00:24:d2:0a:e3:82   1 (B+G)     AP  yes     29
+Topcom  00:0e:2e:fe:90:bc   3 (B+G)     AP  no  29
+Wi-Fi Arnet     50:67:f0:a9:2a:b7   11 (B+G)    AP  yes     27
+linksys     00:25:9c:f0:cb:9c   6 (B+G)     AP  yes     26
+nacho   00:21:29:9d:09:fb   6 (B+G)     AP  yes     26
+TP-LINK_CD76C4  00:23:cd:cd:76:c4   6 (B+G)     AP  yes     26
+baldocita   00:15:ec:10:bb:ac   11 (B+G)    AP  yes     26
+familia     00:24:01:fd:f8:ae   11 (B+G)    AP  yes     26
+Marearte    68:7f:74:35:79:57   1 (B+G)     AP  yes     26
+NETGEAR     00:14:6c:fa:e4:0c   11 (B+G)    AP  yes     24
+Zabalza     00:24:01:1a:a0:49   2 (B+G)     AP  yes     23
+lamartona   00:18:f8:61:76:20   11 (B+G)    AP  yes     23
+GABRIEL_PC  f4:ec:38:c8:7d:50   9 (B+G)     AP  yes     23
+ClauyFer    00:18:f8:70:57:a7   6 (B+G)     AP  yes     21
+Telecentro-39fc     e0:69:95:8e:2c:86   1 (B+G)     AP  yes     21
+LauRiTa     30:39:f2:06:16:e6   1 (B+G)     AP  yes     21
+Bohemio     00:1b:11:3a:f3:a7   8 (B+G)     AP  yes     21
+alfredo-wifi    00:15:ec:13:e1:54   1 (B+G)     AP  yes     20
+PerdonanosEnzo  c8:d5:fe:6e:14:5e   11 (B+G)    AP  yes     20
+Lopez_Collazo   54:e6:fc:fd:0c:68   6 (B+G)     AP  yes     20
+ENCOREA801BC    00:02:6f:a8:01:bc   10 (B+G)    AP  yes     20
+Telecentro-5752     e0:69:95:65:e1:71   1 (B+G)     AP  yes     20
+Telecentro-05b2     20:cf:30:41:5f:28   1 (B+G)     AP  yes     20
+Fibertel WiFi   7c:4f:b5:90:71:44   1 (B+G)     AP  yes     18
+FT2206  00:1d:60:15:9d:44   11 (B+G)    AP  yes     18
+SpeedyWiFi  00:26:ed:af:a6:c8   1 (B+G)     AP  yes     18
+COLGATE DE ESTA!!!  00:e0:4c:f8:4f:51   6 (B+G)     AP  yes     16
+Speedy-2105     c8:d5:fe:15:a1:db   11 (B+G)    AP  yes     16
+frenchys    00:24:01:1b:16:43   11 (B+G)    AP  yes     16
+Florencia   50:67:f0:a5:9d:94   11 (B+G)    AP  yes     13
+Casa Daniel     00:25:9c:3a:a8:d9   2 (B+G)     AP  yes     13
+Inter Puccini   00:11:50:8b:b2:12   11 (B+G)    AP  yes     12
+
+lobosybogota    68:7f:74:fe:1c:84   6 (B+G)     AP  yes     46
+MATSAN  d8:5d:4c:b3:69:b6   1 (B+G)     AP  yes     43
+Depto   d8:5d:4c:da:e8:7a   1 (B+G)     AP  yes     41
+FRANARELLA  94:44:52:3b:14:0d   6 (B+G)     AP  yes     40
+TP-LINK_CBA0F8  00:25:86:cb:a0:f8   6 (B+G)     AP  no  35
+Mush    00:1e:e5:75:6a:e1   6 (B+G)     AP  yes     35
+ACOYTE  98:fc:11:d1:45:d1   9 (B+G)     AP  yes     35
+FT05636     90:e6:ba:a2:27:40   6 (B+G)     AP  no  33
+hris304     00:18:39:58:22:f1   6 (B+G)     AP  yes     33
+BEITI   b0:48:7a:b2:79:30   9 (B+G)     AP  yes     32
+linksys     00:18:39:cc:bc:40   6 (B+G)     AP  no  32
+River   68:7f:74:dc:42:81   6 (B+G)     AP  yes     30
+PerdonanosEnzo  c8:d5:fe:6e:14:5e   11 (B+G)    AP  yes     30
+Fibertel WiFi   7c:4f:b5:90:71:44   1 (B+G)     AP  yes     29
+Lopez Wifi  cc:7d:37:ec:ee:40   6 (B+G)     AP  yes     29
+linksys     00:13:10:63:8e:47   6 (B+G)     AP  yes     29
+familia     00:24:01:fd:f8:ae   11 (B+G)    AP  yes     29
+nacho   00:21:29:9d:09:fb   6 (B+G)     AP  yes     27
+NETGEAR     00:14:6c:fa:e4:0c   11 (B+G)    AP  yes     26
+baldocita   00:15:ec:10:bb:ac   11 (B+G)    AP  yes     26
+sandra_ft   cc:7d:37:ee:5f:96   11 (B+G)    AP  yes     26
+LauRiTa     30:39:f2:06:16:e6   1 (B+G)     AP  yes     24
+Lopez_Collazo   54:e6:fc:fd:0c:68   6 (B+G)     AP  yes     24
+Lincoln 7 echo  00:21:29:bd:0a:0e   6 (B+G)     AP  yes     24
+GABRIEL_PC  f4:ec:38:c8:7d:50   9 (B+G)     AP  yes     24
+DRALink     5c:d9:98:fe:f4:58   6 (B+G)     AP  yes     24
+linksys     00:25:9c:f0:cb:9c   6 (B+G)     AP  yes     23
+UBNT    00:27:22:40:7d:ea   9 (B+G)     AP  yes     23
+lamartona   00:18:f8:61:76:20   11 (B+G)    AP  yes     23
+Hemoto  00:1b:11:3b:81:7d   2 (B+G)     AP  yes     23
+Casa    94:0c:6d:ef:47:60   1 (B+G)     AP  yes     23
+SpeedyWiFi  00:26:ed:af:a6:c8   1 (B+G)     AP  yes     23
+Zabalza     00:24:01:1a:a0:49   2 (B+G)     AP  yes     23
+wilson  b0:48:7a:ae:a1:60   9 (B+G)     AP  yes     20
+CamposCordoba   c8:d5:fe:6d:27:5a   11 (B+G)    AP  yes     20
+CELESTE     74:ea:3a:e7:3a:ba   4 (B+G)     AP  yes     20
+Speedy_m9xnuf   c8:6c:87:ff:22:36   11 (B+G)    AP  yes     18
+cisap   00:24:d2:0a:e3:82   1 (B+G)     AP  yes     18
+Taitito     34:4b:50:41:ec:cf   11 (B+G)    AP  yes     18
+MEX WIFI    00:22:15:ee:f7:c4   11 (B+G)    AP  yes     18
+Telecentro-3a38     20:cf:30:3f:f6:16   1 (B+G)     AP  yes     18
+Casa Daniel     00:25:9c:3a:a8:d9   2 (B+G)     AP  yes     16
+andamios    50:67:f0:a9:2b:98   1 (B+G)     AP  yes     15
+Telecentro-6c5a     e0:69:95:92:dc:c1   1 (B+G)     AP  yes     15
+SpeedyEster     c8:d5:fe:6d:24:bc   1 (B+G)     AP  yes     13
+primuchas@speedy    c8:d5:fe:7d:d3:0d   1 (B+G)     AP  yes     13
+Wifi Joaquin    e0:cb:4e:60:f1:3e   11 (B+G)    AP  yes     13
+Speedy-aae8     c8:d5:fe:15:52:17   1 (B+G)     AP  yes     13
+HP4EBAE2    02:25:65:01:b2:fc   10 (B)  Ad hoc  no  12
+Joe Dallesandro     d4:d1:84:20:80:b1   1 (B+G)     AP  yes     12
+
+lobosybogota    68:7f:74:fe:1c:84   6 (B+G)     AP  yes     46
+Depto   d8:5d:4c:da:e8:7a   1 (B+G)     AP  yes     44
+ACOYTE  98:fc:11:d1:45:d1   9 (B+G)     AP  yes     44
+nacho   00:21:29:9d:09:fb   6 (B+G)     AP  yes     40
+cinthia veronica    00:22:33:ed:9d:6c   11 (B+G)    AP  yes     40
+linksys     00:18:39:cc:bc:40   6 (B+G)     AP  no  40
+COLGATE DE ESTA!!!  00:e0:4c:f8:4f:51   6 (B+G)     AP  yes     38
+River   68:7f:74:dc:42:81   6 (B+G)     AP  yes     38
+linksys     00:13:10:63:8e:47   6 (B+G)     AP  yes     38
+Seba-M  00:21:29:63:3f:70   6 (B+G)     AP  yes     38
+LauRiTa     30:39:f2:06:16:e6   1 (B+G)     AP  yes     36
+UBNT    00:27:22:40:7d:ea   9 (B+G)     AP  yes     36
+TP-LINK_CBA0F8  00:25:86:cb:a0:f8   6 (B+G)     AP  no  33
+Lopez Wifi  cc:7d:37:ec:ee:40   6 (B+G)     AP  yes     33
+Mush    00:1e:e5:75:6a:e1   6 (B+G)     AP  yes     32
+PerdonanosEnzo  c8:d5:fe:6e:14:5e   11 (B+G)    AP  yes     32
+Fibertel WiFi   7c:4f:b5:90:71:44   1 (B+G)     AP  yes     32
+FRANARELLA  94:44:52:3b:14:0d   6 (B+G)     AP  yes     32
+DRALink     5c:d9:98:fe:f4:58   6 (B+G)     AP  yes     29
+BEITI   b0:48:7a:b2:79:30   9 (B+G)     AP  yes     29
+FT05636     90:e6:ba:a2:27:40   6 (B+G)     AP  no  29
+juan123     00:22:6b:6a:a6:dc   6 (B+G)     AP  yes     26
+SpeedyWiFi  00:26:ed:af:a6:c8   1 (B+G)     AP  yes     26
+GABRIEL_PC  f4:ec:38:c8:7d:50   9 (B+G)     AP  yes     24
+KRYSTA22_Network    b0:48:7a:a0:7c:74   4 (B+G)     AP  yes     24
+Grace   50:67:f0:9d:82:a4   11 (B+G)    AP  yes     24
+Telecentro-c446     e0:69:95:21:67:5c   11 (B+G)    AP  yes     23
+SANDRA  38:60:77:c1:34:29   11 (B+G)    AP  yes     23
+FT2206  00:1d:60:15:9d:44   11 (B+G)    AP  yes     23
+familia     00:24:01:fd:f8:ae   11 (B+G)    AP  yes     23
+Casa    94:0c:6d:ef:47:60   1 (B+G)     AP  yes     21
+Home-Wifi   b0:48:7a:db:b5:40   9 (B+G)     AP  yes     21
+frenchys    00:24:01:1b:16:43   11 (B+G)    AP  yes     21
+simonet     00:18:f8:6d:bd:45   6 (B+G)     AP  yes     20
+Telecentro-0f80     e0:69:95:40:8b:31   1 (B+G)     AP  yes     20
+linksys_SES_49650   00:14:bf:7b:64:98   6 (B+G)     AP  yes     20
+NETGEAR     00:14:6c:fa:e4:0c   11 (B+G)    AP  yes     20
+Telecentro-17a0     e0:69:95:92:85:ec   1 (B+G)     AP  yes     20
+Telecentro-3a38     20:cf:30:3f:f6:16   1 (B+G)     AP  yes     20
+Santi   70:7e:43:ba:3c:c2   11 (B+G)    AP  yes     18
+Speedy-dce2     c8:d5:fe:15:76:9b   11 (B+G)    AP  yes     18
+alfredo-wifi    00:15:ec:13:e1:54   1 (B+G)     AP  yes     18
+yoga    d8:5d:4c:f9:31:7c   11 (B+G)    AP  yes     16
+MATSAN  d8:5d:4c:b3:69:b6   1 (B+G)     AP  yes     16
+Speedy-b397     00:e0:4d:a1:3c:34   11 (B+G)    AP  yes     16
+nancy2011   c8:d5:fe:6e:07:2c   11 (B+G)    AP  yes     13
+SpeedyWiFi  00:26:ed:ae:f1:40   11 (B+G)    AP  yes     13
+Telecentro-39fc     e0:69:95:8e:2c:86   1 (B+G)     AP  yes     13
+luz gonzales...     e0:cb:4e:6d:72:4e   11 (B+G)    AP  yes     10
+
+bosybogota  68:7f:74:fe:1c:84   6 (B+G)     AP  yes     46  
+Mush    00:1e:e5:75:6a:e1   6 (B+G)     AP  yes     41  
+linksys     00:13:10:63:8e:47   6 (B+G)     AP  yes     41  
+Seba-M  00:21:29:63:3f:70   6 (B+G)     AP  yes     38  
+TP-LINK_CBA0F8  00:25:86:cb:a0:f8   6 (B+G)     AP  no  36  
+linksys     00:18:39:cc:bc:40   6 (B+G)     AP  no  36  
+MATSAN  d8:5d:4c:b3:69:b6   1 (B+G)     AP  yes     35  
+FRANARELLA  94:44:52:3b:14:0d   6 (B+G)     AP  yes     35  
+juan123     00:22:6b:6a:a6:dc   6 (B+G)     AP  yes     33  
+UBNT    00:27:22:40:7d:ea   9 (B+G)     AP  yes     33  
+cinthia veronica    00:22:33:ed:9d:6c   11 (B+G)    AP  yes     33  
+Depto   d8:5d:4c:da:e8:7a   1 (B+G)     AP  yes     33  
+ACOYTE  98:fc:11:d1:45:d1   9 (B+G)     AP  yes     32  
+baldocita   00:15:ec:10:bb:ac   11 (B+G)    AP  yes     32  
+familia     00:24:01:fd:f8:ae   11 (B+G)    AP  yes     32  
+COLGATE DE ESTA!!!  00:e0:4c:f8:4f:51   6 (B+G)     AP  yes     32  
+Fibertel WiFi   7c:4f:b5:90:71:44   1 (B+G)     AP  yes     30  
+BEITI   b0:48:7a:b2:79:30   9 (B+G)     AP  yes     30  
+Lopez_Collazo   54:e6:fc:fd:0c:68   6 (B+G)     AP  yes     29  
+NANCY   c8:d5:fe:70:14:5c   11 (B+G)    AP  yes     29  
+GABRIEL_PC  f4:ec:38:c8:7d:50   9 (B+G)     AP  yes     29  
+nacho   00:21:29:9d:09:fb   6 (B+G)     AP  yes     29  
+SpeedyWiFii     c8:d5:fe:6e:0d:81   1 (B+G)     AP  yes     27  
+Veintiuno   00:27:19:cd:b8:fe   6 (B+G)     AP  yes     27  
+PerdonanosEnzo  c8:d5:fe:6e:14:5e   11 (B+G)    AP  yes     26  
+SpeedyEster     c8:d5:fe:6d:24:bc   1 (B+G)     AP  yes     26  
+linksys_SES_49650   00:14:bf:7b:64:98   6 (B+G)     AP  yes     24  
+Santi   70:7e:43:ba:3c:c2   11 (B+G)    AP  yes     24  
+dlink   00:24:01:1b:49:0f   6 (B+G)     AP  yes     24  
+Colgate     00:1b:11:24:ba:35   6 (B+G)     AP  yes     23  
+TP-LINK_C5CAE4  00:27:19:c5:ca:e4   6 (B+G)     AP  yes     23  
+Grace   50:67:f0:9d:82:a4   11 (B+G)    AP  yes     23  
+FT05636     90:e6:ba:a2:27:40   6 (B+G)     AP  no  23  
+LauRiTa     30:39:f2:06:16:e6   1 (B+G)     AP  yes     21  
+FT9081668   e0:cb:4e:61:4a:0f   6 (B+G)     AP  yes     21  
+Taitito     34:4b:50:41:ec:cf   11 (B+G)    AP  yes     21  
+SpeedyWiFi  00:26:ed:af:a6:c8   1 (B+G)     AP  yes     20  
+FT2206  00:1d:60:15:9d:44   11 (B+G)    AP  yes     20  
+lamartona   00:18:f8:61:76:20   11 (B+G)    AP  yes     20  
+Allegra     54:e6:fc:dd:6d:42   1 (B+G)     AP  yes     18  
+Florencia   50:67:f0:a5:9d:94   11 (B+G)    AP  yes     18  
+Hemoto  00:1b:11:3b:81:7d   2 (B+G)     AP  yes     18  
+CamposCordoba   c8:d5:fe:6d:27:5a   11 (B+G)    AP  yes     18  
+Telecentro-3a38     20:cf:30:3f:f6:16   1 (B+G)     AP  yes     16  
+Paulman     00:26:ed:99:5c:b3   1 (B+G)     AP  yes     16  
+alfredo-wifi    00:15:ec:13:e1:54   1 (B+G)     AP  yes     16  
+primuchas@speedy    c8:d5:fe:7d:d3:0d   1 (B+G)     AP  yes     15  
+Telecentro-39fc     e0:69:95:8e:2c:86   1 (B+G)     AP  yes     13  
+WIFI-MARCE  54:e6:fc:af:ea:d4   9 (B+G)     AP  yes     13  
+Telecentro-6c5a     e0:69:95:92:dc:c1   1 (B+G)     AP  yes     13  
+andamios    50:67:f0:a9:2b:98   1 (B+G)     AP  yes     13  
+Telecentro-17a0     e0:69:95:92:85:ec   1 (B+G)     AP  yes     12  
+Depto   d8:5d:4c:da:e8:7a   1 (B+G)     AP  yes     50
+nacho   00:21:29:9d:09:fb   6 (B+G)     AP  yes     49
+Fibertel WiFi   7c:4f:b5:90:71:44   1 (B+G)     AP  yes     49
+lobosybogota    68:7f:74:fe:1c:84   6 (B+G)     AP  yes     41
+NETGEAR     00:14:6c:fa:e4:0c   11 (B+G)    AP  yes     38
+ACOYTE  98:fc:11:d1:45:d1   9 (B+G)     AP  yes     38
+Fibertel WiFi833    38:60:77:88:3c:aa   6 (B+G)     AP  yes     36
+CELESTE     74:ea:3a:e7:3a:ba   4 (B+G)     AP  yes     36
+River   68:7f:74:dc:42:81   6 (B+G)     AP  yes     35
+honguito    00:1c:10:2b:c1:63   6 (B+G)     AP  yes     33
+FRANARELLA  94:44:52:3b:14:0d   6 (B+G)     AP  yes     33
+Mush    00:1e:e5:75:6a:e1   6 (B+G)     AP  yes     32
+linksys     00:18:39:cc:bc:40   6 (B+G)     AP  no  32
+MATSAN  d8:5d:4c:b3:69:b6   1 (B+G)     AP  yes     32
+Seba-M  00:21:29:63:3f:70   6 (B+G)     AP  yes     32
+LauRiTa     30:39:f2:06:16:e6   1 (B+G)     AP  yes     32
+sandra_ft   cc:7d:37:ee:5f:96   11 (B+G)    AP  yes     32
+TP-LINK_CBA0F8  00:25:86:cb:a0:f8   6 (B+G)     AP  no  30
+PerdonanosEnzo  c8:d5:fe:6e:14:5e   11 (B+G)    AP  yes     29
+familia     00:24:01:fd:f8:ae   11 (B+G)    AP  yes     27
+cinthia veronica    00:22:33:ed:9d:6c   11 (B+G)    AP  yes     27
+ROSARIO.wifi    00:15:ec:14:67:09   11 (B+G)    AP  yes     26
+Paulman     00:26:ed:99:5c:b3   1 (B+G)     AP  yes     24
+alfredo-wifi    00:15:ec:13:e1:54   1 (B+G)     AP  yes     24
+Zabalza     00:24:01:1a:a0:49   2 (B+G)     AP  yes     24
+COLGATE DE ESTA!!!  00:e0:4c:f8:4f:51   6 (B+G)     AP  yes     24
+VITO - 1    5c:d9:98:2c:21:c8   11 (B+G)    AP  yes     24
+SpeedyWiFi  00:26:ed:af:a6:c8   1 (B+G)     AP  yes     24
+DRALink     5c:d9:98:fe:f4:58   6 (B+G)     AP  yes     23
+Telecentro-17a0     e0:69:95:92:85:ec   1 (B+G)     AP  yes     23
+Florencia   50:67:f0:a5:9d:94   11 (B+G)    AP  yes     21
+Speedy-b397     00:e0:4d:a1:3c:34   11 (B+G)    AP  yes     21
+UBNT    00:27:22:40:7d:ea   9 (B+G)     AP  yes     21
+SANDRA  38:60:77:c1:34:29   11 (B+G)    AP  yes     21
+SapoPepe    00:1c:10:17:d5:24   6 (B+G)     AP  yes     20
+Home-Wifi   b0:48:7a:db:b5:40   9 (B+G)     AP  yes     20
+CamposCordoba   c8:d5:fe:6d:27:5a   11 (B+G)    AP  yes     20
+PABLO   54:e6:fc:b1:16:2a   9 (B+G)     AP  yes     20
+BEITI   b0:48:7a:b2:79:30   9 (B+G)     AP  yes     20
+Fibertel WiFi498    00:25:f1:72:ad:4b   1 (B+G)     AP  yes     18
+luz gonzales...     e0:cb:4e:6d:72:4e   11 (B+G)    AP  yes     18
+Speedy-aae8     c8:d5:fe:15:52:17   1 (B+G)     AP  yes     18
+Fibertel WiFi   00:25:f1:d4:a7:99   11 (B+G)    AP  yes     18
+GABRIEL_PC  f4:ec:38:c8:7d:50   9 (B+G)     AP  yes     18
+cristina    c8:d5:fe:69:e4:de   11 (B+G)    AP  yes     16
+yoga    d8:5d:4c:f9:31:7c   11 (B+G)    AP  yes     16
+isengard    c8:d5:fe:89:b5:c0   1 (B+G)     AP  yes     16
+primuchas@speedy    c8:d5:fe:7d:d3:0d   1 (B+G)     AP  yes     13
+maitena2    c8:d5:fe:70:27:42   11 (B+G)    AP  yes     12
+FT2206  00:1d:60:15:9d:44   11 (B+G)    AP  yes     10
+
+NETGEAR     00:14:6c:fa:e4:0c   11 (B+G)    AP  yes     49
+nacho   00:21:29:9d:09:fb   6 (B+G)     AP  yes     44
+lobosybogota    68:7f:74:fe:1c:84   6 (B+G)     AP  yes     43
+Depto   d8:5d:4c:da:e8:7a   1 (B+G)     AP  yes     41
+CELESTE     74:ea:3a:e7:3a:ba   4 (B+G)     AP  yes     41
+ACOYTE  98:fc:11:d1:45:d1   9 (B+G)     AP  yes     41
+Fibertel WiFi   7c:4f:b5:90:71:44   1 (B+G)     AP  yes     40
+valiger     00:25:9c:3a:99:16   6 (B+G)     AP  yes     36
+Casa    94:0c:6d:ef:47:60   1 (B+G)     AP  yes     36
+Mush    00:1e:e5:75:6a:e1   6 (B+G)     AP  yes     35
+River   68:7f:74:dc:42:81   6 (B+G)     AP  yes     35
+linksys     00:18:39:cc:bc:40   6 (B+G)     AP  no  35
+TP-LINK_CBA0F8  00:25:86:cb:a0:f8   6 (B+G)     AP  no  35
+MATSAN  d8:5d:4c:b3:69:b6   1 (B+G)     AP  yes     32
+jc  00:26:b6:19:2b:38   1 (B+G)     AP  yes     32
+sandra_ft   cc:7d:37:ee:5f:96   11 (B+G)    AP  yes     32
+Speedy-b397     00:e0:4d:a1:3c:34   11 (B+G)    AP  yes     32
+Paulman     00:26:ed:99:5c:b3   1 (B+G)     AP  yes     29
+CASA    00:1e:e5:6e:6d:a0   6 (B+G)     AP  no  29
+DRALink     5c:d9:98:fe:f4:58   6 (B+G)     AP  yes     29
+KRYSTA22_Network    b0:48:7a:a0:7c:74   4 (B+G)     AP  yes     29
+FRANARELLA  94:44:52:3b:14:0d   6 (B+G)     AP  yes     29
+Led Zeppelin III    00:23:69:ac:e5:b3   6 (B+G)     AP  yes     29
+TILEY66     00:25:9c:4c:4e:8e   6 (B+G)     AP  yes     27
+VITO - 1    5c:d9:98:2c:21:c8   11 (B+G)    AP  yes     27
+chiqui  00:23:69:42:c3:1d   6 (B+G)     AP  yes     27
+honguito    00:1c:10:2b:c1:63   6 (B+G)     AP  yes     26
+ROSARIO.wifi    00:15:ec:14:67:09   11 (B+G)    AP  yes     26
+familia     00:24:01:fd:f8:ae   11 (B+G)    AP  yes     26
+LauRiTa     30:39:f2:06:16:e6   1 (B+G)     AP  yes     26
+FT2206  00:1d:60:15:9d:44   11 (B+G)    AP  yes     26
+Estudio     00:23:69:c2:b0:5c   6 (B+G)     AP  yes     24
+Fibertel WiFi833    38:60:77:88:3c:aa   6 (B+G)     AP  yes     24
+COLGATE DE ESTA!!!  00:e0:4c:f8:4f:51   6 (B+G)     AP  yes     24
+Faxem   c8:d5:fe:69:e2:87   6 (B+G)     AP  yes     24
+Zabalza     00:24:01:1a:a0:49   2 (B+G)     AP  yes     23
+Fibertel WiFi498    00:25:f1:72:ad:4b   1 (B+G)     AP  yes     23
+Edgardo     54:e6:fc:fd:5f:e4   9 (B+G)     AP  yes     23
+PerdonanosEnzo  c8:d5:fe:6e:14:5e   11 (B+G)    AP  yes     23
+Wi-Fi Arnet     50:67:f0:a9:2a:b7   11 (B+G)    AP  yes     23
+rutenberg   00:1d:0f:ce:73:72   6 (B+G)     AP  yes     21
+WIFI@Ga's   54:e6:fc:b3:99:c2   9 (B+G)     AP  yes     21
+ENCOREA801D8    00:02:6f:a8:01:d8   11 (B+G)    AP  yes     20
+AC/DC   00:26:5a:2b:57:30   1 (B+G)     AP  yes     20
+1149836035  c8:d5:fe:0f:55:6c   11 (B+G)    AP  yes     18
+Wifi Joaquin    2c:9e:5f:18:15:44   11 (B+G)    AP  no  18
+Plumas Verdes reloded.. mierd.  00:06:4f:5d:95:66   3 (B+G)     AP  yes     18
+PABLO   54:e6:fc:b1:16:2a   9 (B+G)     AP  yes     16
+Natalia WiFi    e0:cb:4e:60:e5:c2   6 (B+G)     AP  yes     16
+SpeedyEster     c8:d5:fe:6d:24:bc   1 (B+G)     AP  yes     16
+Lopez Wifi  cc:7d:37:ec:ee:40   6 (B+G)     AP  yes     15
+dlink-2010  00:26:5a:a5:09:72   11 (B+G)    AP  yes     15
+Speedy-aae8     c8:d5:fe:15:52:17   1 (B+G)     AP  yes     15
+
+Casa    94:0c:6d:ef:47:60   1 (B+G)     AP  yes     44
+ACOYTE  98:fc:11:d1:45:d1   9 (B+G)     AP  yes     43
+Depto   d8:5d:4c:da:e8:7a   1 (B+G)     AP  yes     43
+KRYSTA22_Network    b0:48:7a:a0:7c:74   4 (B+G)     AP  yes     41
+Fibertel WiFi714    38:60:77:88:25:62   6 (B+G)     AP  yes     40
+LETICIA     d8:5d:4c:c4:27:de   3 (B+G)     AP  yes     38
+linksys     00:18:39:cc:bc:40   6 (B+G)     AP  no  36
+R2D2    00:16:b6:19:7a:90   6 (B+G)     AP  yes     36
+lobosybogota    68:7f:74:fe:1c:84   6 (B+G)     AP  yes     36
+FIRU    e0:cb:4e:6f:04:9d   6 (B+G)     AP  yes     36
+nicolas     00:1b:11:3e:2d:d8   1 (B+G)     AP  yes     36
+MATSAN  d8:5d:4c:b3:69:b6   1 (B+G)     AP  yes     35
+DRALink     5c:d9:98:fe:f4:58   6 (B+G)     AP  yes     35
+AndreA  00:22:6b:48:1d:f3   6 (B+G)     AP  yes     33
+NETGEAR     00:14:6c:fa:e4:0c   11 (B+G)    AP  yes     33
+chino   00:e0:4d:a2:ba:60   11 (B+G)    AP  yes     32
+1149836035  c8:d5:fe:0f:55:6c   11 (B+G)    AP  yes     32
+baldocita   00:15:ec:10:bb:ac   11 (B+G)    AP  yes     32
+TP-LINK_CBA0F8  00:25:86:cb:a0:f8   6 (B+G)     AP  no  30
+Mush    00:1e:e5:75:6a:e1   6 (B+G)     AP  yes     29
+GuaiFai     00:1b:11:3b:51:ff   6 (B+G)     AP  yes     29
+Telecentro-85f6     20:cf:30:4f:de:2c   11 (B+G)    AP  yes     29
+Paulman     00:26:ed:99:5c:b3   1 (B+G)     AP  yes     29
+Fibertel WiFi833    38:60:77:88:3c:aa   6 (B+G)     AP  yes     29
+FRANARELLA  94:44:52:3b:14:0d   6 (B+G)     AP  yes     29
+Lincoln 7 echo  00:21:29:bd:0a:0e   6 (B+G)     AP  yes     27
+TILEY66     00:25:9c:4c:4e:8e   6 (B+G)     AP  yes     27
+PerdonanosEnzo  c8:d5:fe:6e:14:5e   11 (B+G)    AP  yes     27
+Telecentro-c446     e0:69:95:21:67:5c   11 (B+G)    AP  yes     27
+Marakas     00:25:9c:49:0b:c7   6 (B+G)     AP  yes     26
+familia     00:24:01:fd:f8:ae   11 (B+G)    AP  yes     26
+SpeedyWiFi  00:26:ed:af:a6:c8   1 (B+G)     AP  yes     26
+sandra_ft   cc:7d:37:ee:5f:96   11 (B+G)    AP  yes     26
+DanielyMarcelo  50:67:f0:9e:33:ba   1 (B+G)     AP  yes     24
+Dori A..    b0:48:7a:c8:a4:16   2 (B+G)     AP  yes     23
+LauRiTa     30:39:f2:06:16:e6   1 (B+G)     AP  yes     23
+Estocolmo   f4:ec:38:9f:67:5c   9 (B+G)     AP  yes     23
+FT2206  00:1d:60:15:9d:44   11 (B+G)    AP  yes     23
+Andrea  00:0c:41:f4:45:b1   6 (B)   AP  yes     23
+BIAUS   e0:69:95:28:de:a7   11 (B+G)    AP  yes     21
+nacho   00:21:29:9d:09:fb   6 (B+G)     AP  yes     21
+Telecentro-6654     e0:69:95:9a:ea:99   1 (B+G)     AP  yes     20
+Speedy-b397     00:e0:4d:a1:3c:34   11 (B+G)    AP  yes     20
+Fibertel WiFi498    00:25:f1:72:ad:4b   1 (B+G)     AP  yes     20
+rutenberg   00:1d:0f:ce:73:72   6 (B+G)     AP  yes     20
+Florencia   50:67:f0:a5:9d:94   11 (B+G)    AP  yes     20
+Andy    2c:9e:5f:1c:09:db   1 (B+G)     AP  yes     20
+Hector  00:1c:10:34:43:18   11 (B+G)    AP  yes     18
+BEITI   b0:48:7a:b2:79:30   9 (B+G)     AP  yes     16
+cristina    c8:d5:fe:69:e4:de   11 (B+G)    AP  yes     16
+Fibertel WiFi183    74:56:12:36:0d:9a   6 (B+G)     AP  yes     16
+frenchys    00:24:01:1b:16:43   11 (B+G)    AP  yes     13
+
+DRALink     5c:d9:98:fe:f4:58   6 (B+G)     AP  yes     52
+Depto   d8:5d:4c:da:e8:7a   1 (B+G)     AP  yes     50
+Bohemio     00:1b:11:3a:f3:a7   8 (B+G)     AP  yes     44
+frenchys    00:24:01:1b:16:43   11 (B+G)    AP  yes     38
+Dios es Inalambrico     b0:48:7a:81:da:f0   4 (B+G)     AP  yes     38
+MATSAN  d8:5d:4c:b3:69:b6   1 (B+G)     AP  yes     38
+walpac  00:21:29:bc:c7:84   6 (B+G)     AP  yes     38
+lobosybogota    68:7f:74:fe:1c:84   6 (B+G)     AP  yes     36
+Jorge   00:21:29:ad:f0:08   6 (B+G)     AP  yes     36
+TP-LINK_CBA0F8  00:25:86:cb:a0:f8   6 (B+G)     AP  no  36
+Telecentro-8c8e     e0:69:95:52:d3:4d   1 (B+G)     AP  yes     36
+ACOYTE  98:fc:11:d1:45:d1   9 (B+G)     AP  yes     35
+Fibertel WiFi833    38:60:77:88:3c:aa   6 (B+G)     AP  yes     33
+baldocita   00:15:ec:10:bb:ac   11 (B+G)    AP  yes     32
+Fio     00:21:29:bd:22:a7   5 (B+G)     AP  yes     32
+linksys     00:18:39:cc:bc:40   6 (B+G)     AP  no  32
+Speedycasa  c8:6c:87:58:d1:10   11 (B+G)    AP  yes     32
+ELENA   00:25:86:cf:f9:5a   6 (B+G)     AP  yes     30
+caballito   00:0c:42:05:0d:64   1 (B)   AP  no  30
+sandra_ft   cc:7d:37:ee:5f:96   11 (B+G)    AP  yes     30
+GuaiFai     00:1b:11:3b:51:ff   6 (B+G)     AP  yes     29
+Fibertel WiFi714    38:60:77:88:25:62   6 (B+G)     AP  yes     29
+Fibertel WiFi   7c:4f:b5:90:71:44   1 (B+G)     AP  yes     29
+River   68:7f:74:dc:42:81   6 (B+G)     AP  yes     27
+nacho   00:21:29:9d:09:fb   6 (B+G)     AP  yes     27
+LauRiTa     30:39:f2:06:16:e6   1 (B+G)     AP  yes     26
+Telecentro-c446     e0:69:95:21:67:5c   11 (B+G)    AP  yes     26
+mariel-wifi     c8:d5:fe:72:38:22   1 (B+G)     AP  yes     24
+ANDREU  00:19:e0:64:8e:f8   6 (B+G)     AP  yes     24
+Speedy_xnqu6p   c8:6c:87:fe:e8:15   11 (B+G)    AP  yes     24
+NANCY   c8:d5:fe:70:14:5c   11 (B+G)    AP  yes     24
+speedymariana   00:1b:9e:cd:e2:80   1 (B+G)     AP  yes     23
+FRANARELLA  94:44:52:3b:14:0d   6 (B+G)     AP  yes     23
+chino   00:e0:4d:a2:ba:60   11 (B+G)    AP  yes     23
+SpeedyEster     c8:d5:fe:6d:24:bc   1 (B+G)     AP  yes     23
+Bogota90210     f4:ec:38:ba:41:46   11 (B+G)    AP  yes     23
+Casa    94:0c:6d:ef:47:60   1 (B+G)     AP  yes     21
+Speedy-2105     c8:d5:fe:15:a1:db   11 (B+G)    AP  yes     21
+maitena2    c8:d5:fe:70:27:42   11 (B+G)    AP  yes     20
+lamartona   00:18:f8:61:76:20   11 (B+G)    AP  yes     20
+FT-QUIROS   3c:75:4a:23:6b:fc   1 (B+G)     AP  yes     20
+cristina    c8:d5:fe:69:e4:de   11 (B+G)    AP  yes     20
+Mota    74:ea:3a:c8:91:64   1 (B+G)     AP  yes     20
+FT_7793217  e0:cb:4e:52:a8:05   6 (B+G)     AP  no  20
+NETGEAR     00:14:6c:fa:e4:0c   11 (B+G)    AP  yes     20
+FT2206  00:1d:60:15:9d:44   11 (B+G)    AP  yes     20
+AJW     00:0f:a3:f2:3d:53   2 (B+G)     AP  yes     20
+alfredo-wifi    00:15:ec:13:e1:54   1 (B+G)     AP  yes     20
+Speedy-e4d8     00:e0:4d:2c:6f:fc   1 (B+G)     AP  yes     18
+Dori A..    b0:48:7a:c8:a4:16   2 (B+G)     AP  yes     18
+familia     00:24:01:fd:f8:ae   11 (B+G)    AP  yes     18
+Emma    40:4a:03:b7:bf:2f   6 (B+G)     AP  yes     18
+KRYSTA22_Network    b0:48:7a:a0:7c:74   4 (B+G)     AP  yes     16
+Seba-M  00:21:29:63:3f:70   6 (B+G)     AP  yes     16
+Laciar  00:1b:11:3b:3d:fd   3 (B+G)     AP  yes     16
+SANDRA  38:60:77:c1:34:29   11 (B+G)    AP  yes     15
+francisco3  00:24:d2:0b:a5:6f   11 (B+G)    AP  yes     15
+SpeedyWiFi  00:26:ed:af:a6:c8   1 (B+G)     AP  yes     13
+
+River   68:7f:74:dc:42:81   6 (B+G)     AP  yes     44
+Fucking Hostile!    54:e6:fc:ae:59:ce   4 (B+G)     AP  yes     43
+Paulman     00:26:ed:99:5c:b3   1 (B+G)     AP  yes     43
+ft_RIOS____     e0:cb:4e:60:95:0c   6 (B+G)     AP  yes     41
+Depto   d8:5d:4c:da:e8:7a   1 (B+G)     AP  yes     40
+luisa   00:16:b6:19:7e:68   11 (B+G)    AP  no  38
+linksys_SES_49650   00:14:bf:7b:64:98   6 (B+G)     AP  yes     38
+lobosybogota    68:7f:74:fe:1c:84   6 (B+G)     AP  yes     36
+Speedy_m9xnuf   c8:6c:87:ff:22:36   11 (B+G)    AP  yes     35
+ACOYTE  98:fc:11:d1:45:d1   9 (B+G)     AP  yes     35
+COLGATE DE ESTA!!!  00:e0:4c:f8:4f:51   6 (B+G)     AP  yes     35
+linksys     00:18:39:cc:bc:40   6 (B+G)     AP  no  33
+MATSAN  d8:5d:4c:b3:69:b6   1 (B+G)     AP  yes     33
+nacho   00:21:29:9d:09:fb   6 (B+G)     AP  yes     33
+marinet     00:21:91:4d:41:f2   6 (B+G)     AP  yes     32
+Lincoln 7 echo  00:21:29:bd:0a:0e   6 (B+G)     AP  yes     32
+TP-LINK_CBA0F8  00:25:86:cb:a0:f8   6 (B+G)     AP  no  32
+Fibertel WiFi   7c:4f:b5:90:71:44   1 (B+G)     AP  yes     32
+baldocita   00:15:ec:10:bb:ac   11 (B+G)    AP  yes     32
+NANCY   c8:d5:fe:70:14:5c   11 (B+G)    AP  yes     32
+sandra_ft   cc:7d:37:ee:5f:96   11 (B+G)    AP  yes     30
+privada     00:27:19:fa:0c:82   7 (B+G)     AP  yes     30
+LauRiTa     30:39:f2:06:16:e6   1 (B+G)     AP  yes     30
+Fibertel WiFi   3c:75:4a:23:33:37   11 (B+G)    AP  yes     30
+FRANARELLA  94:44:52:3b:14:0d   6 (B+G)     AP  yes     29
+Telecentro-125c     e0:69:95:44:e3:5d   1 (B+G)     AP  yes     27
+linksys_claudio     00:1c:10:58:52:89   6 (B+G)     AP  yes     27
+Plumas Verdes reloded.. mierd.  00:06:4f:5d:95:66   3 (B+G)     AP  yes     26
+Martinez.Chaparro   c8:d5:fe:69:d6:dd   6 (B+G)     AP  yes     26
+REDPER  00:21:29:b3:32:9a   6 (B+G)     AP  yes     26
+CELESTE     74:ea:3a:e7:3a:ba   4 (B+G)     AP  yes     26
+Bogota90210     f4:ec:38:ba:41:46   11 (B+G)    AP  yes     26
+dlink   00:1c:f0:3b:5b:49   6 (B+G)     AP  yes     24
+GABRIEL_PC  f4:ec:38:c8:7d:50   9 (B+G)     AP  yes     24
+Casa    94:0c:6d:ef:47:60   1 (B+G)     AP  yes     24
+Seba-M  00:21:29:63:3f:70   6 (B+G)     AP  yes     23
+arwen   00:30:4f:76:7c:70   6 (B+G)     AP  yes     23
+Danielito   00:24:01:fd:ab:ce   11 (B+G)    AP  yes     23
+ezpe@buenosaireslibre.org   00:0c:e5:50:c5:57   1 (B+G)     AP  no  23
+maitena2    c8:d5:fe:70:27:42   11 (B+G)    AP  yes     21
+Mopi    f8:d1:11:92:12:26   6 (B+G)     AP  yes     21
+Dori A..    b0:48:7a:c8:a4:16   2 (B+G)     AP  yes     20
+cinthia veronica    00:22:33:ed:9d:6c   11 (B+G)    AP  yes     20
+Denise 78   54:e6:fc:ad:46:fe   9 (B+G)     AP  yes     20
+ANDREA-WiFi     e0:cb:4e:61:14:0f   10 (B+G)    AP  no  12
+
+Depto   d8:5d:4c:da:e8:7a   1 (B+G)     AP  yes     49
+lobosybogota    68:7f:74:fe:1c:84   6 (B+G)     AP  yes     47
+Lincoln 7 echo  00:21:29:bd:0a:0e   6 (B+G)     AP  yes     46
+River   68:7f:74:dc:42:81   6 (B+G)     AP  yes     43
+DRALink     5c:d9:98:fe:f4:58   6 (B+G)     AP  yes     38
+NANCY   c8:d5:fe:70:14:5c   11 (B+G)    AP  yes     38
+COLGATE DE ESTA!!!  00:e0:4c:f8:4f:51   6 (B+G)     AP  yes     38
+TP-LINK_CBA0F8  00:25:86:cb:a0:f8   6 (B+G)     AP  no  38
+MATSAN  d8:5d:4c:b3:69:b6   1 (B+G)     AP  yes     36
+FRANARELLA  94:44:52:3b:14:0d   6 (B+G)     AP  yes     36
+ACOYTE  98:fc:11:d1:45:d1   9 (B+G)     AP  yes     36
+rutenberg   00:1d:0f:ce:73:72   6 (B+G)     AP  yes     36
+linksys_SES_49650   00:14:bf:7b:64:98   6 (B+G)     AP  yes     35
+Telecentro-c446     e0:69:95:21:67:5c   11 (B+G)    AP  yes     35
+GABRIEL_PC  f4:ec:38:c8:7d:50   9 (B+G)     AP  yes     35
+Seba-M  00:21:29:63:3f:70   6 (B+G)     AP  yes     33
+NETGEAR     00:14:6c:fa:e4:0c   11 (B+G)    AP  yes     33
+CaRo-PC_Network     c8:3a:35:1b:b9:28   6 (B+G)     AP  yes     33
+Paulman     00:26:ed:99:5c:b3   1 (B+G)     AP  yes     32
+FT_ALIPPE   00:22:15:ee:f7:ab   6 (B+G)     AP  yes     32
+Wi-Fi Arnet     50:67:f0:a9:2a:b7   11 (B+G)    AP  yes     32
+alfredo-wifi    00:15:ec:13:e1:54   1 (B+G)     AP  yes     30
+Speedy_m9xnuf   c8:6c:87:ff:22:36   11 (B+G)    AP  yes     30
+SpeedyWiFi  00:26:ed:af:a6:c8   1 (B+G)     AP  yes     30
+Fibertel WiFi183    74:56:12:36:0d:9a   6 (B+G)     AP  yes     30
+baldocita   00:15:ec:10:bb:ac   11 (B+G)    AP  yes     30
+BEITI   b0:48:7a:b2:79:30   9 (B+G)     AP  yes     30
+linksys     00:18:39:cc:bc:40   6 (B+G)     AP  no  29
+cristina    c8:d5:fe:69:e4:de   11 (B+G)    AP  yes     27
+luisa   00:16:b6:19:7e:68   11 (B+G)    AP  no  27
+cinthia veronica    00:22:33:ed:9d:6c   11 (B+G)    AP  yes     26
+SpeedyEster     c8:d5:fe:6d:24:bc   1 (B+G)     AP  yes     26
+FT05636     90:e6:ba:a2:27:40   6 (B+G)     AP  no  26
+Dios es Inalambrico     b0:48:7a:81:da:f0   4 (B+G)     AP  yes     24
+Grace   50:67:f0:9d:82:a4   11 (B+G)    AP  yes     24
+Plumas Verdes reloded.. mierd.  00:06:4f:5d:95:66   3 (B+G)     AP  yes     23
+Casa    94:0c:6d:ef:47:60   1 (B+G)     AP  yes     23
+Mopi    f8:d1:11:92:12:26   6 (B+G)     AP  yes     23
+R2D2    00:16:b6:19:7a:90   6 (B+G)     AP  yes     23
+Speedycasa  c8:6c:87:58:d1:10   11 (B+G)    AP  yes     23
+Naty    f4:ec:38:e8:e2:3e   5 (B+G)     AP  yes     23
+Telecentro-39fc     e0:69:95:8e:2c:86   1 (B+G)     AP  yes     23
+Fucking Hostile!    54:e6:fc:ae:59:ce   4 (B+G)     AP  yes     23
+valiger     00:25:9c:3a:99:16   6 (B+G)     AP  yes     23
+ft_RIOS____     e0:cb:4e:60:95:0c   6 (B+G)     AP  yes     21
+Zabalza     00:24:01:1a:a0:49   2 (B+G)     AP  yes     21
+Fibertel WiFi   7c:4f:b5:90:71:44   1 (B+G)     AP  yes     21
+frenchys    00:24:01:1b:16:43   11 (B+G)    AP  yes     20
+familia     00:24:01:fd:f8:ae   11 (B+G)    AP  yes     20
+Fibertel WiFi833    38:60:77:88:3c:aa   6 (B+G)     AP  yes     20
+Alien64     d4:d1:84:1e:26:bb   1 (B+G)     AP  no  18
+Speedy-2105     c8:d5:fe:15:a1:db   11 (B+G)    AP  yes     18
+LauRiTa     30:39:f2:06:16:e6   1 (B+G)     AP  yes     18
+Telecentro-0f80     e0:69:95:40:8b:31   1 (B+G)     AP  yes     16
+Speedy-aae8     c8:d5:fe:15:52:17   1 (B+G)     AP  yes     16
+Telecentro-3f86     e0:69:95:30:ee:91   1 (B+G)     AP  yes     16
+AC/DC   00:26:5a:2b:57:30   1 (B+G)     AP  yes     15
+Fibertel WiFi268    00:24:a1:17:2c:94   1 (B+G)     AP  yes     13
+Topcom  00:0e:2e:fe:90:bc   3 (B+G)     AP  no  13
+SILVANA CORDERO     3c:75:4a:f3:bf:6b   1 (B+G)     AP  yes     13
+
