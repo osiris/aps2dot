@@ -1,14 +1,31 @@
 #!/bin/bash
+#
+# This script comes with ABSOLUTELY NO WARRANTY, use at own risk
+# Copyright (C) 2012 Osiris Alejandro Gomez <osiux@osiux.com.ar>
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program. If not, see <http://www.gnu.org/licenses/>.
 
 TOTAL_CLOSED=0
 TOTAL_OPEN=0
 
 echo 'graph APs {'$'\n'
-#echo '  overlap=scale';
 echo '  node [shape=plaintext, fontname=inconsolata, fontsize=10, fontcolor=black];'
 echo '  edge [style=invis];'
 
 echo '  OSiUX [label="osiux@buenosaireslibre.org",fontcolor=green,fontsize=28];'
+echo '  ccbysa [label="cba",fontname="CC Icons",fontcolor=green,fontsize=26];'
+echo '  OSiUX -- ccbysa [len="2.6"];'
 
 egrep --color=auto -o "[a-h0-9:]{17}" aps.txt | sort -u >/tmp/mac.tmp
 
@@ -36,12 +53,7 @@ do
 
     if [ $CLOSED = "yes" ]
     then
-        #if [ "$NORMA" = "(B+G)" ]
-        #then
-            COLOR=red
-        #else
-        #    COLOR=hotpink
-        #fi
+        COLOR=red
         TOTAL_CLOSED=$[$TOTAL_CLOSED+1]
     else
         COLOR=limegreen
@@ -53,20 +65,6 @@ do
     then
         COLOR=green
     fi
-
-    #if [ $LEN -gt 10 -a $CLOSED = "yes" ];then COLOR="red";fi
-    #if [ $LEN -gt 20 -a $CLOSED = "yes" ];then COLOR="darksalmon";fi
-    #if [ $LEN -gt 40 -a $CLOSED = "yes" ];then COLOR="firebrick";fi
-    #if [ $LEN -gt 60 -a $CLOSED = "yes" ];then COLOR="coral";fi
-    #if [ $LEN -gt 80 -a $CLOSED = "yes" ];then COLOR="indianred";fi
-    #if [ $LEN -gt 90 -a $CLOSED = "yes" ];then COLOR="lightsalmon";fi
-
-    #if [ $LEN -gt 10 -a $CLOSED = "no" ];then COLOR="green";fi
-    #if [ $LEN -gt 20 -a $CLOSED = "no" ];then COLOR="darkgreen";fi
-    #if [ $LEN -gt 40 -a $CLOSED = "no" ];then COLOR="mediumseagreen";fi
-    #if [ $LEN -gt 60 -a $CLOSED = "no" ];then COLOR="darkgreen";fi
-    #if [ $LEN -gt 80 -a $CLOSED = "no" ];then COLOR="mediumspringgreen";fi
-    #if [ $LEN -gt 90 -a $CLOSED = "no" ];then COLOR="springgreen";fi
 
     D=1;
 
@@ -85,13 +83,12 @@ do
 
     echo $TOTAL_CLOSED >/tmp/closed.tmp
     echo $TOTAL_OPEN >/tmp/open.tmp
-
 done
 
 CLOSED=$(cat /tmp/closed.tmp)
 OPEN=$(cat /tmp/open.tmp)
 TOTAL=$[$CLOSED+$OPEN]
 
-echo '  graph [bgcolor=black,fontcolor=white,fontname=inconsolata,fontsize=12,label="'$TOTAL' APs, '$CLOSED' closed, '$OPEN' open"]'$'\n'
+echo '  graph [bgcolor=black,fontcolor=white,fontname="inconsolata",fontsize=12,label="'$TOTAL' APs, '$CLOSED' closed, '$OPEN' open"]'$'\n'
 echo $'\n'
 echo '}'
