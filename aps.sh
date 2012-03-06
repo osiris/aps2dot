@@ -15,6 +15,12 @@
 #
 # You should have received a copy of the GNU General Public License
 # along with this program. If not, see <http://www.gnu.org/licenses/>.
+#
+# This scripts make a watermark in image using "CC Icons" font.
+# Download cc-icons True-Type font for Creative Commons License
+# http://mirrors.creativecommons.org/presskit/cc-icons.ttf
+#
+# REQUIRED: apt-get install graphviz ttf-inconsolata
 
 TOTAL_CLOSED=0
 TOTAL_OPEN=0
