@@ -22,12 +22,78 @@
 #
 # REQUIRED: apt-get install graphviz ttf-inconsolata
 
+CLOSED_COLOR=red
+OPEN_COLOR=limegreen
+BG_COLOR=black
+NODE_SHAPE=plaintext
+MAC_ON=false
+SSID_ON=true
+FONT_NAME=inconsolata
+EDGE_STYLE=invis
+
+function usage()
+{
+cat << EOF
+
+Use:
+# $0 [options]
+ -m     show MAC Address
+ -s     show SSID (default=ON)
+ -b     background color (default=black)
+ -c     closed color (default=red)
+ -o     open color (default=limegreen)
+ -f     font name (default=inconsolata)     
+ -n     node shape (default=plaintext)
+ -y     edge style (default=invis)
+
+ -?, --help   this Help
+
+EOF
+
+    exit 1
+}
+
+while getopts "mshc:o:b:n:f:y:" OPTION
+do
+    case $OPTION in
+        m)
+            MAC_ON=true
+            ;;
+        s)
+            SSID_ON=true
+            ;;
+        c)
+            CLOSED_COLOR=$OPTARG
+            ;;
+        o)
+            OPEN_COLOR=$OPTARG
+            ;;
+        b)
+            BG_COLOR=$OPTARG
+            ;;
+        n)
+            NODE_SHAPE=$OPTARG
+            ;;
+        f)
+            FONT_NAME=$OPTARG
+            ;;
+        y)
+            EDGE_STYLE=$OPTARG
+            ;;
+        h)
+            usage
+            exit 1
+            ;;
+    esac
+done
+
 TOTAL_CLOSED=0
 TOTAL_OPEN=0
 
 echo 'graph APs {'$'\n'
-echo '  node [shape=plaintext, fontname=inconsolata, fontsize=10, fontcolor=black];'
-echo '  edge [style=invis];'
+echo '  node [shape='$NODE_SHAPE', fontname='$FONT_NAME', fontsize=10, fontcolor=black];'
+
+echo '  edge [style='$EDGE_STYLE'];'
 
 echo '  OSiUX [label="osiux@buenosaireslibre.org",fontcolor=green,fontsize=28];'
 echo '  ccbysa [label="cba",fontname="CC Icons",fontcolor=green,fontsize=26];'
@@ -42,6 +108,7 @@ do
     MIN_LEVEL=$(echo $LINE | awk '{print $NF}' | sort -n | head -1)
 	CLOSED=$(echo $LINE | egrep -o "(yes|no)" | head -1)
 	SSID=$(echo $LINE | egrep -o "^[a-zA-Z0-9\/\&\@_\ \.\-]+\ ")
+    TRIM_MAC=$(echo $MAC | tr -d ":" | cut -c -8)
     NORMA=$(echo $LINE | egrep -o "\(B\+G\)" | head -1)
 
     LEN=$[100-$MAX_LEVEL]
@@ -59,10 +126,10 @@ do
 
     if [ $CLOSED = "yes" ]
     then
-        COLOR=red
+        COLOR=$CLOSED_COLOR
         TOTAL_CLOSED=$[$TOTAL_CLOSED+1]
     else
-        COLOR=limegreen
+        COLOR=$OPEN_COLOR
         TOTAL_OPEN=$[$TOTAL_OPEN+1]
     fi
 
@@ -85,7 +152,22 @@ do
     if [ $LEN -ge 10 ];then D=2;fi
 
     echo 'OSiUX -- "'$MAC'" [len='$D'.'$LEN'];'
-	echo '"'$MAC'"' '[label="'$SSID'",fontcolor='$COLOR',fontsize='$SIZE'];'
+
+    NODE_NAME=''
+
+    if [ $SSID_ON == "true" ]
+    then
+        NODE_NAME=$SSID
+    fi
+
+    if [ $MAC_ON == "true" ]
+    then
+        NODE_NAME=$NODE_NAME"\n"$TRIM_MAC
+        D=$[$D+1]
+        SIZE=$[$SIZE-3]
+    fi
+
+    echo '"'$MAC'"' '[label="'$NODE_NAME'",fontcolor='$COLOR',fontsize='$SIZE'];'
 
     echo $TOTAL_CLOSED >/tmp/closed.tmp
     echo $TOTAL_OPEN >/tmp/open.tmp
@@ -95,6 +177,6 @@ CLOSED=$(cat /tmp/closed.tmp)
 OPEN=$(cat /tmp/open.tmp)
 TOTAL=$[$CLOSED+$OPEN]
 
-echo '  graph [bgcolor=black,fontcolor=white,fontname="inconsolata",fontsize=12,label="'$TOTAL' APs, '$CLOSED' closed, '$OPEN' open"]'$'\n'
+echo '  graph [bgcolor='$BG_COLOR',fontcolor=white,fontname="'$FONT_NAME'",fontsize=12,label="'$TOTAL' APs, '$CLOSED' closed, '$OPEN' open"]'$'\n'
 echo $'\n'
 echo '}'
