@@ -1,0 +1,832 @@
+
+0aca62 	e0:69:95:31:24:2d 	1 (B+G) 	AP 	yes 	15
+ACOYTE 	98:fc:11:d1:45:d1 	9 (B+G) 	AP 	yes 	20
+ACOYTE 	98:fc:11:d1:45:d1 	9 (B+G) 	AP 	yes 	20 	
+ACOYTE 	98:fc:11:d1:45:d1 	9 (B+G) 	AP 	yes 	24
+ACOYTE 	98:fc:11:d1:45:d1 	9 (B+G) 	AP 	yes 	24 	
+ACOYTE 	98:fc:11:d1:45:d1 	9 (B+G) 	AP 	yes 	26 	
+ACOYTE 	98:fc:11:d1:45:d1 	9 (B+G) 	AP 	yes 	29 	
+ACOYTE 	98:fc:11:d1:45:d1 	9 (B+G) 	AP 	yes 	30 	
+ACOYTE 	98:fc:11:d1:45:d1 	9 (B+G) 	AP 	yes 	32 	
+ACOYTE 	98:fc:11:d1:45:d1 	9 (B+G) 	AP 	yes 	33 	
+ACOYTE 	98:fc:11:d1:45:d1 	9 (B+G) 	AP 	yes 	35 	
+AdrielWifiNew 	54:e6:fc:e6:65:54 	9 (B+G) 	AP 	yes 	16 	
+AdrielWifiNew 	54:e6:fc:e6:65:54 	9 (B+G) 	AP 	yes 	20 	
+AJW 	00:0f:a3:f2:3d:53 	2 (B+G) 	AP 	yes 	12
+AJW 	00:0f:a3:f2:3d:53 	2 (B+G) 	AP 	yes 	15 	
+AJW 	00:0f:a3:f2:3d:53 	2 (B+G) 	AP 	yes 	20 	
+alfredo-wifi 	00:15:ec:13:e1:54 	1 (B+G) 	AP 	yes 	15 	
+alfredo-wifi 	00:15:ec:13:e1:54 	1 (B+G) 	AP 	yes 	16
+alfredo-wifi 	00:15:ec:13:e1:54 	1 (B+G) 	AP 	yes 	16 	
+alfredo-wifi 	00:15:ec:13:e1:54 	1 (B+G) 	AP 	yes 	18 	
+alfredo-wifi 	00:15:ec:13:e1:54 	1 (B+G) 	AP 	yes 	20 	
+Almada 	00:0e:2e:4a:63:ff 	6 (B+G) 	AP 	yes 	16 	
+Almada 	00:0e:2e:4a:63:ff 	6 (B+G) 	AP 	yes 	20 	
+Almada 	00:0e:2e:4a:63:ff 	6 (B+G) 	AP 	yes 	32 	
+andamios 	50:67:f0:a9:2b:98 	1 (B+G) 	AP 	yes 	13 	
+andamios 	50:67:f0:a9:2b:98 	1 (B+G) 	AP 	yes 	18 	
+andamios 	50:67:f0:a9:2b:98 	1 (B+G) 	AP 	yes 	23 	
+AndreA 	00:22:6b:48:1d:f3 	6 (B+G) 	AP 	yes 	21 	
+ANDREU 	00:19:e0:64:8e:f8 	6 (B+G) 	AP 	yes 	16 	
+ANDREU 	00:19:e0:64:8e:f8 	6 (B+G) 	AP 	yes 	20 	
+ANDREU 	00:19:e0:64:8e:f8 	6 (B+G) 	AP 	yes 	23 	
+arielbart 	b0:48:7a:b1:ce:80 	6 (B+G) 	AP 	yes 	29 	
+arwen 	00:30:4f:76:7c:70 	6 (B+G) 	AP 	yes 	20 	
+arwen 	00:30:4f:76:7c:70 	6 (B+G) 	AP 	yes 	23 	
+arwen 	00:30:4f:76:7c:70 	6 (B+G) 	AP 	yes 	30 	
+asipronet-1piso 	00:13:10:32:c2:8c 	3 (B+G) 	AP 	yes 	29 	
+asipronet-1piso 	00:13:10:32:c2:8c 	3 (B+G) 	AP 	yes 	30 	
+asipronet-1piso 	00:13:10:32:c2:8c 	3 (B+G) 	AP 	yes 	32 	
+Atlanta 	00:21:63:07:31:ae 	1 (B+G) 	AP 	yes 	13 	
+Avellaneda 	00:50:18:4e:8a:d0 	9 (B+G) 	AP 	yes 	12
+Avellaneda 	00:50:18:4e:8a:d0 	9 (B+G) 	AP 	yes 	15 	
+baldocita 	00:15:ec:10:bb:ac 	11 (B+G) 	AP 	yes 	2
+baldocita 	00:15:ec:10:bb:ac 	11 (B+G) 	AP 	yes 	21
+baldocita 	00:15:ec:10:bb:ac 	11 (B+G) 	AP 	yes 	21 	
+baldocita 	00:15:ec:10:bb:ac 	11 (B+G) 	AP 	yes 	23
+baldocita 	00:15:ec:10:bb:ac 	11 (B+G) 	AP 	yes 	23 	
+baldocita 	00:15:ec:10:bb:ac 	11 (B+G) 	AP 	yes 	24 	
+baldocita 	00:15:ec:10:bb:ac 	11 (B+G) 	AP 	yes 	27 	
+baldocita 	00:15:ec:10:bb:ac 	11 (B+G) 	AP 	yes 	29 	
+baldocita 	00:15:ec:10:bb:ac 	11 (B+G) 	AP 	yes 	30 	
+baldocita 	00:15:ec:10:bb:ac 	11 (B+G) 	AP 	yes 	32 	
+baldocita 	00:15:ec:10:bb:ac 	11 (B+G) 	AP 	yes 	33 	
+baldocita 	00:15:ec:10:bb:ac 	11 (B+G) 	AP 	yes 	35 	
+baldocita 	00:15:ec:10:bb:ac 	11 (B+G) 	AP 	yes 	36
+baldocita 	00:15:ec:10:bb:ac 	11 (B+G) 	AP 	yes 	38 	
+baldocita 	00:15:ec:10:bb:ac 	11 (B+G) 	AP 	yes 	41 	
+baldocita 	00:15:ec:10:bb:ac 	11 (B+G) 	AP 	yes 	43 	
+batti 	54:e6:fc:e5:44:ee 	4 (B+G) 	AP 	yes 	26 	
+BC01 	00:25:9c:69:71:a7 	6 (B+G) 	AP 	yes 	16 	
+BC01 	00:25:9c:69:71:a7 	6 (B+G) 	AP 	yes 	20 	
+BC01 	00:25:9c:69:71:a7 	6 (B+G) 	AP 	yes 	21 	
+BC01 	00:25:9c:69:71:a7 	6 (B+G) 	AP 	yes 	26 	
+beba1020 	00:25:9c:51:a0:08 	6 (B+G) 	AP 	yes 	20 	
+BEITI 	b0:48:7a:b2:79:30 	4 (B+G) 	AP 	yes 	26 	
+BEITI 	b0:48:7a:b2:79:30 	4 (B+G) 	AP 	yes 	30 	
+BEITI 	b0:48:7a:b2:79:30 	4 (B+G) 	AP 	yes 	32 	
+belkin 	00:22:75:16:f0:f4 	11 (B+G) 	AP 	yes
+belkin 	00:22:75:16:f0:f4 	11 (B+G) 	AP 	yes 	12
+BIAUS 	e0:69:95:28:de:a7 	11 (B+G) 	AP 	yes 	18
+BIAUS 	e0:69:95:28:de:a7 	11 (B+G) 	AP 	yes 	20 	
+BIAUS 	e0:69:95:28:de:a7 	11 (B+G) 	AP 	yes 	23 	
+BIAUS 	e0:69:95:28:de:a7 	11 (B+G) 	AP 	yes 	27 	
+BIAUS 	e0:69:95:28:de:a7 	11 (B+G) 	AP 	yes 	32 	
+Bogota90210 	f4:ec:38:ba:41:46 	11 (B+G) 	AP 	yes 	23 	
+Bogota90210 	f4:ec:38:ba:41:46 	11 (B+G) 	AP 	yes 	26 	
+Bogota90210 	f4:ec:38:ba:41:46 	11 (B+G) 	AP 	yes 	30
+Bogota90210 	f4:ec:38:ba:41:46 	11 (B+G) 	AP 	yes 	30 	
+Bohemio 	00:1b:11:3a:f3:a7 	8 (B+G) 	AP 	yes 	15 	
+Bohemio 	00:1b:11:3a:f3:a7 	8 (B+G) 	AP 	yes 	18 	
+Bohemio 	00:1b:11:3a:f3:a7 	8 (B+G) 	AP 	yes 	20 	
+Bohemio 	00:1b:11:3a:f3:a7 	8 (B+G) 	AP 	yes 	21 	
+Bohemio 	00:1b:11:3a:f3:a7 	8 (B+G) 	AP 	yes 	23 	
+bubu 	00:22:6b:4d:eb:ce 	6 (B+G) 	AP 	yes 	30 	
+caballito 	00:0c:42:05:0d:64 	1 (B) 	AP 	no 	12
+caballito 	00:0c:42:05:0d:64 	1 (B) 	AP 	no 	13 	
+caballito 	00:0c:42:05:0d:64 	1 (B) 	AP 	no 	16 	
+caballito 	00:0c:42:05:0d:64 	1 (B) 	AP 	no 	32 	
+caballito 	00:0c:42:05:0d:64 	1 (B) 	AP 	no 	33 	
+caballito 	00:0c:42:05:0d:64 	1 (B) 	AP 	no 	43 	
+cajita_de_bombones 	54:e6:fc:dd:97:ac 	1 (B+G) 	AP 	yes 	15 	
+cajita_de_bombones 	54:e6:fc:dd:97:ac 	1 (B+G) 	AP 	yes 	21 	
+CamposCordoba 	c8:d5:fe:6d:27:5a 	11 (B+G) 	AP 	yes 	13 	
+CamposCordoba 	c8:d5:fe:6d:27:5a 	11 (B+G) 	AP 	yes 	18
+CamposCordoba 	c8:d5:fe:6d:27:5a 	11 (B+G) 	AP 	yes 	20 	
+CamposCordoba 	c8:d5:fe:6d:27:5a 	11 (B+G) 	AP 	yes 	21 	
+CamposCordoba 	c8:d5:fe:6d:27:5a 	11 (B+G) 	AP 	yes 	24 	
+CaRo-PC_Network 	c8:3a:35:1b:b9:28 	6 (B+G) 	AP 	yes 	24 	
+CaRo-PC_Network 	c8:3a:35:1b:b9:28 	6 (B+G) 	AP 	yes 	30 	
+CaRo-PC_Network 	c8:3a:35:1b:b9:28 	6 (B+G) 	AP 	yes 	32 	
+Casa 	94:0c:6d:ef:47:60 	1 (B+G) 	AP 	yes 	12
+Casa 	94:0c:6d:ef:47:60 	1 (B+G) 	AP 	yes 	13 	
+Casa 	94:0c:6d:ef:47:60 	1 (B+G) 	AP 	yes 	16 	
+Casa 	94:0c:6d:ef:47:60 	1 (B+G) 	AP 	yes 	18
+Casa 	94:0c:6d:ef:47:60 	1 (B+G) 	AP 	yes 	18 	
+Casa 	94:0c:6d:ef:47:60 	1 (B+G) 	AP 	yes 	20 	
+Casak 	00:17:9a:f1:d6:d7 	6 (B+G) 	AP 	yes 	18 	
+CELESTE 	74:ea:3a:e7:3a:ba 	9 (B+G) 	AP 	yes 	16 	
+CELESTE 	74:ea:3a:e7:3a:ba 	9 (B+G) 	AP 	yes 	18 	
+CELESTE 	74:ea:3a:e7:3a:ba 	9 (B+G) 	AP 	yes 	20 	
+CELESTE 	74:ea:3a:e7:3a:ba 	9 (B+G) 	AP 	yes 	21 	
+CELESTE 	74:ea:3a:e7:3a:ba 	9 (B+G) 	AP 	yes 	23 	
+CELESTE 	74:ea:3a:e7:3a:ba 	9 (B+G) 	AP 	yes 	24 	
+charly 	68:7f:74:7d:d4:18 	6 (B+G) 	AP 	yes 	13 	
+Chiple 	00:13:13:09:0f:70 	6 (B+G) 	AP 	yes 	24 	
+cinthia veronica 	00:22:33:ed:9d:6c 	11 (B+G) 	AP 	yes 	24 	
+cinthia veronica 	00:22:33:ed:9d:6c 	11 (B+G) 	AP 	yes 	27 	
+cinthia veronica 	00:22:33:ed:9d:6c 	11 (B+G) 	AP 	yes 	29 	
+cinthia veronica 	00:22:33:ed:9d:6c 	11 (B+G) 	AP 	yes 	30 	
+cinthia veronica 	00:22:33:ed:9d:6c 	11 (B+G) 	AP 	yes 	35 	
+cinthia veronica 	00:22:33:ed:9d:6c 	6 (B+G) 	AP 	yes 	24 	
+cinthia veronica 	00:22:33:ed:9d:6c 	6 (B+G) 	AP 	yes 	27 	
+cinthia veronica 	00:22:33:ed:9d:6c 	6 (B+G) 	AP 	yes 	41 	
+cisap 	00:24:d2:0a:e3:82 	1 (B+G) 	AP 	yes 	15 	
+cisap 	00:24:d2:0a:e3:82 	1 (B+G) 	AP 	yes 	26 	
+cisap 	00:24:d2:0a:e3:82 	1 (B+G) 	AP 	yes 	27
+COLGATE DE ESTA!!! 	00:e0:4c:f8:4f:51 	6 (B+G) 	AP 	yes 	18 	
+COLGATE DE ESTA!!! 	00:e0:4c:f8:4f:51 	6 (B+G) 	AP 	yes 	23 	
+COLGATE DE ESTA!!! 	00:e0:4c:f8:4f:51 	6 (B+G) 	AP 	yes 	24 	
+COLGATE DE ESTA!!! 	00:e0:4c:f8:4f:51 	6 (B+G) 	AP 	yes 	26 	
+COLGATE DE ESTA!!! 	00:e0:4c:f8:4f:51 	6 (B+G) 	AP 	yes 	27 	
+COLGATE DE ESTA!!! 	00:e0:4c:f8:4f:51 	6 (B+G) 	AP 	yes 	29 	
+COLGATE DE ESTA!!! 	00:e0:4c:f8:4f:51 	6 (B+G) 	AP 	yes 	32 	
+COLGATE DE ESTA!!! 	00:e0:4c:f8:4f:51 	6 (B+G) 	AP 	yes 	33 	
+COLGATE DE ESTA!!! 	00:e0:4c:f8:4f:51 	6 (B+G) 	AP 	yes 	35 	
+COLGATE DE ESTA!!! 	00:e0:4c:f8:4f:51 	6 (B+G) 	AP 	yes 	38 	
+COLGATE DE ESTA!!! 	00:e0:4c:f8:4f:51 	6 (B+G) 	AP 	yes 	41 	
+colmi 	00:23:69:cb:a0:06 	6 (B+G) 	AP 	yes 	18 	
+Conectate de Esta 	74:ea:3a:cf:28:e6 	5 (B+G) 	AP 	no 	15 	
+Conectate de Esta 	74:ea:3a:cf:28:e6 	5 (B+G) 	AP 	no 	23
+Conectate de Esta 	74:ea:3a:cf:28:e6 	5 (B+G) 	AP 	no 	23 	
+Conectate de Esta 	74:ea:3a:cf:28:e6 	5 (B+G) 	AP 	no 	24 	
+cristina 	c8:d5:fe:69:e4:de 	11 (B+G) 	AP 	yes 	26
+cristina 	c8:d5:fe:69:e4:de 	11 (B+G) 	AP 	yes 	26 	
+cristina 	c8:d5:fe:69:e4:de 	11 (B+G) 	AP 	yes 	41 	
+DanielyMarcelo 	50:67:f0:9e:33:ba 	1 (B+G) 	AP 	yes 	27 	
+default 	00:11:3b:0d:82:4f 	11 (B+G) 	AP 	yes 	13 	
+default 	00:17:9a:f3:53:45 	6 (B+G) 	AP 	yes 	21 	
+default 	00:17:9a:f3:53:45 	6 (B+G) 	AP 	yes 	32 	
+default 	00:17:9a:f3:53:45 	6 (B+G) 	AP 	yes 	33 	
+Depto 	d8:5d:4c:da:e8:7a 	1 (B+G) 	AP 	yes 	20
+Depto 	d8:5d:4c:da:e8:7a 	1 (B+G) 	AP 	yes 	20 	
+Depto 	d8:5d:4c:da:e8:7a 	1 (B+G) 	AP 	yes 	21 	
+Depto 	d8:5d:4c:da:e8:7a 	1 (B+G) 	AP 	yes 	23 	
+Depto 	d8:5d:4c:da:e8:7a 	1 (B+G) 	AP 	yes 	24 	
+Depto 	d8:5d:4c:da:e8:7a 	1 (B+G) 	AP 	yes 	27 	
+Depto 	d8:5d:4c:da:e8:7a 	1 (B+G) 	AP 	yes 	30 	
+Depto 	d8:5d:4c:da:e8:7a 	1 (B+G) 	AP 	yes 	32 	
+Depto 	d8:5d:4c:da:e8:7a 	1 (B+G) 	AP 	yes 	35 	
+Depto 	d8:5d:4c:da:e8:7a 	1 (B+G) 	AP 	yes 	36 	
+Depto 	d8:5d:4c:da:e8:7a 	1 (B+G) 	AP 	yes 	38 	
+Depto 	d8:5d:4c:da:e8:7a 	1 (B+G) 	AP 	yes 	40 	
+Depto 	d8:5d:4c:da:e8:7a 	1 (B+G) 	AP 	yes 	44
+Depto 	d8:5d:4c:da:e8:7a 	1 (B+G) 	AP 	yes 	44 	
+Depto 	d8:5d:4c:da:e8:7a 	1 (B+G) 	AP 	yes 	49 	
+DIANA-WIFI 	50:67:f0:9d:86:d1 	11 (B+G) 	AP 	yes 	21 	
+dlink 	00:1c:f0:3b:5b:49 	6 (B+G) 	AP 	yes 	21 	
+dlink 	00:1c:f0:3b:5b:49 	6 (B+G) 	AP 	yes 	24 	
+dlink 	00:1c:f0:3b:5b:49 	6 (B+G) 	AP 	yes 	35 	
+dlinkavellaneda 	1c:af:f7:15:7e:30 	11 (B+G) 	AP 	yes 	18 	
+Dori A.. 	b0:48:7a:c8:a4:16 	4 (B+G) 	AP 	yes 	15 	
+Dori A.. 	b0:48:7a:c8:a4:16 	4 (B+G) 	AP 	yes 	16 	
+Dori A.. 	b0:48:7a:c8:a4:16 	4 (B+G) 	AP 	yes 	20 	
+Dori A.. 	b0:48:7a:c8:a4:16 	4 (B+G) 	AP 	yes 	29 	
+DRALink 	5c:d9:98:fe:f4:58 	6 (B+G) 	AP 	yes 	26
+DRALink 	5c:d9:98:fe:f4:58 	6 (B+G) 	AP 	yes 	30 	
+DRALink 	5c:d9:98:fe:f4:58 	6 (B+G) 	AP 	yes 	36 	
+DRALink 	5c:d9:98:fe:f4:58 	6 (B+G) 	AP 	yes 	38 	
+electromedicina 	00:18:e7:55:24:fa 	4 (B+G) 	AP 	no 	18 	
+elsuelito 	e0:69:95:5d:02:ce 	1 (B+G) 	AP 	yes 	16
+elsuelito 	e0:69:95:5d:02:ce 	1 (B+G) 	AP 	yes 	16 	
+elsuelito 	e0:69:95:5d:02:ce 	1 (B+G) 	AP 	yes 	18 	
+elsuelito 	e0:69:95:5d:02:ce 	1 (B+G) 	AP 	yes 	20 	
+El supermercadito chino 	00:18:e7:1e:e8:4e 	6 (B+G) 	AP 	yes 	27 	
+Emi_Shauer 	00:22:93:c8:85:04 	11 (B+G) 	AP 	yes 	20 	
+ENCORE662C14 	00:02:6f:66:2c:14 	11 (B+G) 	AP 	yes 	23 	
+ENCORE662C14 	00:02:6f:66:2c:14 	11 (B+G) 	AP 	yes 	26 	
+ENCOREA801BC 	00:02:6f:a8:01:bc 	9 (B+G) 	AP 	yes 	20 	
+ezpe@buenosaireslibre.org 	00:0c:e5:50:c5:57 	1 (B+G) 	AP 	no 	13
+ezpe@buenosaireslibre.org 	00:0c:e5:50:c5:57 	1 (B+G) 	AP 	no 	13 	
+ezpe@buenosaireslibre.org 	00:0c:e5:50:c5:57 	1 (B+G) 	AP 	no 	18 	
+familia 	00:24:01:fd:f8:ae 	11 (B+G) 	AP 	yes 	13 	
+familia 	00:24:01:fd:f8:ae 	11 (B+G) 	AP 	yes 	18 	
+familia 	00:24:01:fd:f8:ae 	11 (B+G) 	AP 	yes 	20 	
+familia 	00:24:01:fd:f8:ae 	11 (B+G) 	AP 	yes 	21 	
+familia 	00:24:01:fd:f8:ae 	11 (B+G) 	AP 	yes 	24 	
+familias 	00:15:ec:15:37:cf 	1 (B+G) 	AP 	yes 	23 	
+FernandoElsa 	68:7f:74:ff:25:0a 	6 (B+G) 	AP 	yes 	20 	
+Fibertel WiFi073 	1c:14:48:d4:5e:77 	1 (B+G) 	AP 	yes 	29 	
+Fibertel WiFi090 	e0:69:95:2d:49:9a 	11 (B+G) 	AP 	yes 	32 	
+Fibertel WiFi183 	74:56:12:36:0d:9a 	1 (B+G) 	AP 	yes 	12
+Fibertel WiFi183 	74:56:12:36:0d:9a 	1 (B+G) 	AP 	yes 	18
+Fibertel WiFi183 	74:56:12:36:0d:9a 	1 (B+G) 	AP 	yes 	40 	
+Fibertel WiFi268 	00:24:a1:17:2c:94 	1 (B+G) 	AP 	yes 	26 	
+Fibertel WiFi294 	38:60:77:c2:86:f7 	6 (B+G) 	AP 	yes 	23 	
+Fibertel WiFi328 	70:7e:43:48:65:14 	6 (B+G) 	AP 	yes 	23 	
+Fibertel WiFi 	3c:75:4a:23:33:37 	11 (B+G) 	AP 	yes 	30
+Fibertel WiFi 	3c:75:4a:23:33:37 	11 (B+G) 	AP 	yes 	30 	
+Fibertel WiFi 	3c:75:4a:23:33:37 	11 (B+G) 	AP 	yes 	32 	
+Fibertel WiFi 	3c:75:4a:23:33:37 	11 (B+G) 	AP 	yes 	33 	
+Fibertel WiFi 	3c:75:4a:23:33:37 	11 (B+G) 	AP 	yes 	35 	
+Fibertel WiFi498 	00:25:f1:72:ad:4b 	11 (B+G) 	AP 	yes 	26 	
+Fibertel WiFi498 	00:25:f1:72:ad:4b 	11 (B+G) 	AP 	yes 	29 	
+Fibertel WiFi498 	00:25:f1:72:ad:4b 	11 (B+G) 	AP 	yes 	30 	
+Fibertel WiFi498 	00:25:f1:72:ad:4b 	11 (B+G) 	AP 	yes 	33 	
+Fibertel WiFi498 	00:25:f1:72:ad:4b 	1 (B+G) 	AP 	yes 	16 	
+Fibertel WiFi498 	00:25:f1:72:ad:4b 	1 (B+G) 	AP 	yes 	29 	
+Fibertel WiFi714 	38:60:77:88:25:62 	6 (B+G) 	AP 	yes 	26 	
+Fibertel WiFi 	7c:4f:b5:90:71:44 	1 (B+G) 	AP 	yes 	13
+Fibertel WiFi 	7c:4f:b5:90:71:44 	1 (B+G) 	AP 	yes 	21 	
+Fibertel WiFi 	7c:4f:b5:90:71:44 	1 (B+G) 	AP 	yes 	23 	
+Fibertel WiFi 	7c:4f:b5:90:71:44 	1 (B+G) 	AP 	yes 	26 	
+Fibertel WiFi 	7c:4f:b5:90:71:44 	1 (B+G) 	AP 	yes 	27 	
+Fibertel WiFi 	7c:4f:b5:90:71:44 	1 (B+G) 	AP 	yes 	29 	
+Fibertel WiFi 	7c:4f:b5:90:71:44 	1 (B+G) 	AP 	yes 	30 	
+Fibertel WiFi 	7c:4f:b5:90:71:44 	1 (B+G) 	AP 	yes 	32 	
+Fibertel WiFi 	7c:4f:b5:90:71:44 	1 (B+G) 	AP 	yes 	33 	
+Fibertel WiFi 	7c:4f:b5:90:71:44 	1 (B+G) 	AP 	yes 	38 	
+Fibertel WiFi865 	38:60:77:bb:80:0d 	6 (B+G) 	AP 	yes 	26 	
+Fibertel WiFi899 	00:1a:73:b4:4a:73 	1 (B+G) 	AP 	yes 	18 	
+Fibertel WiFi899 	00:1a:73:b4:4a:73 	1 (B+G) 	AP 	yes 	20 	
+Fibertel WiFi 	cc:7d:37:e0:a9:f3 	11 (B+G) 	AP 	yes 	10 	
+Fibertel WiFisum 	70:71:bc:05:37:29 	6 (B+G) 	AP 	yes 	26 	
+flopy 	00:17:9a:f8:ac:31 	11 (B+G) 	AP 	yes 	16
+flopy 	00:17:9a:f8:ac:31 	11 (B+G) 	AP 	yes 	16 	
+Florencia 	50:67:f0:a5:9d:94 	11 (B+G) 	AP 	yes 	20 	
+Florencia 	50:67:f0:a5:9d:94 	11 (B+G) 	AP 	yes 	21
+Florencia 	50:67:f0:a5:9d:94 	11 (B+G) 	AP 	yes 	21 	
+Florencia 	50:67:f0:a5:9d:94 	11 (B+G) 	AP 	yes 	24 	
+Florencia 	50:67:f0:a5:9d:94 	11 (B+G) 	AP 	yes 	26 	
+FRANARELLA 	94:44:52:3b:14:0d 	6 (B+G) 	AP 	yes 	30
+FRANARELLA 	94:44:52:3b:14:0d 	6 (B+G) 	AP 	yes 	33 	
+FRANARELLA 	94:44:52:3b:14:0d 	6 (B+G) 	AP 	yes 	35 	
+FRANARELLA 	94:44:52:3b:14:0d 	6 (B+G) 	AP 	yes 	36 	
+FRANARELLA 	94:44:52:3b:14:0d 	6 (B+G) 	AP 	yes 	38 	
+FRANARELLA 	94:44:52:3b:14:0d 	6 (B+G) 	AP 	yes 	40
+FRANARELLA 	94:44:52:3b:14:0d 	6 (B+G) 	AP 	yes 	40 	
+FRANARELLA 	94:44:52:3b:14:0d 	6 (B+G) 	AP 	yes 	41 	
+FRANARELLA 	94:44:52:3b:14:0d 	6 (B+G) 	AP 	yes 	44 	
+francisco wifi 	e4:83:99:5f:9d:d2 	1 (B+G) 	AP 	yes 	18 	
+FT05636 	90:e6:ba:a2:27:40 	6 (B+G) 	AP 	no 	26 	
+FT05636 	90:e6:ba:a2:27:40 	6 (B+G) 	AP 	no 	36 	
+FT2206 	00:1d:60:15:9d:44 	11 (B+G) 	AP 	yes 	15
+FT2206 	00:1d:60:15:9d:44 	11 (B+G) 	AP 	yes 	16 	
+FT2206 	00:1d:60:15:9d:44 	11 (B+G) 	AP 	yes 	18
+FT2206 	00:1d:60:15:9d:44 	11 (B+G) 	AP 	yes 	18 	
+FT2206 	00:1d:60:15:9d:44 	11 (B+G) 	AP 	yes 	20 	
+FT2206 	00:1d:60:15:9d:44 	11 (B+G) 	AP 	yes 	21 	
+FT2206 	00:1d:60:15:9d:44 	11 (B+G) 	AP 	yes 	23 	
+FT9081668 	e0:cb:4e:61:4a:0f 	6 (B+G) 	AP 	yes 	32 	
+FT9081668 	e0:cb:4e:61:4a:0f 	6 (B+G) 	AP 	yes 	41 	
+FT_ALIPPE 	00:22:15:ee:f7:ab 	6 (B+G) 	AP 	yes 	20 	
+FT_ALIPPE 	00:22:15:ee:f7:ab 	6 (B+G) 	AP 	yes 	29 	
+FT-Dalesio Wifi 	00:24:8c:79:81:b9 	11 (B+G) 	AP 	yes 	13
+FT-Dalesio Wifi 	00:24:8c:79:81:b9 	11 (B+G) 	AP 	yes 	16 	
+FTPORTILLO 	1c:14:48:db:da:b8 	1 (B+G) 	AP 	yes 	10
+ft_RIOS____ 	e0:cb:4e:60:95:0c 	6 (B+G) 	AP 	yes 	21 	
+ft_RIOS____ 	e0:cb:4e:60:95:0c 	6 (B+G) 	AP 	yes 	40 	
+ft_RIOS____ 	e0:cb:4e:60:95:0c 	6 (B+G) 	AP 	yes 	41 	
+ft_RIOS____ 	e0:cb:4e:60:95:0c 	6 (B+G) 	AP 	yes 	43
+ft_RIOS____ 	e0:cb:4e:60:95:0c 	6 (B+G) 	AP 	yes 	43 	
+ft_RIOS____ 	e0:cb:4e:60:95:0c 	6 (B+G) 	AP 	yes 	44 	
+Fucking Hostile! 	54:e6:fc:ae:59:ce 	4 (B+G) 	AP 	yes 	38 	
+Fucking Hostile! 	54:e6:fc:ae:59:ce 	4 (B+G) 	AP 	yes 	40 	
+Fucking Hostile! 	54:e6:fc:ae:59:ce 	4 (B+G) 	AP 	yes 	41
+Fucking Hostile! 	54:e6:fc:ae:59:ce 	4 (B+G) 	AP 	yes 	41 	
+GABRIEL_PC 	f4:ec:38:c8:7d:50 	9 (B+G) 	AP 	yes 	13 	
+GABRIEL_PC 	f4:ec:38:c8:7d:50 	9 (B+G) 	AP 	yes 	20 	
+GABRIEL_PC 	f4:ec:38:c8:7d:50 	9 (B+G) 	AP 	yes 	21 	
+GABRIEL_PC 	f4:ec:38:c8:7d:50 	9 (B+G) 	AP 	yes 	23 	
+gabyscasa 	00:1c:df:f4:be:43 	6 (B+G) 	AP 	yes 	23 	
+gabyscasa 	00:1c:df:f4:be:43 	6 (B+G) 	AP 	yes 	27 	
+gabyymarito 	40:4a:03:bd:28:c8 	11 (B+G) 	AP 	yes 	18
+gabyymarito 	40:4a:03:bd:28:c8 	11 (B+G) 	AP 	yes 	23 	
+gabyymarito 	40:4a:03:bd:28:c8 	11 (B+G) 	AP 	yes 	36 	
+Gian 	54:e6:fc:c8:f6:1c 	5 (B+G) 	AP 	yes 	21 	
+Gian 	54:e6:fc:c8:f6:1c 	5 (B+G) 	AP 	yes 	23 	
+Gian 	54:e6:fc:c8:f6:1c 	5 (B+G) 	AP 	yes 	26 	
+GR 	00:01:e3:5f:ca:16 	6 (B+G) 	AP 	yes 	24 	
+GR 	00:01:e3:5f:ca:16 	6 (B+G) 	AP 	yes 	29 	
+GR 	00:01:e3:5f:ca:16 	6 (B+G) 	AP 	yes 	30 	
+Grace 	50:67:f0:9d:82:a4 	11 (B+G) 	AP 	yes 	18 	
+Grace 	50:67:f0:9d:82:a4 	11 (B+G) 	AP 	yes 	20 	
+Grace 	50:67:f0:9d:82:a4 	11 (B+G) 	AP 	yes 	21 	
+Grace 	50:67:f0:9d:82:a4 	11 (B+G) 	AP 	yes 	23 	
+GuaiFai 	00:1b:11:3b:51:ff 	6 (B+G) 	AP 	yes 	26 	
+guille 	00:21:91:35:31:e9 	10 (B+G) 	AP 	yes 	20 	
+Hemoto 	00:1b:11:3b:81:7d 	2 (B+G) 	AP 	yes 	13 	
+Hemoto 	00:1b:11:3b:81:7d 	2 (B+G) 	AP 	yes 	16 	
+Hemoto 	00:1b:11:3b:81:7d 	2 (B+G) 	AP 	yes 	20 	
+Hemoto 	00:1b:11:3b:81:7d 	2 (B+G) 	AP 	yes 	23 	
+Hernan1 	00:21:91:35:36:c9 	6 (B+G) 	AP 	yes 	24 	
+home277 	00:23:69:0f:5b:1d 	6 (B+G) 	AP 	yes 	20 	
+home277 	00:23:69:0f:5b:1d 	6 (B+G) 	AP 	yes 	24 	
+Home-Wifi 	b0:48:7a:db:b5:40 	9 (B+G) 	AP 	yes 	18 	
+Home-Wifi 	b0:48:7a:db:b5:40 	9 (B+G) 	AP 	yes 	20 	
+Home-Wifi 	b0:48:7a:db:b5:40 	9 (B+G) 	AP 	yes 	23 	
+Home-Wifi 	b0:48:7a:db:b5:40 	9 (B+G) 	AP 	yes 	24 	
+Home-Wifi 	b0:48:7a:db:b5:40 	9 (B+G) 	AP 	yes 	30 	
+honguito 	00:1c:10:2b:c1:63 	6 (B+G) 	AP 	yes 	21 	
+honguito 	00:1c:10:2b:c1:63 	6 (B+G) 	AP 	yes 	23 	
+honguito 	00:1c:10:2b:c1:63 	6 (B+G) 	AP 	yes 	27 	
+honguito 	00:1c:10:2b:c1:63 	6 (B+G) 	AP 	yes 	30 	
+Houston 	00:0c:e5:50:98:72 	11 (B+G) 	AP 	yes 	23 	
+HP4EBAE2 	02:2d:5d:63:a3:85 	10 (B) 	Ad hoc 	no 	1
+hris304 	00:18:39:58:22:f1 	6 (B+G) 	AP 	yes 	21 	
+hris304 	00:18:39:58:22:f1 	6 (B+G) 	AP 	yes 	23
+hris304 	00:18:39:58:22:f1 	6 (B+G) 	AP 	yes 	23 	
+hris304 	00:18:39:58:22:f1 	6 (B+G) 	AP 	yes 	29 	
+hris304 	00:18:39:58:22:f1 	6 (B+G) 	AP 	yes 	38 	
+hris304 	00:18:39:58:22:f1 	6 (B+G) 	AP 	yes 	40 	
+InternetCasa 	00:1d:0f:f0:c9:cc 	6 (B+G) 	AP 	yes 	30 	
+InternetCasa 	00:1d:0f:f0:c9:cc 	6 (B+G) 	AP 	yes 	32 	
+InternetCasa 	00:1d:0f:f0:c9:cc 	6 (B+G) 	AP 	yes 	35 	
+isengard 	c8:d5:fe:89:b5:c0 	9 (B+G) 	AP 	yes 	16 	
+jazmin 	00:23:69:d3:ab:18 	11 (B+G) 	AP 	yes 	32 	
+jc 	00:26:b6:19:2b:38 	1 (B+G) 	AP 	yes 	10 	
+jc 	00:26:b6:19:2b:38 	1 (B+G) 	AP 	yes 	15 	
+jc 	00:26:b6:19:2b:38 	1 (B+G) 	AP 	yes 	18 	
+jc 	00:26:b6:19:2b:38 	1 (B+G) 	AP 	yes 	20
+jc 	00:26:b6:19:2b:38 	1 (B+G) 	AP 	yes 	20 	
+jc 	00:26:b6:19:2b:38 	1 (B+G) 	AP 	yes 	21 	
+jc 	00:26:b6:19:2b:38 	1 (B+G) 	AP 	yes 	24 	
+jc 	00:26:b6:19:2b:38 	1 (B+G) 	AP 	yes 	27 	
+Joaquin 	1c:14:48:aa:46:c4 	6 (B+G) 	AP 	yes 	24 	
+juan123 	00:22:6b:6a:a6:dc 	6 (B+G) 	AP 	yes 	24 	
+juan123 	00:22:6b:6a:a6:dc 	6 (B+G) 	AP 	yes 	27 	
+juan123 	00:22:6b:6a:a6:dc 	6 (B+G) 	AP 	yes 	30 	
+JUaNa 	00:26:ed:af:2c:e8 	1 (B+G) 	AP 	yes 	13 	
+Juanchi 	00:1a:70:85:51:6f 	6 (B+G) 	AP 	yes 	24
+judith 	00:16:b6:19:7e:6e 	1 (B+G) 	AP 	no 	15 	
+jujuem 	68:7f:74:ee:f6:d3 	6 (B+G) 	AP 	yes 	29 	
+jujuem 	68:7f:74:ee:f6:d3 	6 (B+G) 	AP 	yes 	32 	
+kirusha 	e0:cb:4e:6e:60:c4 	6 (B+G) 	AP 	yes 	18 	
+kirusha 	e0:cb:4e:6e:60:c4 	6 (B+G) 	AP 	yes 	23 	
+kriegler.sucari 	68:7f:74:e1:85:e0 	9 (B+G) 	AP 	yes 	23 	
+kriegler.sucari 	68:7f:74:e1:85:e0 	9 (B+G) 	AP 	yes 	26
+kriegler.sucari 	68:7f:74:e1:85:e0 	9 (B+G) 	AP 	yes 	26 	
+kriegler.sucari 	68:7f:74:e1:85:e0 	9 (B+G) 	AP 	yes 	27 	
+kriegler.sucari 	68:7f:74:e1:85:e0 	9 (B+G) 	AP 	yes 	38 	
+kriegler.sucari 	68:7f:74:e1:85:e0 	9 (B+G) 	AP 	yes 	40 	
+lamartona 	00:18:f8:61:76:20 	11 (B+G) 	AP 	yes 	27 	
+lamartona 	00:18:f8:61:76:20 	11 (B+G) 	AP 	yes 	30 	
+Larra 	00:40:10:10:00:03 	1 (B+G) 	AP 	yes 	18 	
+Larra 	00:40:10:10:00:03 	1 (B+G) 	AP 	yes 	20 	
+LauRiTa 	30:39:f2:06:16:e6 	11 (B+G) 	AP 	yes 	21 	
+LauRiTa 	30:39:f2:06:16:e6 	11 (B+G) 	AP 	yes 	29 	
+LauRiTa 	30:39:f2:06:16:e6 	11 (B+G) 	AP 	yes 	33 	
+LauRiTa 	30:39:f2:06:16:e6 	11 (B+G) 	AP 	yes 	35 	
+LauRiTa 	30:39:f2:06:16:e6 	1 (B+G) 	AP 	yes 	13 	
+LauRiTa 	30:39:f2:06:16:e6 	1 (B+G) 	AP 	yes 	15 	
+LauRiTa 	30:39:f2:06:16:e6 	1 (B+G) 	AP 	yes 	18 	
+LeonWiFi 	00:22:93:c8:42:18 	1 (B+G) 	AP 	yes 	16 	
+leotatt 	c8:d5:fe:73:2a:17 	11 (B+G) 	AP 	yes 	23 	
+LETICIA 	d8:5d:4c:c4:27:de 	4 (B+G) 	AP 	yes 	16 	
+LETICIA 	d8:5d:4c:c4:27:de 	4 (B+G) 	AP 	yes 	20 	
+LILIANA 	c8:d5:fe:70:11:57 	11 (B+G) 	AP 	yes 	16 	
+LILIANA 	c8:d5:fe:70:11:57 	11 (B+G) 	AP 	yes 	18 	
+LILIANA 	c8:d5:fe:70:11:57 	11 (B+G) 	AP 	yes 	20 	
+LilianaCwifi 	00:22:93:c8:80:c0 	6 (B+G) 	AP 	yes 	18 	
+Lincoln 7 echo 	00:21:29:bd:0a:0e 	6 (B+G) 	AP 	yes 	21 	
+Lincoln 7 echo 	00:21:29:bd:0a:0e 	6 (B+G) 	AP 	yes 	23 	
+Lincoln 7 echo 	00:21:29:bd:0a:0e 	6 (B+G) 	AP 	yes 	24 	
+Lincoln 7 echo 	00:21:29:bd:0a:0e 	6 (B+G) 	AP 	yes 	26 	
+Lincoln 7 echo 	00:21:29:bd:0a:0e 	6 (B+G) 	AP 	yes 	29 	
+Lincoln 7 echo 	00:21:29:bd:0a:0e 	6 (B+G) 	AP 	yes 	30
+Lincoln 7 echo 	00:21:29:bd:0a:0e 	6 (B+G) 	AP 	yes 	30 	
+Lincoln 7 echo 	00:21:29:bd:0a:0e 	6 (B+G) 	AP 	yes 	49 	
+linksys 	00:13:10:63:8e:47 	6 (B+G) 	AP 	yes 	23 	
+linksys 	00:13:10:63:8e:47 	6 (B+G) 	AP 	yes 	27 	
+linksys 	00:13:10:63:8e:47 	6 (B+G) 	AP 	yes 	29 	
+linksys 	00:13:10:63:8e:47 	6 (B+G) 	AP 	yes 	35 	
+linksys 	00:18:39:cc:bc:40 	6 (B+G) 	AP 	no 	16 	
+linksys 	00:18:39:cc:bc:40 	6 (B+G) 	AP 	no 	18 	
+linksys 	00:18:39:cc:bc:40 	6 (B+G) 	AP 	no 	23 	
+linksys 	00:18:39:cc:bc:40 	6 (B+G) 	AP 	no 	24 	
+linksys 	00:18:39:cc:bc:40 	6 (B+G) 	AP 	no 	26 	
+linksys 	00:18:39:cc:bc:40 	6 (B+G) 	AP 	no 	27 	
+linksys 	00:18:39:cc:bc:40 	6 (B+G) 	AP 	no 	29 	
+linksys 	00:18:39:cc:bc:40 	6 (B+G) 	AP 	no 	32 	
+linksys 	00:18:39:cc:bc:40 	6 (B+G) 	AP 	no 	33 	
+linksys 	00:18:39:cc:bc:40 	6 (B+G) 	AP 	no 	35
+linksys 	00:18:39:cc:bc:40 	6 (B+G) 	AP 	no 	35 	
+linksys 	00:18:39:cc:bc:40 	6 (B+G) 	AP 	no 	36
+linksys 	00:18:39:cc:bc:40 	6 (B+G) 	AP 	no 	36 	
+linksys 	00:18:39:cc:bc:40 	6 (B+G) 	AP 	no 	38 	
+linksys 	00:18:39:cc:bc:40 	6 (B+G) 	AP 	no 	40 	
+linksys 	00:23:69:b2:d2:14 	6 (B+G) 	AP 	no 	23 	
+linksys 	00:23:69:b2:d2:14 	6 (B+G) 	AP 	no 	27 	
+linksys 	00:25:9c:f0:cb:9c 	6 (B+G) 	AP 	yes 	21 	
+linksys 	00:25:9c:f0:cb:9c 	6 (B+G) 	AP 	yes 	32 	
+linksys 	00:25:9c:f0:cb:9c 	6 (B+G) 	AP 	yes 	38 	
+linksys 	00:25:9c:f0:cb:9c 	6 (B+G) 	AP 	yes 	40 	
+linksys-49g 	00:21:29:66:de:a4 	5 (B+G) 	AP 	yes 	32 	
+linksys 	98:fc:11:cf:c1:b9 	6 (B+G) 	AP 	yes 	20
+linksys 	98:fc:11:cf:c1:b9 	6 (B+G) 	AP 	yes 	20 	
+linksys 	98:fc:11:cf:c1:b9 	6 (B+G) 	AP 	yes 	23
+linksys 	98:fc:11:cf:c1:b9 	6 (B+G) 	AP 	yes 	23 	
+linksys 	98:fc:11:cf:c1:b9 	6 (B+G) 	AP 	yes 	29 	
+linksys 	98:fc:11:d8:82:fc 	6 (B+G) 	AP 	no 	16 	
+linksys 	b0:48:7a:b0:41:52 	6 (B+G) 	AP 	no 	21
+linksys 	b0:48:7a:b0:41:52 	6 (B+G) 	AP 	no 	21 	
+linksys 	b0:48:7a:b0:41:52 	6 (B+G) 	AP 	no 	29 	
+linksys 	b0:48:7a:b0:41:52 	6 (B+G) 	AP 	no 	32 	
+linksys_claudio 	00:1c:10:58:52:89 	6 (B+G) 	AP 	yes 	21 	
+linksys_claudio 	00:1c:10:58:52:89 	6 (B+G) 	AP 	yes 	33
+linksys_SES_49650 	00:14:bf:7b:64:98 	6 (B+G) 	AP 	yes 	20 	
+linksys_SES_49650 	00:14:bf:7b:64:98 	6 (B+G) 	AP 	yes 	21 	
+linksys_SES_49650 	00:14:bf:7b:64:98 	6 (B+G) 	AP 	yes 	23 	
+linksys_SES_49650 	00:14:bf:7b:64:98 	6 (B+G) 	AP 	yes 	24 	
+linksys_SES_49650 	00:14:bf:7b:64:98 	6 (B+G) 	AP 	yes 	27 	
+linksys_SES_49650 	00:14:bf:7b:64:98 	6 (B+G) 	AP 	yes 	30 	
+linksys_SES_49650 	00:14:bf:7b:64:98 	6 (B+G) 	AP 	yes 	33 	
+linksys_SES_49650 	00:14:bf:7b:64:98 	6 (B+G) 	AP 	yes 	35 	
+linksys_SES_49650 	00:14:bf:7b:64:98 	6 (B+G) 	AP 	yes 	36
+linksys_SES_49650 	00:14:bf:7b:64:98 	6 (B+G) 	AP 	yes 	36 	
+linksys_SES_49650 	00:14:bf:7b:64:98 	6 (B+G) 	AP 	yes 	40 	
+linksys_SES_52579 	00:1d:7e:e1:3c:48 	6 (B+G) 	AP 	yes 	21
+linksys_SES_52579 	00:1d:7e:e1:3c:48 	6 (B+G) 	AP 	yes 	21 	
+lobosybogota 	68:7f:74:fe:1c:84 	6 (B+G) 	AP 	yes 	26 	
+lobosybogota 	68:7f:74:fe:1c:84 	6 (B+G) 	AP 	yes 	29 	
+lobosybogota 	68:7f:74:fe:1c:84 	6 (B+G) 	AP 	yes 	30 	
+lobosybogota 	68:7f:74:fe:1c:84 	6 (B+G) 	AP 	yes 	32 	
+lobosybogota 	68:7f:74:fe:1c:84 	6 (B+G) 	AP 	yes 	33
+lobosybogota 	68:7f:74:fe:1c:84 	6 (B+G) 	AP 	yes 	33 	
+lobosybogota 	68:7f:74:fe:1c:84 	6 (B+G) 	AP 	yes 	38 	
+lobosybogota 	68:7f:74:fe:1c:84 	6 (B+G) 	AP 	yes 	40
+lobosybogota 	68:7f:74:fe:1c:84 	6 (B+G) 	AP 	yes 	41 	
+lobosybogota 	68:7f:74:fe:1c:84 	6 (B+G) 	AP 	yes 	43 	
+lobosybogota 	68:7f:74:fe:1c:84 	6 (B+G) 	AP 	yes 	46 	
+lobosybogota 	68:7f:74:fe:1c:84 	6 (B+G) 	AP 	yes 	49 	
+Lola 	00:24:01:c8:bf:04 	11 (B+G) 	AP 	yes 	18 	
+Lopez_Collazo 	54:e6:fc:fd:0c:68 	1 (B+G) 	AP 	yes 	13
+Lopez_Collazo 	54:e6:fc:fd:0c:68 	1 (B+G) 	AP 	yes 	13 	
+Lopez_Collazo 	54:e6:fc:fd:0c:68 	1 (B+G) 	AP 	yes 	18
+Lopez_Collazo 	54:e6:fc:fd:0c:68 	1 (B+G) 	AP 	yes 	18 	
+Lopez_Collazo 	54:e6:fc:fd:0c:68 	1 (B+G) 	AP 	yes 	23 	
+Lopez_Collazo 	54:e6:fc:fd:0c:68 	1 (B+G) 	AP 	yes 	24 	
+Lopez_Collazo 	54:e6:fc:fd:0c:68 	1 (B+G) 	AP 	yes 	26 	
+Lopez_Collazo 	54:e6:fc:fd:0c:68 	1 (B+G) 	AP 	yes 	27 	
+Lopez Wifi 	cc:7d:37:ec:ee:40 	6 (B+G) 	AP 	yes 	20 	
+Lopez Wifi 	cc:7d:37:ec:ee:40 	6 (B+G) 	AP 	yes 	27 	
+Lopez Wifi 	cc:7d:37:ec:ee:40 	6 (B+G) 	AP 	yes 	30 	
+Los5Fantasticos 	00:1c:10:58:89:2e 	8 (B+G) 	AP 	yes 	16 	
+Los5Fantasticos 	00:1c:10:58:89:2e 	8 (B+G) 	AP 	yes 	21 	
+luisa 	00:16:b6:19:7e:68 	11 (B+G) 	AP 	no 	35
+luisa 	00:16:b6:19:7e:68 	11 (B+G) 	AP 	no 	35 	
+luisa 	00:16:b6:19:7e:68 	11 (B+G) 	AP 	no 	36 	
+luz gonzales... 	e0:cb:4e:6d:72:4e 	11 (B+G) 	AP 	yes 	16 	
+luz gonzales... 	e0:cb:4e:6d:72:4e 	11 (B+G) 	AP 	yes 	18 	
+luz gonzales... 	e0:cb:4e:6d:72:4e 	11 (B+G) 	AP 	yes 	20
+luz gonzales... 	e0:cb:4e:6d:72:4e 	11 (B+G) 	AP 	yes 	20 	
+luz gonzales... 	e0:cb:4e:6d:72:4e 	11 (B+G) 	AP 	yes 	23 	
+luz gonzales... 	e0:cb:4e:6d:72:4e 	11 (B+G) 	AP 	yes 	24 	
+luz gonzales... 	e0:cb:4e:6d:72:4e 	11 (B+G) 	AP 	yes 	26 	
+luz gonzales... 	e0:cb:4e:6d:72:4e 	11 (B+G) 	AP 	yes 	32 	
+maitena2 	c8:d5:fe:70:27:42 	11 (B+G) 	AP 	yes 	20 	
+maitena2 	c8:d5:fe:70:27:42 	11 (B+G) 	AP 	yes 	24 	
+maitena2 	c8:d5:fe:70:27:42 	11 (B+G) 	AP 	yes 	26 	
+maitena2 	c8:d5:fe:70:27:42 	11 (B+G) 	AP 	yes 	27 	
+maitena2 	c8:d5:fe:70:27:42 	11 (B+G) 	AP 	yes 	29 	
+ManuNet 	00:26:b9:dd:69:2b 	11 (B+G) 	AP 	yes 	23 	
+Marcela 	00:23:69:f5:f6:5b 	6 (B+G) 	AP 	yes 	27
+Marcela 	00:23:69:f5:f6:5b 	6 (B+G) 	AP 	yes 	27 	
+Marcela 	00:23:69:f5:f6:5b 	6 (B+G) 	AP 	yes 	29 	
+Marcela 	00:23:69:f5:f6:5b 	6 (B+G) 	AP 	yes 	30 	
+Maria Laura 	c8:d5:fe:7d:ab:ee 	6 (B+G) 	AP 	yes 	21 	
+marianela 	34:4b:50:41:fb:05 	1 (B+G) 	AP 	yes 	13 	
+marianela 	34:4b:50:41:fb:05 	1 (B+G) 	AP 	yes 	18 	
+marianela 	34:4b:50:41:fb:05 	1 (B+G) 	AP 	yes 	21 	
+marianela 	34:4b:50:41:fb:05 	1 (B+G) 	AP 	yes 	24 	
+marianela 	34:4b:50:41:fb:05 	1 (B+G) 	AP 	yes 	29 	
+marinet 	00:21:91:4d:41:f2 	6 (B+G) 	AP 	yes 	29
+marinet 	00:21:91:4d:41:f2 	6 (B+G) 	AP 	yes 	29 	
+Martinez.Chaparro 	c8:d5:fe:69:d6:dd 	6 (B+G) 	AP 	yes 	26 	
+Martinez.Chaparro 	c8:d5:fe:69:d6:dd 	6 (B+G) 	AP 	yes 	27 	
+maru 	00:14:bf:ea:1e:40 	6 (B+G) 	AP 	yes 	23 	
+maru 	00:14:bf:ea:1e:40 	6 (B+G) 	AP 	yes 	29 	
+MARY 	d8:5d:4c:ac:35:32 	13 (B+G) 	AP 	yes 	18 	
+MATSAN 	d8:5d:4c:b3:69:b6 	1 (B+G) 	AP 	yes 	13 	
+MATSAN 	d8:5d:4c:b3:69:b6 	1 (B+G) 	AP 	yes 	18 	
+MATSAN 	d8:5d:4c:b3:69:b6 	1 (B+G) 	AP 	yes 	20 	
+MATSAN 	d8:5d:4c:b3:69:b6 	1 (B+G) 	AP 	yes 	23 	
+MATSAN 	d8:5d:4c:b3:69:b6 	1 (B+G) 	AP 	yes 	24
+MATSAN 	d8:5d:4c:b3:69:b6 	1 (B+G) 	AP 	yes 	24 	
+MATSAN 	d8:5d:4c:b3:69:b6 	1 (B+G) 	AP 	yes 	26 	
+MATSAN 	d8:5d:4c:b3:69:b6 	1 (B+G) 	AP 	yes 	27 	
+MATSAN 	d8:5d:4c:b3:69:b6 	1 (B+G) 	AP 	yes 	30 	
+MATSAN 	d8:5d:4c:b3:69:b6 	1 (B+G) 	AP 	yes 	32
+MATSAN 	d8:5d:4c:b3:69:b6 	1 (B+G) 	AP 	yes 	32 	
+MATSAN 	d8:5d:4c:b3:69:b6 	1 (B+G) 	AP 	yes 	44 	
+meli8778 	00:27:19:de:f0:28 	6 (B+G) 	AP 	yes 	18 	
+meli8778 	00:27:19:de:f0:28 	6 (B+G) 	AP 	yes 	24 	
+mired 	00:14:bf:ec:f0:22 	6 (B+G) 	AP 	yes 	20 	
+mired 	00:14:bf:ec:f0:22 	6 (B+G) 	AP 	yes 	30 	
+Mopi 	f8:d1:11:92:12:26 	6 (B+G) 	AP 	yes 	20 	
+Morrongo 	f4:ec:38:f4:d6:a0 	5 (B+G) 	AP 	yes 	38 	
+Morrongo 	f4:ec:38:f4:d6:a0 	5 (B+G) 	AP 	yes 	41 	
+Morrongo 	f4:ec:38:f4:d6:a0 	5 (B+G) 	AP 	yes 	43 	
+nacho 	00:21:29:9d:09:fb 	6 (B+G) 	AP 	yes 	20
+nacho 	00:21:29:9d:09:fb 	6 (B+G) 	AP 	yes 	24 	
+nacho 	00:21:29:9d:09:fb 	6 (B+G) 	AP 	yes 	27 	
+nacho 	00:21:29:9d:09:fb 	6 (B+G) 	AP 	yes 	29 	
+nacho 	00:21:29:9d:09:fb 	6 (B+G) 	AP 	yes 	32 	
+nacho 	00:21:29:9d:09:fb 	6 (B+G) 	AP 	yes 	33 	
+nacho 	00:21:29:9d:09:fb 	6 (B+G) 	AP 	yes 	35 	
+nacho 	00:21:29:9d:09:fb 	6 (B+G) 	AP 	yes 	38 	
+nacho 	00:21:29:9d:09:fb 	6 (B+G) 	AP 	yes 	40 	
+nacho 	00:21:29:9d:09:fb 	6 (B+G) 	AP 	yes 	46 	
+NachWan 	00:1a:70:d7:1c:5d 	1 (B+G) 	AP 	yes 	26 	
+NachWan 	00:1a:70:d7:1c:5d 	1 (B+G) 	AP 	yes 	27 	
+NadaPersonal 	98:fc:11:81:ec:82 	1 (B+G) 	AP 	yes 	20 	
+NANCY 	c8:d5:fe:70:14:5c 	11 (B+G) 	AP 	yes 	13 	
+NANCY 	c8:d5:fe:70:14:5c 	11 (B+G) 	AP 	yes 	21 	
+NANCY 	c8:d5:fe:70:14:5c 	11 (B+G) 	AP 	yes 	24 	
+NANCY 	c8:d5:fe:70:14:5c 	11 (B+G) 	AP 	yes 	26 	
+NANCY 	c8:d5:fe:70:14:5c 	11 (B+G) 	AP 	yes 	27
+NANCY 	c8:d5:fe:70:14:5c 	11 (B+G) 	AP 	yes 	27 	
+NANCY 	c8:d5:fe:70:14:5c 	11 (B+G) 	AP 	yes 	29 	
+NANCY 	c8:d5:fe:70:14:5c 	11 (B+G) 	AP 	yes 	30 	
+NANCY 	c8:d5:fe:70:14:5c 	11 (B+G) 	AP 	yes 	32 	
+NANCY 	c8:d5:fe:70:14:5c 	11 (B+G) 	AP 	yes 	43
+Naty 	f4:ec:38:e8:e2:3e 	5 (B+G) 	AP 	yes 	29 	
+Naty 	f4:ec:38:e8:e2:3e 	5 (B+G) 	AP 	yes 	36 	
+NETGEAR 	00:14:6c:fa:e4:0c 	11 (B+G) 	AP 	yes 	16 	
+NETGEAR 	00:14:6c:fa:e4:0c 	11 (B+G) 	AP 	yes 	20
+NETGEAR 	00:14:6c:fa:e4:0c 	11 (B+G) 	AP 	yes 	20 	
+NETGEAR 	00:14:6c:fa:e4:0c 	11 (B+G) 	AP 	yes 	21 	
+NETGEAR 	00:14:6c:fa:e4:0c 	11 (B+G) 	AP 	yes 	23
+NETGEAR 	00:14:6c:fa:e4:0c 	11 (B+G) 	AP 	yes 	23 	
+NETGEAR 	00:14:6c:fa:e4:0c 	11 (B+G) 	AP 	yes 	24 	
+NETGEAR 	00:14:6c:fa:e4:0c 	11 (B+G) 	AP 	yes 	26 	
+NETGEAR 	00:14:6c:fa:e4:0c 	11 (B+G) 	AP 	yes 	27 	
+NETGEAR 	00:14:6c:fa:e4:0c 	11 (B+G) 	AP 	yes 	30 	
+NETGEAR 	00:14:6c:fa:e4:0c 	11 (B+G) 	AP 	yes 	32 	
+NETGEAR 	00:14:6c:fa:e4:0c 	11 (B+G) 	AP 	yes 	35 	
+NICK_1 	74:ea:3a:b5:98:c0 	5 (B+G) 	AP 	no 	24 	
+NICK_1 	74:ea:3a:b5:98:c0 	5 (B+G) 	AP 	no 	32 	
+NICK_1 	74:ea:3a:b5:98:c0 	5 (B+G) 	AP 	no 	36 	
+NICK_1 	74:ea:3a:b5:98:c0 	5 (B+G) 	AP 	no 	38 	
+NICK_1 	74:ea:3a:b5:98:c0 	5 (B+G) 	AP 	no 	40 	
+nnn 	00:1e:58:c3:37:6d 	2 (B+G) 	AP 	yes 	13 	
+NoTeConectes 	00:23:69:c7:78:67 	4 (B+G) 	AP 	yes 	18 	
+NPM 	00:15:6d:ad:9f:3e 	10 (B) 	AP 	no 	20 	
+NPM 	00:15:6d:ad:9f:3e 	10 (B) 	AP 	no 	21 	
+NUEVO SOL 	68:7f:74:ad:9d:bc 	6 (B+G) 	AP 	yes 	33 	
+Nuria WiFi 	00:1c:f0:67:d0:77 	1 (B+G) 	AP 	yes 	27 	
+OtamendiBOYZ 	00:1d:7e:f2:e7:f9 	6 (B+G) 	AP 	yes 	26 	
+OtamendiBOYZ 	00:1d:7e:f2:e7:f9 	6 (B+G) 	AP 	yes 	30 	
+PABLO 	54:e6:fc:b1:16:2a 	9 (B+G) 	AP 	yes 	18 	
+Pablo ga 	c8:d5:fe:6c:f5:3c 	6 (B+G) 	AP 	yes 	18 	
+Pablo ga 	c8:d5:fe:6c:f5:3c 	6 (B+G) 	AP 	yes 	20 	
+Pablo ga 	c8:d5:fe:6c:f5:3c 	6 (B+G) 	AP 	yes 	24 	
+Pablo ga 	c8:d5:fe:6c:f5:3c 	6 (B+G) 	AP 	yes 	26 	
+Pablo ga 	c8:d5:fe:6c:f5:3c 	6 (B+G) 	AP 	yes 	27 	
+Pablo ga 	c8:d5:fe:6c:f5:3c 	6 (B+G) 	AP 	yes 	30 	
+Pablo ga 	c8:d5:fe:6c:f5:3c 	6 (B+G) 	AP 	yes 	47 	
+PAJARITO 	d4:d1:84:15:c2:a4 	1 (B+G) 	AP 	yes 	15
+PAJARITO 	d4:d1:84:15:c2:a4 	1 (B+G) 	AP 	yes 	15 	
+PAJARITO 	d4:d1:84:15:c2:a4 	1 (B+G) 	AP 	yes 	16 	
+PAJARITO 	d4:d1:84:15:c2:a4 	6 (B+G) 	AP 	yes 	24 	
+PAJARITO 	d4:d1:84:15:c2:a4 	6 (B+G) 	AP 	yes 	27 	
+PAJARITO 	d4:d1:84:15:c2:a4 	6 (B+G) 	AP 	yes 	32 	
+PAJARITO 	d4:d1:84:15:c2:a4 	6 (B+G) 	AP 	yes 	33
+PAJARITO 	d4:d1:84:15:c2:a4 	6 (B+G) 	AP 	yes 	33 	
+PAJARITO 	d4:d1:84:15:c2:a4 	6 (B+G) 	AP 	yes 	36 	
+PAJARITO 	d4:d1:84:15:c2:a4 	6 (B+G) 	AP 	yes 	40 	
+PAJARITO 	d4:d1:84:15:c2:a4 	6 (B+G) 	AP 	yes 	41 	
+pascual 	3c:75:4a:23:e7:d8 	1 (B+G) 	AP 	yes 	16 	
+Paulman 	00:26:ed:99:5c:b3 	1 (B+G) 	AP 	yes 	15 	
+Paulman 	00:26:ed:99:5c:b3 	1 (B+G) 	AP 	yes 	18
+Paulman 	00:26:ed:99:5c:b3 	1 (B+G) 	AP 	yes 	18 	
+Paulman 	00:26:ed:99:5c:b3 	1 (B+G) 	AP 	yes 	20 	
+Paulman 	00:26:ed:99:5c:b3 	1 (B+G) 	AP 	yes 	23 	
+Paulman 	00:26:ed:99:5c:b3 	1 (B+G) 	AP 	yes 	24
+Paulman 	00:26:ed:99:5c:b3 	1 (B+G) 	AP 	yes 	24 	
+Paulman 	00:26:ed:99:5c:b3 	1 (B+G) 	AP 	yes 	26 	
+Paulman 	00:26:ed:99:5c:b3 	1 (B+G) 	AP 	yes 	29 	
+Paulman 	00:26:ed:99:5c:b3 	1 (B+G) 	AP 	yes 	33 	
+Paulman 	00:26:ed:99:5c:b3 	1 (B+G) 	AP 	yes 	35 	
+Peludo WIFI 	94:0c:6d:f5:ea:f0 	1 (B+G) 	AP 	yes 	16
+Peludo WIFI 	94:0c:6d:f5:ea:f0 	1 (B+G) 	AP 	yes 	32 	
+PerdonanosEnzo 	c8:d5:fe:6e:14:5e 	11 (B+G) 	AP 	yes 	20
+PerdonanosEnzo 	c8:d5:fe:6e:14:5e 	11 (B+G) 	AP 	yes 	20 	
+PerdonanosEnzo 	c8:d5:fe:6e:14:5e 	11 (B+G) 	AP 	yes 	21 	
+PerdonanosEnzo 	c8:d5:fe:6e:14:5e 	11 (B+G) 	AP 	yes 	23 	
+PerdonanosEnzo 	c8:d5:fe:6e:14:5e 	11 (B+G) 	AP 	yes 	32 	
+perro de la calle 	c8:6c:87:fe:e3:98 	11 (B+G) 	AP 	yes 	26 	
+Pianist 	00:23:cd:f0:cc:9a 	6 (B+G) 	AP 	yes 	38 	
+PLan21 	00:1b:9e:cd:81:78 	6 (B+G) 	AP 	yes 	35 	
+portthru 	1e:3c:e3:ca:e1:ab 	10 (B+G) 	Ad hoc 	no 	16 	
+portthru 	1e:3c:e3:ca:e1:ab 	10 (B+G) 	Ad hoc 	no 	21
+portthru 	1e:3c:e3:ca:e1:ab 	10 (B+G) 	Ad hoc 	no 	21 	
+portthru 	1e:3c:e3:ca:e1:ab 	10 (B+G) 	Ad hoc 	no 	23 	
+portthru 	1e:3c:e3:ca:e1:ab 	10 (B+G) 	Ad hoc 	no 	26 	
+primuchas@speedy 	c8:d5:fe:7d:d3:0d 	1 (B+G) 	AP 	yes 	23 	
+privada 	00:27:19:fa:0c:82 	7 (B+G) 	AP 	yes 	23 	
+privada 	00:27:19:fa:0c:82 	7 (B+G) 	AP 	yes 	30
+privada 	00:27:19:fa:0c:82 	7 (B+G) 	AP 	yes 	30 	
+privada 	00:27:19:fa:0c:82 	7 (B+G) 	AP 	yes 	32 	
+Puto el que lee 	68:7f:74:7b:cb:42 	6 (B+G) 	AP 	yes 	23 	
+R2D2 	00:16:b6:19:7a:90 	6 (B+G) 	AP 	yes 	29 	
+R2D2 	00:16:b6:19:7a:90 	6 (B+G) 	AP 	yes 	30 	
+R2D2 	00:16:b6:19:7a:90 	6 (B+G) 	AP 	yes 	32 	
+R2D2 	00:16:b6:19:7a:90 	6 (B+G) 	AP 	yes 	35 	
+RedCasa 	00:e0:4c:f7:d8:39 	6 (B+G) 	AP 	yes 	26
+RedCasa 	00:e0:4c:f7:d8:39 	6 (B+G) 	AP 	yes 	27 	
+RedFede 	00:02:2a:eb:15:6c 	11 (B+G) 	AP 	no 	16
+River 	68:7f:74:dc:42:81 	6 (B+G) 	AP 	yes 	27 	
+River 	68:7f:74:dc:42:81 	6 (B+G) 	AP 	yes 	29
+River 	68:7f:74:dc:42:81 	6 (B+G) 	AP 	yes 	30 	
+River 	68:7f:74:dc:42:81 	6 (B+G) 	AP 	yes 	32
+River 	68:7f:74:dc:42:81 	6 (B+G) 	AP 	yes 	32 	
+River 	68:7f:74:dc:42:81 	6 (B+G) 	AP 	yes 	33 	
+River 	68:7f:74:dc:42:81 	6 (B+G) 	AP 	yes 	35 	
+River 	68:7f:74:dc:42:81 	6 (B+G) 	AP 	yes 	38 	
+River 	68:7f:74:dc:42:81 	6 (B+G) 	AP 	yes 	41 	
+River 	68:7f:74:dc:42:81 	6 (B+G) 	AP 	yes 	44 	
+rodrigo 	54:e6:fc:dd:7a:ae 	1 (B+G) 	AP 	yes 	16 	
+Rodro no presta wifi 	54:e6:fc:fc:ff:a0 	1 (B+G) 	AP 	yes 	20 	
+rolinga 	00:25:f1:85:14:78 	1 (B+G) 	AP 	yes 	16 	
+R O M I N A 	00:1e:e5:40:2b:e8 	6 (B+G) 	AP 	yes 	20 	
+romulo 	00:0e:2e:aa:b8:30 	10 (B+G) 	AP 	yes 	15 	
+romulo 	00:0e:2e:aa:b8:30 	10 (B+G) 	AP 	yes 	18 	
+rutenberg 	00:1d:0f:ce:73:72 	6 (B+G) 	AP 	yes 	32 	
+rutenberg 	00:1d:0f:ce:73:72 	6 (B+G) 	AP 	yes 	35 	
+SANDRA 	38:60:77:c1:34:29 	11 (B+G) 	AP 	yes 	10
+SANDRA 	38:60:77:c1:34:29 	11 (B+G) 	AP 	yes 	12 	
+sandra_ft 	cc:7d:37:ee:5f:96 	11 (B+G) 	AP 	yes 	13 	
+sandra_ft 	cc:7d:37:ee:5f:96 	1 (B+G) 	AP 	yes 	13
+sandra_ft 	cc:7d:37:ee:5f:96 	1 (B+G) 	AP 	yes 	24 	
+Santi 	70:7e:43:ba:3c:c2 	11 (B+G) 	AP 	yes 	15 	
+Santi 	70:7e:43:ba:3c:c2 	11 (B+G) 	AP 	yes 	20 	
+Santi 	70:7e:43:ba:3c:c2 	11 (B+G) 	AP 	yes 	24 	
+Santi 	70:7e:43:ba:3c:c2 	11 (B+G) 	AP 	yes 	27 	
+Seba-M 	00:21:29:63:3f:70 	6 (B+G) 	AP 	yes 	20 	
+Seba-M 	00:21:29:63:3f:70 	6 (B+G) 	AP 	yes 	21 	
+Seba-M 	00:21:29:63:3f:70 	6 (B+G) 	AP 	yes 	23 	
+Seba-M 	00:21:29:63:3f:70 	6 (B+G) 	AP 	yes 	29 	
+Seba-M 	00:21:29:63:3f:70 	6 (B+G) 	AP 	yes 	36 	
+Seba-M 	00:21:29:63:3f:70 	6 (B+G) 	AP 	yes 	38 	
+SMOR 	00:23:cd:1d:8c:3e 	9 (B+G) 	AP 	yes 	18 	
+SMOR 	00:23:cd:1d:8c:3e 	9 (B+G) 	AP 	yes 	20
+SMOR 	00:23:cd:1d:8c:3e 	9 (B+G) 	AP 	yes 	20 	
+SMOR 	00:23:cd:1d:8c:3e 	9 (B+G) 	AP 	yes 	21 	
+SOSA WIFI 	00:1f:c6:6d:67:59 	11 (B+G) 	AP 	no 	23 	
+Speedy-2105 	c8:d5:fe:15:a1:db 	1 (B+G) 	AP 	yes 	18
+Speedy_9qi1nz 	c8:6c:87:58:e4:6f 	11 (B+G) 	AP 	yes 	20 	
+Speedy_9qi1nz 	c8:6c:87:58:e4:6f 	11 (B+G) 	AP 	yes 	24 	
+Speedy-aae8 	c8:d5:fe:15:52:17 	11 (B+G) 	AP 	yes 	18 	
+Speedy-aae8 	c8:d5:fe:15:52:17 	11 (B+G) 	AP 	yes 	26 	
+Speedy-b397 	00:e0:4d:a1:3c:34 	11 (B+G) 	AP 	yes 	13 	
+Speedy-b397 	00:e0:4d:a1:3c:34 	11 (B+G) 	AP 	yes 	15 	
+Speedy-b397 	00:e0:4d:a1:3c:34 	11 (B+G) 	AP 	yes 	18 	
+Speedy-b397 	00:e0:4d:a1:3c:34 	11 (B+G) 	AP 	yes 	20 	
+Speedy-b397 	00:e0:4d:a1:3c:34 	11 (B+G) 	AP 	yes 	21 	
+Speedy-b397 	00:e0:4d:a1:3c:34 	11 (B+G) 	AP 	yes 	23 	
+Speedy-dce2 	c8:d5:fe:15:76:9b 	11 (B+G) 	AP 	yes 	20 	
+Speedy-dce2 	c8:d5:fe:15:76:9b 	11 (B+G) 	AP 	yes 	23 	
+Speedy-dce2 	c8:d5:fe:15:76:9b 	11 (B+G) 	AP 	yes 	24 	
+Speedy-e4d8 	00:e0:4d:2c:6f:fc 	11 (B+G) 	AP 	yes 	16 	
+Speedy-e4d8 	00:e0:4d:2c:6f:fc 	11 (B+G) 	AP 	yes 	26 	
+SpeedyEster 	c8:d5:fe:6d:24:bc 	11 (B+G) 	AP 	yes 	20
+SpeedyEster 	c8:d5:fe:6d:24:bc 	11 (B+G) 	AP 	yes 	21 	
+SpeedyEster 	c8:d5:fe:6d:24:bc 	11 (B+G) 	AP 	yes 	26 	
+SpeedyEster 	c8:d5:fe:6d:24:bc 	11 (B+G) 	AP 	yes 	27 	
+SpeedyEster 	c8:d5:fe:6d:24:bc 	11 (B+G) 	AP 	yes 	29 	
+SpeedyEster 	c8:d5:fe:6d:24:bc 	11 (B+G) 	AP 	yes 	30 	
+SpeedyEster 	c8:d5:fe:6d:24:bc 	11 (B+G) 	AP 	yes 	32 	
+SpeedyEster 	c8:d5:fe:6d:24:bc 	11 (B+G) 	AP 	yes 	33 	
+Speedy_oot3mq 	50:67:f0:9d:ff:78 	11 (B+G) 	AP 	yes 	18 	
+Speedy_oot3mq 	50:67:f0:9d:ff:78 	11 (B+G) 	AP 	yes 	27 	
+Speedy_oot3mq 	50:67:f0:9d:ff:78 	11 (B+G) 	AP 	yes 	29 	
+SpeedyWiFi 	00:26:ed:ae:f1:40 	11 (B+G) 	AP 	yes 	20
+SpeedyWiFi 	00:26:ed:ae:f1:40 	11 (B+G) 	AP 	yes 	20 	
+SpeedyWiFi 	00:26:ed:af:a6:c8 	1 (B+G) 	AP 	yes 	12
+SpeedyWiFi 	00:26:ed:af:a6:c8 	1 (B+G) 	AP 	yes 	18 	
+SpeedyWiFi 	00:26:ed:af:a6:c8 	1 (B+G) 	AP 	yes 	20 	
+SpeedyWiFi 	00:26:ed:af:a6:c8 	1 (B+G) 	AP 	yes 	21 	
+SpeedyWiFi 	00:26:ed:af:a6:c8 	1 (B+G) 	AP 	yes 	23 	
+SpeedyWiFi 	00:26:ed:af:a6:c8 	1 (B+G) 	AP 	yes 	24 	
+SpeedyWiFi 	c8:d5:fe:7d:af:98 	6 (B+G) 	AP 	yes 	23 	
+SpeedyWiFi 	c8:d5:fe:7d:af:98 	6 (B+G) 	AP 	yes 	24 	
+SpeedyWiFii 	c8:d5:fe:6e:0d:81 	1 (B+G) 	AP 	yes 	26 	
+SpeedyWiFii 	c8:d5:fe:6e:0d:81 	1 (B+G) 	AP 	yes 	27 	
+spred 	c8:d5:fe:0f:75:a4 	1 (B+G) 	AP 	yes 	10
+spred 	c8:d5:fe:0f:75:a4 	1 (B+G) 	AP 	yes 	13 	
+spred 	c8:d5:fe:0f:75:a4 	1 (B+G) 	AP 	yes 	18
+spred 	c8:d5:fe:0f:75:a4 	1 (B+G) 	AP 	yes 	18 	
+spred 	c8:d5:fe:0f:75:a4 	1 (B+G) 	AP 	yes 	20
+spred 	c8:d5:fe:0f:75:a4 	1 (B+G) 	AP 	yes 	20 	
+spred 	c8:d5:fe:0f:75:a4 	1 (B+G) 	AP 	yes 	21 	
+spred 	c8:d5:fe:0f:75:a4 	1 (B+G) 	AP 	yes 	23 	
+spred 	c8:d5:fe:0f:75:a4 	1 (B+G) 	AP 	yes 	24 	
+spred 	c8:d5:fe:0f:75:a4 	1 (B+G) 	AP 	yes 	26 	
+spred 	c8:d5:fe:0f:75:a4 	1 (B+G) 	AP 	yes 	27 	
+Stefi 	34:4b:50:41:dc:25 	1 (B+G) 	AP 	yes 	18 	
+Stefi 	34:4b:50:41:dc:25 	1 (B+G) 	AP 	yes 	24
+Stefi 	34:4b:50:41:dc:25 	1 (B+G) 	AP 	yes 	24 	
+susu-net 	e0:69:95:58:cc:f5 	11 (B+G) 	AP 	yes 	15 	
+Taitito 	34:4b:50:41:ec:cf 	11 (B+G) 	AP 	yes 	16 	
+Taitito 	34:4b:50:41:ec:cf 	11 (B+G) 	AP 	yes 	20 	
+Taitito 	34:4b:50:41:ec:cf 	11 (B+G) 	AP 	yes 	23 	
+Telecentro-1240 	e0:69:95:21:42:5c 	1 (B+G) 	AP 	yes 	12 	
+Telecentro-1240 	e0:69:95:21:42:5c 	1 (B+G) 	AP 	yes 	13 	
+Telecentro-1240 	e0:69:95:21:42:5c 	1 (B+G) 	AP 	yes 	16 	
+Telecentro-1240 	e0:69:95:21:42:5c 	1 (B+G) 	AP 	yes 	18
+Telecentro-1240 	e0:69:95:21:42:5c 	1 (B+G) 	AP 	yes 	18 	
+Telecentro-1240 	e0:69:95:21:42:5c 	1 (B+G) 	AP 	yes 	20 	
+Telecentro-1240 	e0:69:95:21:42:5c 	1 (B+G) 	AP 	yes 	21 	
+Telecentro-17a0 	e0:69:95:92:85:ec 	1 (B+G) 	AP 	yes 	12 	
+Telecentro-17a0 	e0:69:95:92:85:ec 	1 (B+G) 	AP 	yes 	13 	
+Telecentro-17a0 	e0:69:95:92:85:ec 	1 (B+G) 	AP 	yes 	15 	
+Telecentro-2832 	e0:69:95:76:0e:20 	11 (B+G) 	AP 	yes 	18 	
+Telecentro-2832 	e0:69:95:76:0e:20 	11 (B+G) 	AP 	yes 	20 	
+Telecentro-2832 	e0:69:95:76:0e:20 	11 (B+G) 	AP 	yes 	24
+Telecentro-2832 	e0:69:95:76:0e:20 	1 (B+G) 	AP 	yes 	12
+Telecentro-2930 	e0:69:95:2f:f1:ed 	1 (B+G) 	AP 	yes 	21 	
+Telecentro-2930 	e0:69:95:2f:f1:ed 	1 (B+G) 	AP 	yes 	23 	
+Telecentro-2944 	e0:69:95:5a:1e:7e 	1 (B+G) 	AP 	yes 	15 	
+Telecentro-2d82 	20:cf:30:5b:db:6a 	6 (B+G) 	AP 	yes 	18 	
+Telecentro-2d82 	20:cf:30:5b:db:6a 	6 (B+G) 	AP 	yes 	21 	
+Telecentro-2d82 	20:cf:30:5b:db:6a 	6 (B+G) 	AP 	yes 	32 	
+Telecentro-2d82 	20:cf:30:5b:db:6a 	6 (B+G) 	AP 	yes 	33 	
+Telecentro-39fc 	e0:69:95:8e:2c:86 	1 (B+G) 	AP 	yes 	15 	
+Telecentro-3a38 	20:cf:30:3f:f6:16 	1 (B+G) 	AP 	yes 	13 	
+Telecentro-3a38 	20:cf:30:3f:f6:16 	1 (B+G) 	AP 	yes 	16 	
+Telecentro-3a38 	20:cf:30:3f:f6:16 	1 (B+G) 	AP 	yes 	18 	
+Telecentro-3a38 	20:cf:30:3f:f6:16 	1 (B+G) 	AP 	yes 	20 	
+Telecentro-3a38 	20:cf:30:3f:f6:16 	1 (B+G) 	AP 	yes 	21 	
+Telecentro-3a38 	20:cf:30:3f:f6:16 	1 (B+G) 	AP 	yes 	23 	
+Telecentro-3a38 	20:cf:30:3f:f6:16 	1 (B+G) 	AP 	yes 	24 	
+Telecentro-3cc4 	20:cf:30:41:0d:80 	6 (B+G) 	AP 	yes 	27 	
+Telecentro-3cc4 	20:cf:30:41:0d:80 	6 (B+G) 	AP 	yes 	29 	
+Telecentro-464a 	e0:69:95:76:4d:74 	1 (B+G) 	AP 	yes 	12 	
+Telecentro-464a 	e0:69:95:76:4d:74 	1 (B+G) 	AP 	yes 	13 	
+Telecentro-6958 	e0:69:95:60:11:91 	11 (B+G) 	AP 	yes 	21
+Telecentro-6c5a 	e0:69:95:92:dc:c1 	11 (B+G) 	AP 	yes 	16 	
+Telecentro-6c5a 	e0:69:95:92:dc:c1 	11 (B+G) 	AP 	yes 	20 	
+Telecentro-6c5a 	e0:69:95:92:dc:c1 	11 (B+G) 	AP 	yes 	21 	
+Telecentro-6c5a 	e0:69:95:92:dc:c1 	11 (B+G) 	AP 	yes 	24 	
+Telecentro-7cdc 	48:5b:39:87:ab:34 	1 (B+G) 	AP 	yes 	23 	
+Telecentro-7cdc 	48:5b:39:87:ab:34 	1 (B+G) 	AP 	yes 	26 	
+Telecentro-8c8e 	e0:69:95:52:d3:4d 	1 (B+G) 	AP 	yes 	16 	
+Telecentro-c446 	e0:69:95:21:67:5c 	11 (B+G) 	AP 	yes 	26 	
+Telecentro-c446 	e0:69:95:21:67:5c 	1 (B+G) 	AP 	yes 	18 	
+Telecentro-c446 	e0:69:95:21:67:5c 	1 (B+G) 	AP 	yes 	20 	
+Telecentro-c446 	e0:69:95:21:67:5c 	1 (B+G) 	AP 	yes 	21 	
+Telecentro-c446 	e0:69:95:21:67:5c 	1 (B+G) 	AP 	yes 	24 	
+tomate loco 	00:24:a5:c9:f1:d0 	2 (B+G) 	AP 	yes 	23 	
+tomate loco 	00:24:a5:c9:f1:d0 	2 (B+G) 	AP 	yes 	26 	
+Topcom 	00:0e:2e:fe:90:bc 	3 (B+G) 	AP 	no 	24
+TP-LINK_A9E6A4 	74:ea:3a:a9:e6:a4 	1 (B+G) 	AP 	no 	10
+TP-LINK_A9E6A4 	74:ea:3a:a9:e6:a4 	1 (B+G) 	AP 	no 	33 	
+TP-LINK_A9E6A4 	74:ea:3a:a9:e6:a4 	1 (B+G) 	AP 	no 	36 	
+TP-LINK_C48110 	00:27:19:c4:81:10 	6 (B+G) 	AP 	yes 	26 	
+TP-LINK_C5CAE4 	00:27:19:c5:ca:e4 	6 (B+G) 	AP 	yes 	15 	
+TP-LINK_C5CAE4 	00:27:19:c5:ca:e4 	6 (B+G) 	AP 	yes 	23 	
+TP-LINK_C5CAE4 	00:27:19:c5:ca:e4 	6 (B+G) 	AP 	yes 	30 	
+TP-LINK_CBA0F8 	00:25:86:cb:a0:f8 	6 (B+G) 	AP 	no 	16 	
+TP-LINK_CBA0F8 	00:25:86:cb:a0:f8 	6 (B+G) 	AP 	no 	23 	
+TP-LINK_CBA0F8 	00:25:86:cb:a0:f8 	6 (B+G) 	AP 	no 	26 	
+TP-LINK_CBA0F8 	00:25:86:cb:a0:f8 	6 (B+G) 	AP 	no 	27 	
+TP-LINK_CBA0F8 	00:25:86:cb:a0:f8 	6 (B+G) 	AP 	no 	29 	
+TP-LINK_CBA0F8 	00:25:86:cb:a0:f8 	6 (B+G) 	AP 	no 	33 	
+TP-LINK_CD76C4 	00:23:cd:cd:76:c4 	6 (B+G) 	AP 	yes 	26
+UBNT 	00:27:22:40:7d:ea 	9 (B+G) 	AP 	yes 	23 	
+UBNT 	00:27:22:40:7d:ea 	9 (B+G) 	AP 	yes 	30 	
+UBNT 	00:27:22:40:7d:ea 	9 (B+G) 	AP 	yes 	33 	
+UBNT 	00:27:22:40:7d:ea 	9 (B+G) 	AP 	yes 	38 	
+valiger 	00:25:9c:3a:99:16 	6 (B+G) 	AP 	yes 	23 	
+valiger 	00:25:9c:3a:99:16 	6 (B+G) 	AP 	yes 	26 	
+valiger 	00:25:9c:3a:99:16 	6 (B+G) 	AP 	yes 	27 	
+valiger 	00:25:9c:3a:99:16 	6 (B+G) 	AP 	yes 	29
+valiger 	00:25:9c:3a:99:16 	6 (B+G) 	AP 	yes 	30 	
+valiger 	00:25:9c:3a:99:16 	6 (B+G) 	AP 	yes 	32 	
+valiger 	00:25:9c:3a:99:16 	6 (B+G) 	AP 	yes 	33 	
+valiger 	00:25:9c:3a:99:16 	6 (B+G) 	AP 	yes 	35 	
+valiger 	00:25:9c:3a:99:16 	6 (B+G) 	AP 	yes 	36 	
+valiger 	00:25:9c:3a:99:16 	6 (B+G) 	AP 	yes 	40
+valiger 	00:25:9c:3a:99:16 	6 (B+G) 	AP 	yes 	40 	
+Wifi Abi 	78:44:76:05:b6:b0 	5 (B+G) 	AP 	yes 	27 	
+Wifi Abi 	78:44:76:05:b6:b0 	5 (B+G) 	AP 	yes 	33 	
+Wifi Abi 	78:44:76:05:b6:b0 	5 (B+G) 	AP 	yes 	36 	
+wi fi arnet 	38:22:9d:01:ff:ca 	1 (B+G) 	AP 	yes 	12
+wi fi arnet 	38:22:9d:01:ff:ca 	1 (B+G) 	AP 	yes 	13 	
+wi fi arnet 	38:22:9d:01:ff:ca 	1 (B+G) 	AP 	yes 	29 	
+wi fi arnet 	38:22:9d:01:ff:ca 	1 (B+G) 	AP 	yes 	30 	
+wi fi arnet 	38:22:9d:01:ff:ca 	1 (B+G) 	AP 	yes 	33 	
+wi fi arnet 	38:22:9d:01:ff:ca 	1 (B+G) 	AP 	yes 	9
+Wi-Fi Arnet 	50:67:f0:a9:2a:b7 	11 (B+G) 	AP 	yes 	32 	
+Wi-Fi Arnet 	50:67:f0:a9:2a:b7 	11 (B+G) 	AP 	yes 	36 	
+Wi-Fi Arnet 	50:67:f0:a9:2a:b7 	1 (B+G) 	AP 	yes 	10
+Wi-Fi Arnet 	50:67:f0:a9:2a:b7 	1 (B+G) 	AP 	yes 	16 	
+Wi-Fi Arnet 	50:67:f0:a9:2a:b7 	1 (B+G) 	AP 	yes 	18 	
+Wi-Fi Arnet 	50:67:f0:a9:2a:b7 	1 (B+G) 	AP 	yes 	21
+Wi-Fi Arnet 	50:67:f0:a9:2a:b7 	1 (B+G) 	AP 	yes 	26 	
+Wi-Fi Arnet 	50:67:f0:a9:2a:b7 	1 (B+G) 	AP 	yes 	27 	
+Wi-Fi Arnet 	50:67:f0:a9:2a:b7 	1 (B+G) 	AP 	yes 	30 	
+wifi casa 	00:1b:11:4e:b3:07 	3 (B+G) 	AP 	yes 	24 	
+wifi casa 	00:1b:11:4e:b3:07 	3 (B+G) 	AP 	yes 	29 	
+WIFI_D&A 	e0:69:95:5a:3f:9a 	11 (B+G) 	AP 	yes 	20 	
+WiFide luca 	1c:14:48:db:4e:ce 	9 (B+G) 	AP 	yes 	15
+WiFide luca 	1c:14:48:db:4e:ce 	9 (B+G) 	AP 	yes 	15 	
+WIFI@Ga's 	54:e6:fc:b3:99:c2 	4 (B+G) 	AP 	yes 	23 	
+WIFI@Ga's 	54:e6:fc:b3:99:c2 	4 (B+G) 	AP 	yes 	29
+WIFI@Ga's 	54:e6:fc:b3:99:c2 	4 (B+G) 	AP 	yes 	30 	
+WIFI@Ga's 	54:e6:fc:b3:99:c2 	4 (B+G) 	AP 	yes 	33 	
+WifiMia 	c8:d5:fe:14:f3:ef 	1 (B+G) 	AP 	yes 	20 	
+WLS 	00:0f:b5:6f:9c:d4 	11 (B+G) 	AP 	yes 	24 	
+yoga 	d8:5d:4c:f9:31:7c 	11 (B+G) 	AP 	yes 	16 	
+yoko 	00:26:ed:af:a4:d8 	1 (B+G) 	AP 	yes 	26 	
+Zabalza 	00:24:01:1a:a0:49 	2 (B+G) 	AP 	yes 	10 	
+Zabalza 	00:24:01:1a:a0:49 	2 (B+G) 	AP 	yes 	15 	
+Zabalza 	00:24:01:1a:a0:49 	2 (B+G) 	AP 	yes 	16 	
+Zabalza 	00:24:01:1a:a0:49 	2 (B+G) 	AP 	yes 	18 	
+Zabalza 	00:24:01:1a:a0:49 	2 (B+G) 	AP 	yes 	20 	
+Zabalza 	00:24:01:1a:a0:49 	2 (B+G) 	AP 	yes 	21 	
+Zabalza 	00:24:01:1a:a0:49 	2 (B+G) 	AP 	yes 	23 	
+Zabalza 	00:24:01:1a:a0:49 	2 (B+G) 	AP 	yes 	24 	
+Zabalza 	00:24:01:1a:a0:49 	2 (B+G) 	AP 	yes 	26 	
+Zabalza 	00:24:01:1a:a0:49 	2 (B+G) 	AP 	yes 	32 	
