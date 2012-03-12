@@ -1,0 +1,10 @@
+Draw AccessPoints
+=================
+
+Usage
+-----
+
+::
+
+	./aps2dot >aps.dot;neato -Tpng aps.dot >aps.png
+
